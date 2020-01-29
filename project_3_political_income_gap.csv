@@ -1,0 +1,3010 @@
+,caseid_new,partner_political,resondent_political,income_gap_raw,same_political,income_gap,respondent_earn_more
+0,22526,democrat,democrat,partner earned more,1,1.0,0.0
+1,23286,democrat,democrat,i earned more,1,1.0,1.0
+2,26315,democrat,democrat,i earned more,1,1.0,1.0
+3,28536,democrat,democrat,i earned more,1,1.0,1.0
+4,29584,democrat,democrat,partner earned more,1,1.0,0.0
+5,31456,independent,democrat,partner earned more,0,1.0,0.0
+6,32656,democrat,democrat,partner earned more,1,1.0,0.0
+7,33536,democrat,democrat,we earned about the same amount,1,0.0,
+8,34341,independent,democrat,i earned more,0,1.0,1.0
+9,35653,democrat,democrat,partner earned more,1,1.0,0.0
+10,36493,democrat,democrat,partner earned more,1,1.0,0.0
+11,38895,no preference,democrat,partner earned more,0,1.0,0.0
+12,40335,democrat,democrat,i earned more,1,1.0,1.0
+13,41505,democrat,democrat,partner earned more,1,1.0,0.0
+14,43381,democrat,democrat,i earned more,1,1.0,1.0
+15,44486,democrat,democrat,partner earned more,1,1.0,0.0
+16,46746,democrat,democrat,i earned more,1,1.0,1.0
+17,48225,republican,republican,i earned more,1,1.0,1.0
+18,49731,independent,republican,i earned more,0,1.0,1.0
+19,51376,democrat,democrat,i earned more,1,1.0,1.0
+20,54415,independent,republican,partner earned more,0,1.0,0.0
+21,55365,democrat,democrat,partner earned more,1,1.0,0.0
+22,55686,independent,democrat,partner earned more,0,1.0,0.0
+23,56536,democrat,democrat,i earned more,1,1.0,1.0
+24,58295,republican,republican,i earned more,1,1.0,1.0
+25,60743,democrat,democrat,we earned about the same amount,1,0.0,
+26,62283,republican,republican,partner earned more,1,1.0,0.0
+27,64331,independent,democrat,partner earned more,0,1.0,0.0
+28,65446,democrat,democrat,partner earned more,1,1.0,0.0
+29,66484,independent,democrat,partner earned more,0,1.0,0.0
+30,68546,democrat,democrat,i earned more,1,1.0,1.0
+31,69311,democrat,democrat,i earned more,1,1.0,1.0
+32,72515,republican,republican,partner earned more,1,1.0,0.0
+33,73603,no preference,republican,partner earned more,0,1.0,0.0
+34,75621,republican,republican,i earned more,1,1.0,1.0
+35,77256,democrat,democrat,we earned about the same amount,1,0.0,
+36,78351,democrat,democrat,i earned more,1,1.0,1.0
+37,79731,democrat,democrat,partner earned more,1,1.0,0.0
+38,80656,democrat,democrat,we earned about the same amount,1,0.0,
+39,81286,independent,republican,i earned more,0,1.0,1.0
+40,82431,no preference,democrat,i earned more,0,1.0,1.0
+41,83431,republican,republican,partner earned more,1,1.0,0.0
+42,85281,republican,republican,partner earned more,1,1.0,0.0
+43,86591,democrat,democrat,i earned more,1,1.0,1.0
+44,89766,democrat,democrat,we earned about the same amount,1,0.0,
+45,94431,democrat,democrat,i earned more,1,1.0,1.0
+46,95431,independent,republican,i earned more,0,1.0,1.0
+47,97195,independent,republican,i earned more,0,1.0,1.0
+48,99611,no preference,democrat,partner earned more,0,1.0,0.0
+49,100331,independent,democrat,i earned more,0,1.0,1.0
+50,103545,republican,democrat,i earned more,0,1.0,1.0
+51,104565,independent,democrat,partner earned more,0,1.0,0.0
+52,106296,no preference,republican,we earned about the same amount,0,0.0,
+53,108381,no preference,republican,partner earned more,0,1.0,0.0
+54,108501,democrat,democrat,i earned more,1,1.0,1.0
+55,110316,independent,democrat,i earned more,0,1.0,1.0
+56,112646,democrat,democrat,partner earned more,1,1.0,0.0
+57,113235,independent,democrat,partner earned more,0,1.0,0.0
+58,114276,republican,republican,partner earned more,1,1.0,0.0
+59,115473,democrat,democrat,i earned more,1,1.0,1.0
+60,116271,no preference,democrat,i earned more,0,1.0,1.0
+61,117401,republican,other,partner earned more,0,1.0,0.0
+62,119371,independent,democrat,i earned more,0,1.0,1.0
+63,119663,democrat,republican,partner earned more,0,1.0,0.0
+64,120456,no preference,democrat,partner earned more,0,1.0,0.0
+65,121515,democrat,republican,partner earned more,0,1.0,0.0
+66,122441,democrat,democrat,partner earned more,1,1.0,0.0
+67,125346,no preference,republican,we earned about the same amount,0,0.0,
+68,126231,democrat,democrat,partner earned more,1,1.0,0.0
+69,128441,republican,democrat,partner earned more,0,1.0,0.0
+70,130266,no preference,republican,partner earned more,0,1.0,0.0
+71,131561,republican,republican,partner earned more,1,1.0,0.0
+72,133521,democrat,republican,partner earned more,0,1.0,0.0
+73,134275,democrat,republican,i earned more,0,1.0,1.0
+74,134461,no preference,republican,i earned more,0,1.0,1.0
+75,135736,democrat,democrat,partner earned more,1,1.0,0.0
+76,136275,no preference,democrat,i earned more,0,1.0,1.0
+77,137215,democrat,republican,we earned about the same amount,0,0.0,
+78,140511,republican,republican,partner earned more,1,1.0,0.0
+79,142561,democrat,democrat,refused,1,,
+80,143746,independent,democrat,we earned about the same amount,0,0.0,
+81,144545,no preference,other,partner earned more,0,1.0,0.0
+82,145611,independent,republican,i earned more,0,1.0,1.0
+83,147245,democrat,democrat,i earned more,1,1.0,1.0
+84,147525,republican,democrat,i earned more,0,1.0,1.0
+85,150411,democrat,democrat,we earned about the same amount,1,0.0,
+86,151506,independent,republican,i earned more,0,1.0,1.0
+87,152762,democrat,democrat,we earned about the same amount,1,0.0,
+88,154531,democrat,democrat,i earned more,1,1.0,1.0
+89,155561,independent,republican,partner earned more,0,1.0,0.0
+90,156486,independent,democrat,partner earned more,0,1.0,0.0
+91,157421,republican,republican,partner earned more,1,1.0,0.0
+92,158261,democrat,democrat,partner earned more,1,1.0,0.0
+93,161715,independent,democrat,we earned about the same amount,0,0.0,
+94,162521,republican,republican,partner earned more,1,1.0,0.0
+95,163195,democrat,democrat,we earned about the same amount,1,0.0,
+96,166381,independent,republican,i earned more,0,1.0,1.0
+97,167245,republican,democrat,partner earned more,0,1.0,0.0
+98,168646,independent,democrat,partner earned more,0,1.0,0.0
+99,171391,independent,republican,we earned about the same amount,0,0.0,
+100,172291,democrat,democrat,partner earned more,1,1.0,0.0
+101,173671,democrat,democrat,i earned more,1,1.0,1.0
+102,174603,democrat,democrat,partner earned more,1,1.0,0.0
+103,176495,democrat,democrat,i earned more,1,1.0,1.0
+104,177386,no preference,republican,i earned more,0,1.0,1.0
+105,179461,independent,republican,i earned more,0,1.0,1.0
+106,180415,no preference,democrat,partner earned more,0,1.0,0.0
+107,181403,no preference,democrat,we earned about the same amount,0,0.0,
+108,185405,democrat,democrat,partner earned more,1,1.0,0.0
+109,187511,republican,republican,partner earned more,1,1.0,0.0
+110,189411,republican,republican,i earned more,1,1.0,1.0
+111,190215,republican,republican,we earned about the same amount,1,0.0,
+112,191546,democrat,democrat,partner earned more,1,1.0,0.0
+113,192341,republican,republican,i earned more,1,1.0,1.0
+114,193446,republican,democrat,partner earned more,0,1.0,0.0
+115,194441,democrat,democrat,partner earned more,1,1.0,0.0
+116,196851,independent,republican,i earned more,0,1.0,1.0
+117,197486,democrat,democrat,i earned more,1,1.0,1.0
+118,199261,republican,republican,partner earned more,1,1.0,0.0
+119,202631,democrat,democrat,we earned about the same amount,1,0.0,
+120,203562,independent,democrat,i earned more,0,1.0,1.0
+121,204561,democrat,democrat,partner earned more,1,1.0,0.0
+122,205421,republican,republican,i earned more,1,1.0,1.0
+123,206541,democrat,democrat,partner earned more,1,1.0,0.0
+124,209345,independent,democrat,we earned about the same amount,0,0.0,
+125,211571,independent,democrat,partner earned more,0,1.0,0.0
+126,212505,democrat,democrat,partner earned more,1,1.0,0.0
+127,214591,democrat,republican,partner earned more,0,1.0,0.0
+128,217365,democrat,democrat,partner earned more,1,1.0,0.0
+129,218426,democrat,democrat,i earned more,1,1.0,1.0
+130,219265,independent,republican,i earned more,0,1.0,1.0
+131,220411,independent,democrat,i earned more,0,1.0,1.0
+132,221225,independent,democrat,i earned more,0,1.0,1.0
+133,222281,republican,republican,i earned more,1,1.0,1.0
+134,224425,no preference,republican,i earned more,0,1.0,1.0
+135,225411,republican,republican,partner earned more,1,1.0,0.0
+136,225516,democrat,democrat,we earned about the same amount,1,0.0,
+137,226381,democrat,democrat,i earned more,1,1.0,1.0
+138,228741,democrat,democrat,partner earned more,1,1.0,0.0
+139,229666,democrat,republican,i earned more,0,1.0,1.0
+140,230271,democrat,democrat,partner earned more,1,1.0,0.0
+141,230651,independent,democrat,i earned more,0,1.0,1.0
+142,231421,republican,republican,partner earned more,1,1.0,0.0
+143,233441,republican,republican,partner earned more,1,1.0,0.0
+144,236195,democrat,democrat,partner earned more,1,1.0,0.0
+145,236456,democrat,democrat,i earned more,1,1.0,1.0
+146,239561,independent,republican,i earned more,0,1.0,1.0
+147,242355,no preference,republican,we earned about the same amount,0,0.0,
+148,244431,democrat,republican,i earned more,0,1.0,1.0
+149,245671,democrat,democrat,we earned about the same amount,1,0.0,
+150,246531,republican,republican,partner earned more,1,1.0,0.0
+151,247475,independent,republican,i earned more,0,1.0,1.0
+152,249441,democrat,republican,i earned more,0,1.0,1.0
+153,250546,democrat,republican,we earned about the same amount,0,0.0,
+154,251822,republican,republican,i earned more,1,1.0,1.0
+155,253483,democrat,democrat,partner earned more,1,1.0,0.0
+156,254236,republican,democrat,partner earned more,0,1.0,0.0
+157,255375,republican,democrat,partner earned more,0,1.0,0.0
+158,256696,democrat,republican,we earned about the same amount,0,0.0,
+159,257822,independent,republican,partner earned more,0,1.0,0.0
+160,259495,independent,democrat,partner earned more,0,1.0,0.0
+161,260461,independent,republican,i earned more,0,1.0,1.0
+162,261591,no preference,democrat,partner earned more,0,1.0,0.0
+163,262566,democrat,democrat,partner earned more,1,1.0,0.0
+164,266436,democrat,democrat,partner earned more,1,1.0,0.0
+165,267361,republican,republican,i earned more,1,1.0,1.0
+166,269331,democrat,democrat,partner earned more,1,1.0,0.0
+167,270225,democrat,democrat,partner earned more,1,1.0,0.0
+168,271623,democrat,democrat,i earned more,1,1.0,1.0
+169,272616,democrat,democrat,partner earned more,1,1.0,0.0
+170,273431,democrat,democrat,we earned about the same amount,1,0.0,
+171,273651,republican,republican,we earned about the same amount,1,0.0,
+172,274536,democrat,democrat,i earned more,1,1.0,1.0
+173,275653,republican,republican,refused,1,,
+174,277391,independent,republican,we earned about the same amount,0,0.0,
+175,278413,democrat,democrat,partner earned more,1,1.0,0.0
+176,279534,democrat,democrat,i earned more,1,1.0,1.0
+177,282691,independent,republican,i earned more,0,1.0,1.0
+178,283386,republican,democrat,partner earned more,0,1.0,0.0
+179,284426,democrat,democrat,i earned more,1,1.0,1.0
+180,285261,republican,republican,partner earned more,1,1.0,0.0
+181,286556,democrat,democrat,partner earned more,1,1.0,0.0
+182,287496,republican,democrat,we earned about the same amount,0,0.0,
+183,288666,democrat,democrat,i earned more,1,1.0,1.0
+184,289486,democrat,democrat,partner earned more,1,1.0,0.0
+185,290531,republican,republican,partner earned more,1,1.0,0.0
+186,291286,democrat,republican,i earned more,0,1.0,1.0
+187,293336,no preference,other,partner earned more,0,1.0,0.0
+188,295531,no preference,republican,i earned more,0,1.0,1.0
+189,296851,independent,republican,we earned about the same amount,0,0.0,
+190,297285,democrat,democrat,i earned more,1,1.0,1.0
+191,298551,republican,republican,i earned more,1,1.0,1.0
+192,301251,republican,democrat,partner earned more,0,1.0,0.0
+193,303195,democrat,democrat,partner earned more,1,1.0,0.0
+194,304561,republican,republican,i earned more,1,1.0,1.0
+195,305321,no preference,democrat,i earned more,0,1.0,1.0
+196,306336,no preference,other,partner earned more,0,1.0,0.0
+197,307423,independent,democrat,i earned more,0,1.0,1.0
+198,307461,democrat,democrat,partner earned more,1,1.0,0.0
+199,309276,independent,republican,we earned about the same amount,0,0.0,
+200,311251,no preference,republican,i earned more,0,1.0,1.0
+201,312373,democrat,republican,partner earned more,0,1.0,0.0
+202,314341,democrat,democrat,partner earned more,1,1.0,0.0
+203,320631,"another party, please specify",republican,i earned more,0,1.0,1.0
+204,321421,republican,republican,i earned more,1,1.0,1.0
+205,322421,democrat,republican,i earned more,0,1.0,1.0
+206,323481,democrat,democrat,partner earned more,1,1.0,0.0
+207,326341,democrat,republican,i earned more,0,1.0,1.0
+208,328341,independent,republican,i earned more,0,1.0,1.0
+209,329551,democrat,republican,partner earned more,0,1.0,0.0
+210,330496,no preference,democrat,we earned about the same amount,0,0.0,
+211,331691,democrat,democrat,i earned more,1,1.0,1.0
+212,332401,democrat,democrat,i earned more,1,1.0,1.0
+213,333541,democrat,democrat,partner earned more,1,1.0,0.0
+214,335326,independent,democrat,partner earned more,0,1.0,0.0
+215,336205,democrat,democrat,i earned more,1,1.0,1.0
+216,337581,republican,republican,i earned more,1,1.0,1.0
+217,338546,democrat,democrat,i earned more,1,1.0,1.0
+218,341391,democrat,democrat,partner earned more,1,1.0,0.0
+219,342596,democrat,democrat,i earned more,1,1.0,1.0
+220,343421,democrat,democrat,i earned more,1,1.0,1.0
+221,344396,democrat,democrat,i earned more,1,1.0,1.0
+222,345491,no preference,democrat,i earned more,0,1.0,1.0
+223,346371,republican,republican,i earned more,1,1.0,1.0
+224,347716,independent,democrat,we earned about the same amount,0,0.0,
+225,348456,democrat,democrat,partner earned more,1,1.0,0.0
+226,350771,democrat,democrat,partner earned more,1,1.0,0.0
+227,351405,democrat,republican,i earned more,0,1.0,1.0
+228,352336,independent,democrat,i earned more,0,1.0,1.0
+229,353285,no preference,republican,we earned about the same amount,0,0.0,
+230,354331,no preference,republican,i earned more,0,1.0,1.0
+231,355771,republican,republican,we earned about the same amount,1,0.0,
+232,358321,republican,republican,partner earned more,1,1.0,0.0
+233,359511,no preference,republican,partner earned more,0,1.0,0.0
+234,360291,"another party, please specify",democrat,partner earned more,0,1.0,0.0
+235,361593,democrat,democrat,partner earned more,1,1.0,0.0
+236,362491,republican,republican,we earned about the same amount,1,0.0,
+237,363761,democrat,democrat,partner earned more,1,1.0,0.0
+238,364365,democrat,democrat,i earned more,1,1.0,1.0
+239,367471,democrat,democrat,partner earned more,1,1.0,0.0
+240,368611,republican,republican,partner earned more,1,1.0,0.0
+241,370713,republican,republican,we earned about the same amount,1,0.0,
+242,371551,no preference,republican,i earned more,0,1.0,1.0
+243,374391,democrat,democrat,i earned more,1,1.0,1.0
+244,375351,no preference,democrat,i earned more,0,1.0,1.0
+245,375486,democrat,democrat,we earned about the same amount,1,0.0,
+246,378221,republican,republican,partner earned more,1,1.0,0.0
+247,379781,democrat,republican,i earned more,0,1.0,1.0
+248,380351,republican,republican,i earned more,1,1.0,1.0
+249,381295,"another party, please specify",democrat,partner earned more,0,1.0,0.0
+250,383281,republican,republican,i earned more,1,1.0,1.0
+251,385491,democrat,democrat,i earned more,1,1.0,1.0
+252,386546,democrat,democrat,partner earned more,1,1.0,0.0
+253,388731,independent,democrat,i earned more,0,1.0,1.0
+254,389541,republican,republican,i earned more,1,1.0,1.0
+255,390431,democrat,democrat,partner earned more,1,1.0,0.0
+256,392315,independent,republican,i earned more,0,1.0,1.0
+257,392341,republican,republican,partner earned more,1,1.0,0.0
+258,393591,democrat,democrat,partner earned more,1,1.0,0.0
+259,396291,independent,republican,partner earned more,0,1.0,0.0
+260,399361,republican,republican,i earned more,1,1.0,1.0
+261,401561,no preference,democrat,i earned more,0,1.0,1.0
+262,405782,republican,republican,partner earned more,1,1.0,0.0
+263,406672,independent,republican,i earned more,0,1.0,1.0
+264,412281,republican,republican,partner earned more,1,1.0,0.0
+265,413606,democrat,democrat,we earned about the same amount,1,0.0,
+266,414721,republican,democrat,partner earned more,0,1.0,0.0
+267,420285,democrat,democrat,partner earned more,1,1.0,0.0
+268,421436,independent,democrat,partner earned more,0,1.0,0.0
+269,422485,democrat,democrat,partner earned more,1,1.0,0.0
+270,423411,democrat,democrat,i earned more,1,1.0,1.0
+271,425381,republican,republican,partner earned more,1,1.0,0.0
+272,427821,republican,republican,we earned about the same amount,1,0.0,
+273,429306,republican,republican,partner earned more,1,1.0,0.0
+274,431851,no preference,democrat,i earned more,0,1.0,1.0
+275,432411,democrat,democrat,i earned more,1,1.0,1.0
+276,433481,democrat,democrat,i earned more,1,1.0,1.0
+277,437831,republican,other,we earned about the same amount,0,0.0,
+278,439271,republican,democrat,i earned more,0,1.0,1.0
+279,440811,independent,republican,i earned more,0,1.0,1.0
+280,441341,no preference,democrat,i earned more,0,1.0,1.0
+281,443301,no preference,democrat,i earned more,0,1.0,1.0
+282,444371,democrat,democrat,i earned more,1,1.0,1.0
+283,445591,independent,other,partner earned more,0,1.0,0.0
+284,448326,democrat,democrat,i earned more,1,1.0,1.0
+285,449566,democrat,republican,partner earned more,0,1.0,0.0
+286,450291,democrat,democrat,partner earned more,1,1.0,0.0
+287,452446,democrat,republican,partner earned more,0,1.0,0.0
+288,453361,republican,republican,i earned more,1,1.0,1.0
+289,454456,democrat,democrat,i earned more,1,1.0,1.0
+290,455601,republican,republican,partner earned more,1,1.0,0.0
+291,458621,democrat,democrat,i earned more,1,1.0,1.0
+292,461511,democrat,democrat,partner earned more,1,1.0,0.0
+293,465386,democrat,democrat,i earned more,1,1.0,1.0
+294,466852,republican,democrat,partner earned more,0,1.0,0.0
+295,468225,democrat,democrat,we earned about the same amount,1,0.0,
+296,469391,republican,republican,i earned more,1,1.0,1.0
+297,470261,republican,republican,i earned more,1,1.0,1.0
+298,471426,no preference,republican,partner earned more,0,1.0,0.0
+299,472431,republican,republican,i earned more,1,1.0,1.0
+300,475485,democrat,republican,partner earned more,0,1.0,0.0
+301,478561,independent,other,partner earned more,0,1.0,0.0
+302,480501,no preference,republican,partner earned more,0,1.0,0.0
+303,481445,independent,democrat,partner earned more,0,1.0,0.0
+304,483591,democrat,democrat,i earned more,1,1.0,1.0
+305,484581,democrat,democrat,partner earned more,1,1.0,0.0
+306,489621,democrat,democrat,partner earned more,1,1.0,0.0
+307,490291,democrat,democrat,i earned more,1,1.0,1.0
+308,491772,democrat,democrat,i earned more,1,1.0,1.0
+309,494215,independent,republican,partner earned more,0,1.0,0.0
+310,496215,independent,democrat,partner earned more,0,1.0,0.0
+311,497295,"another party, please specify",democrat,i earned more,0,1.0,1.0
+312,499271,democrat,democrat,we earned about the same amount,1,0.0,
+313,501306,no preference,democrat,partner earned more,0,1.0,0.0
+314,502721,independent,republican,partner earned more,0,1.0,0.0
+315,505381,independent,democrat,we earned about the same amount,0,0.0,
+316,506515,democrat,democrat,partner earned more,1,1.0,0.0
+317,507491,democrat,democrat,partner earned more,1,1.0,0.0
+318,508361,republican,republican,partner earned more,1,1.0,0.0
+319,509391,no preference,republican,i earned more,0,1.0,1.0
+320,511386,republican,democrat,partner earned more,0,1.0,0.0
+321,512356,no preference,democrat,i earned more,0,1.0,1.0
+322,513831,republican,republican,i earned more,1,1.0,1.0
+323,515281,independent,democrat,partner earned more,0,1.0,0.0
+324,516446,democrat,democrat,we earned about the same amount,1,0.0,
+325,518481,no preference,republican,i earned more,0,1.0,1.0
+326,520581,republican,republican,i earned more,1,1.0,1.0
+327,523401,democrat,republican,partner earned more,0,1.0,0.0
+328,524471,independent,republican,partner earned more,0,1.0,0.0
+329,525291,democrat,democrat,we earned about the same amount,1,0.0,
+330,526701,democrat,republican,i earned more,0,1.0,1.0
+331,527611,republican,republican,we earned about the same amount,1,0.0,
+332,531265,democrat,democrat,we earned about the same amount,1,0.0,
+333,532341,no preference,republican,i earned more,0,1.0,1.0
+334,533831,republican,republican,partner earned more,1,1.0,0.0
+335,535331,no preference,democrat,partner earned more,0,1.0,0.0
+336,536205,republican,republican,i earned more,1,1.0,1.0
+337,538571,no preference,democrat,i earned more,0,1.0,1.0
+338,540435,independent,democrat,i earned more,0,1.0,1.0
+339,541261,republican,republican,partner earned more,1,1.0,0.0
+340,542711,independent,republican,i earned more,0,1.0,1.0
+341,543641,republican,republican,we earned about the same amount,1,0.0,
+342,545326,democrat,democrat,partner earned more,1,1.0,0.0
+343,546195,republican,republican,we earned about the same amount,1,0.0,
+344,549235,democrat,democrat,we earned about the same amount,1,0.0,
+345,552391,democrat,democrat,we earned about the same amount,1,0.0,
+346,553481,republican,republican,i earned more,1,1.0,1.0
+347,554226,democrat,democrat,partner earned more,1,1.0,0.0
+348,555401,democrat,democrat,partner earned more,1,1.0,0.0
+349,556351,no preference,republican,we earned about the same amount,0,0.0,
+350,557215,democrat,democrat,partner earned more,1,1.0,0.0
+351,561504,republican,republican,partner earned more,1,1.0,0.0
+352,563456,independent,democrat,partner earned more,0,1.0,0.0
+353,564405,republican,democrat,i earned more,0,1.0,1.0
+354,566581,democrat,democrat,i earned more,1,1.0,1.0
+355,567481,republican,democrat,i earned more,0,1.0,1.0
+356,569215,independent,republican,we earned about the same amount,0,0.0,
+357,570541,democrat,democrat,i earned more,1,1.0,1.0
+358,571671,no preference,democrat,i earned more,0,1.0,1.0
+359,573381,republican,republican,i earned more,1,1.0,1.0
+360,576461,republican,republican,i earned more,1,1.0,1.0
+361,577531,democrat,democrat,partner earned more,1,1.0,0.0
+362,578381,republican,republican,partner earned more,1,1.0,0.0
+363,579591,republican,republican,i earned more,1,1.0,1.0
+364,580281,independent,republican,partner earned more,0,1.0,0.0
+365,581391,republican,republican,i earned more,1,1.0,1.0
+366,582561,no preference,democrat,i earned more,0,1.0,1.0
+367,586275,democrat,republican,partner earned more,0,1.0,0.0
+368,587291,republican,republican,partner earned more,1,1.0,0.0
+369,591385,democrat,republican,i earned more,0,1.0,1.0
+370,593511,democrat,democrat,partner earned more,1,1.0,0.0
+371,594631,independent,democrat,i earned more,0,1.0,1.0
+372,595611,no preference,republican,i earned more,0,1.0,1.0
+373,596591,independent,democrat,i earned more,0,1.0,1.0
+374,597341,democrat,republican,we earned about the same amount,0,0.0,
+375,599531,independent,democrat,we earned about the same amount,0,0.0,
+376,600571,republican,democrat,i earned more,0,1.0,1.0
+377,601241,republican,democrat,partner earned more,0,1.0,0.0
+378,602406,democrat,democrat,partner earned more,1,1.0,0.0
+379,604521,no preference,democrat,i earned more,0,1.0,1.0
+380,606225,no preference,democrat,i earned more,0,1.0,1.0
+381,609701,independent,democrat,partner earned more,0,1.0,0.0
+382,610321,independent,republican,i earned more,0,1.0,1.0
+383,611351,republican,republican,we earned about the same amount,1,0.0,
+384,612291,republican,democrat,partner earned more,0,1.0,0.0
+385,613781,republican,republican,partner earned more,1,1.0,0.0
+386,615255,no preference,republican,partner earned more,0,1.0,0.0
+387,617501,republican,republican,partner earned more,1,1.0,0.0
+388,619451,republican,republican,partner earned more,1,1.0,0.0
+389,620565,no preference,democrat,partner earned more,0,1.0,0.0
+390,622641,independent,democrat,partner earned more,0,1.0,0.0
+391,623493,democrat,republican,partner earned more,0,1.0,0.0
+392,624536,independent,democrat,we earned about the same amount,0,0.0,
+393,626255,republican,republican,partner earned more,1,1.0,0.0
+394,627533,democrat,democrat,partner earned more,1,1.0,0.0
+395,628841,no preference,republican,partner earned more,0,1.0,0.0
+396,630534,democrat,democrat,i earned more,1,1.0,1.0
+397,632473,republican,republican,i earned more,1,1.0,1.0
+398,633631,independent,democrat,i earned more,0,1.0,1.0
+399,635411,republican,republican,partner earned more,1,1.0,0.0
+400,636631,no preference,democrat,i earned more,0,1.0,1.0
+401,639211,republican,republican,we earned about the same amount,1,0.0,
+402,640596,democrat,democrat,partner earned more,1,1.0,0.0
+403,645922,refused,democrat,i earned more,0,1.0,1.0
+404,646613,democrat,democrat,partner earned more,1,1.0,0.0
+405,648586,democrat,democrat,i earned more,1,1.0,1.0
+406,650616,no preference,democrat,partner earned more,0,1.0,0.0
+407,651701,republican,republican,i earned more,1,1.0,1.0
+408,652271,independent,republican,partner earned more,0,1.0,0.0
+409,653573,independent,democrat,i earned more,0,1.0,1.0
+410,654431,democrat,democrat,i earned more,1,1.0,1.0
+411,655505,democrat,other,i earned more,0,1.0,1.0
+412,656225,independent,democrat,partner earned more,0,1.0,0.0
+413,657761,independent,republican,partner earned more,0,1.0,0.0
+414,658356,democrat,democrat,we earned about the same amount,1,0.0,
+415,660391,democrat,democrat,partner earned more,1,1.0,0.0
+416,661466,democrat,democrat,partner earned more,1,1.0,0.0
+417,663872,republican,republican,partner earned more,1,1.0,0.0
+418,664501,democrat,democrat,partner earned more,1,1.0,0.0
+419,665256,independent,democrat,partner earned more,0,1.0,0.0
+420,666686,democrat,democrat,partner earned more,1,1.0,0.0
+421,667321,democrat,democrat,i earned more,1,1.0,1.0
+422,668501,independent,democrat,refused,0,,
+423,669511,democrat,republican,we earned about the same amount,0,0.0,
+424,670721,republican,republican,i earned more,1,1.0,1.0
+425,671481,republican,republican,partner earned more,1,1.0,0.0
+426,672681,democrat,democrat,we earned about the same amount,1,0.0,
+427,673371,democrat,democrat,partner earned more,1,1.0,0.0
+428,675671,republican,republican,i earned more,1,1.0,1.0
+429,677226,democrat,republican,i earned more,0,1.0,1.0
+430,680225,democrat,democrat,i earned more,1,1.0,1.0
+431,686266,republican,republican,we earned about the same amount,1,0.0,
+432,689556,democrat,democrat,partner earned more,1,1.0,0.0
+433,690195,republican,republican,partner earned more,1,1.0,0.0
+434,692321,republican,republican,we earned about the same amount,1,0.0,
+435,693365,no preference,democrat,partner earned more,0,1.0,0.0
+436,696413,republican,republican,i earned more,1,1.0,1.0
+437,697396,no preference,republican,i earned more,0,1.0,1.0
+438,698271,no preference,democrat,i earned more,0,1.0,1.0
+439,700396,democrat,democrat,i earned more,1,1.0,1.0
+440,701496,democrat,democrat,partner earned more,1,1.0,0.0
+441,703215,no preference,other,partner earned more,0,1.0,0.0
+442,704331,democrat,democrat,i earned more,1,1.0,1.0
+443,706306,democrat,democrat,partner earned more,1,1.0,0.0
+444,709205,democrat,republican,partner earned more,0,1.0,0.0
+445,711676,democrat,democrat,we earned about the same amount,1,0.0,
+446,712403,democrat,democrat,i earned more,1,1.0,1.0
+447,714533,republican,republican,partner earned more,1,1.0,0.0
+448,715631,republican,republican,partner earned more,1,1.0,0.0
+449,717491,republican,democrat,partner earned more,0,1.0,0.0
+450,718255,independent,democrat,partner earned more,0,1.0,0.0
+451,719606,democrat,democrat,i earned more,1,1.0,1.0
+452,721305,democrat,democrat,i earned more,1,1.0,1.0
+453,722225,democrat,democrat,partner earned more,1,1.0,0.0
+454,723325,independent,democrat,i earned more,0,1.0,1.0
+455,724301,democrat,democrat,i earned more,1,1.0,1.0
+456,725421,democrat,democrat,i earned more,1,1.0,1.0
+457,726441,republican,republican,i earned more,1,1.0,1.0
+458,727261,no preference,republican,partner earned more,0,1.0,0.0
+459,729486,democrat,democrat,i earned more,1,1.0,1.0
+460,731431,no preference,republican,i earned more,0,1.0,1.0
+461,733315,democrat,democrat,i earned more,1,1.0,1.0
+462,734541,independent,republican,i earned more,0,1.0,1.0
+463,735751,republican,republican,partner earned more,1,1.0,0.0
+464,737741,republican,republican,we earned about the same amount,1,0.0,
+465,738561,independent,republican,partner earned more,0,1.0,0.0
+466,740205,no preference,democrat,partner earned more,0,1.0,0.0
+467,741351,republican,republican,i earned more,1,1.0,1.0
+468,742246,republican,republican,partner earned more,1,1.0,0.0
+469,744391,republican,republican,partner earned more,1,1.0,0.0
+470,745435,no preference,republican,i earned more,0,1.0,1.0
+471,746481,no preference,republican,partner earned more,0,1.0,0.0
+472,747281,independent,republican,i earned more,0,1.0,1.0
+473,748371,republican,republican,i earned more,1,1.0,1.0
+474,749566,independent,democrat,i earned more,0,1.0,1.0
+475,750561,republican,republican,partner earned more,1,1.0,0.0
+476,752271,republican,republican,partner earned more,1,1.0,0.0
+477,754281,republican,republican,partner earned more,1,1.0,0.0
+478,755501,republican,republican,partner earned more,1,1.0,0.0
+479,756296,no preference,republican,partner earned more,0,1.0,0.0
+480,758456,democrat,democrat,i earned more,1,1.0,1.0
+481,761391,democrat,democrat,i earned more,1,1.0,1.0
+482,762205,democrat,democrat,partner earned more,1,1.0,0.0
+483,767351,republican,democrat,partner earned more,0,1.0,0.0
+484,768371,democrat,democrat,i earned more,1,1.0,1.0
+485,771351,republican,republican,partner earned more,1,1.0,0.0
+486,772291,republican,republican,i earned more,1,1.0,1.0
+487,773351,democrat,democrat,i earned more,1,1.0,1.0
+488,774401,no preference,other,partner earned more,0,1.0,0.0
+489,775703,no preference,democrat,i earned more,0,1.0,1.0
+490,777281,independent,republican,partner earned more,0,1.0,0.0
+491,778421,republican,republican,partner earned more,1,1.0,0.0
+492,780753,democrat,democrat,partner earned more,1,1.0,0.0
+493,781615,republican,republican,i earned more,1,1.0,1.0
+494,782861,no preference,republican,partner earned more,0,1.0,0.0
+495,784651,democrat,republican,i earned more,0,1.0,1.0
+496,786215,no preference,democrat,i earned more,0,1.0,1.0
+497,787561,democrat,republican,we earned about the same amount,0,0.0,
+498,788331,democrat,democrat,partner earned more,1,1.0,0.0
+499,789391,republican,republican,i earned more,1,1.0,1.0
+500,790595,no preference,democrat,partner earned more,0,1.0,0.0
+501,791225,no preference,republican,we earned about the same amount,0,0.0,
+502,792573,democrat,democrat,partner earned more,1,1.0,0.0
+503,793436,democrat,democrat,i earned more,1,1.0,1.0
+504,794276,republican,democrat,partner earned more,0,1.0,0.0
+505,797421,democrat,democrat,i earned more,1,1.0,1.0
+506,798543,independent,republican,partner earned more,0,1.0,0.0
+507,799451,democrat,democrat,partner earned more,1,1.0,0.0
+508,800531,independent,republican,partner earned more,0,1.0,0.0
+509,803573,democrat,democrat,i earned more,1,1.0,1.0
+510,805546,democrat,democrat,i earned more,1,1.0,1.0
+511,806551,democrat,democrat,partner earned more,1,1.0,0.0
+512,808583,republican,republican,we earned about the same amount,1,0.0,
+513,809281,republican,republican,partner earned more,1,1.0,0.0
+514,810426,no preference,republican,we earned about the same amount,0,0.0,
+515,811741,democrat,democrat,i earned more,1,1.0,1.0
+516,813506,democrat,democrat,i earned more,1,1.0,1.0
+517,816456,independent,democrat,partner earned more,0,1.0,0.0
+518,817691,no preference,republican,partner earned more,0,1.0,0.0
+519,818301,republican,republican,i earned more,1,1.0,1.0
+520,819481,republican,republican,i earned more,1,1.0,1.0
+521,820666,democrat,republican,partner earned more,0,1.0,0.0
+522,821611,independent,democrat,we earned about the same amount,0,0.0,
+523,825281,republican,republican,partner earned more,1,1.0,0.0
+524,826486,democrat,democrat,we earned about the same amount,1,0.0,
+525,827952,republican,republican,refused,1,,
+526,828286,democrat,democrat,partner earned more,1,1.0,0.0
+527,829216,no preference,republican,partner earned more,0,1.0,0.0
+528,830551,no preference,democrat,we earned about the same amount,0,0.0,
+529,831431,republican,republican,refused,1,,
+530,832551,independent,republican,partner earned more,0,1.0,0.0
+531,834531,democrat,democrat,partner earned more,1,1.0,0.0
+532,836491,democrat,democrat,partner earned more,1,1.0,0.0
+533,837215,democrat,democrat,partner earned more,1,1.0,0.0
+534,838523,democrat,democrat,partner earned more,1,1.0,0.0
+535,839386,democrat,democrat,partner earned more,1,1.0,0.0
+536,840205,republican,republican,partner earned more,1,1.0,0.0
+537,841581,democrat,democrat,partner earned more,1,1.0,0.0
+538,842195,independent,democrat,i earned more,0,1.0,1.0
+539,843215,democrat,democrat,i earned more,1,1.0,1.0
+540,846681,republican,republican,partner earned more,1,1.0,0.0
+541,847471,no preference,other,i earned more,0,1.0,1.0
+542,849591,democrat,democrat,partner earned more,1,1.0,0.0
+543,850621,democrat,democrat,partner earned more,1,1.0,0.0
+544,852291,republican,republican,i earned more,1,1.0,1.0
+545,854321,no preference,republican,i earned more,0,1.0,1.0
+546,855291,democrat,democrat,partner earned more,1,1.0,0.0
+547,857421,independent,democrat,partner earned more,0,1.0,0.0
+548,860495,democrat,democrat,i earned more,1,1.0,1.0
+549,863321,independent,republican,partner earned more,0,1.0,0.0
+550,864491,republican,republican,partner earned more,1,1.0,0.0
+551,865761,republican,republican,partner earned more,1,1.0,0.0
+552,866281,republican,republican,we earned about the same amount,1,0.0,
+553,867591,republican,democrat,partner earned more,0,1.0,0.0
+554,870281,democrat,democrat,partner earned more,1,1.0,0.0
+555,871691,republican,republican,partner earned more,1,1.0,0.0
+556,872215,democrat,republican,partner earned more,0,1.0,0.0
+557,873623,democrat,democrat,we earned about the same amount,1,0.0,
+558,875485,no preference,democrat,partner earned more,0,1.0,0.0
+559,877525,democrat,democrat,we earned about the same amount,1,0.0,
+560,878321,democrat,democrat,i earned more,1,1.0,1.0
+561,879303,democrat,democrat,partner earned more,1,1.0,0.0
+562,881325,democrat,democrat,i earned more,1,1.0,1.0
+563,883411,democrat,democrat,partner earned more,1,1.0,0.0
+564,885511,democrat,democrat,partner earned more,1,1.0,0.0
+565,886295,no preference,democrat,partner earned more,0,1.0,0.0
+566,887421,independent,democrat,i earned more,0,1.0,1.0
+567,888391,republican,republican,i earned more,1,1.0,1.0
+568,889295,democrat,democrat,i earned more,1,1.0,1.0
+569,891551,independent,democrat,i earned more,0,1.0,1.0
+570,892453,democrat,republican,i earned more,0,1.0,1.0
+571,895411,independent,republican,partner earned more,0,1.0,0.0
+572,896413,no preference,republican,i earned more,0,1.0,1.0
+573,898456,democrat,democrat,partner earned more,1,1.0,0.0
+574,899246,independent,democrat,i earned more,0,1.0,1.0
+575,900391,democrat,republican,i earned more,0,1.0,1.0
+576,901691,independent,republican,partner earned more,0,1.0,0.0
+577,902521,democrat,democrat,i earned more,1,1.0,1.0
+578,903206,democrat,democrat,we earned about the same amount,1,0.0,
+579,904751,democrat,democrat,partner earned more,1,1.0,0.0
+580,905491,democrat,democrat,partner earned more,1,1.0,0.0
+581,906593,no preference,democrat,partner earned more,0,1.0,0.0
+582,907301,republican,republican,we earned about the same amount,1,0.0,
+583,909792,independent,democrat,partner earned more,0,1.0,0.0
+584,910521,no preference,democrat,partner earned more,0,1.0,0.0
+585,918235,democrat,democrat,partner earned more,1,1.0,0.0
+586,919582,democrat,democrat,i earned more,1,1.0,1.0
+587,922591,republican,republican,partner earned more,1,1.0,0.0
+588,923466,democrat,democrat,we earned about the same amount,1,0.0,
+589,924602,democrat,democrat,i earned more,1,1.0,1.0
+590,926551,republican,republican,i earned more,1,1.0,1.0
+591,928523,no preference,republican,partner earned more,0,1.0,0.0
+592,932566,democrat,democrat,i earned more,1,1.0,1.0
+593,934261,democrat,democrat,i earned more,1,1.0,1.0
+594,935521,democrat,democrat,partner earned more,1,1.0,0.0
+595,939441,independent,republican,i earned more,0,1.0,1.0
+596,942656,democrat,democrat,partner earned more,1,1.0,0.0
+597,943441,republican,republican,i earned more,1,1.0,1.0
+598,944531,democrat,democrat,i earned more,1,1.0,1.0
+599,945665,democrat,democrat,partner earned more,1,1.0,0.0
+600,946371,independent,republican,partner earned more,0,1.0,0.0
+601,948531,independent,republican,i earned more,0,1.0,1.0
+602,951271,democrat,democrat,i earned more,1,1.0,1.0
+603,952371,independent,democrat,i earned more,0,1.0,1.0
+604,953681,democrat,democrat,partner earned more,1,1.0,0.0
+605,954702,democrat,democrat,we earned about the same amount,1,0.0,
+606,956591,republican,republican,partner earned more,1,1.0,0.0
+607,959381,republican,republican,we earned about the same amount,1,0.0,
+608,960593,democrat,democrat,i earned more,1,1.0,1.0
+609,963573,republican,democrat,i earned more,0,1.0,1.0
+610,965575,independent,democrat,i earned more,0,1.0,1.0
+611,966351,republican,republican,i earned more,1,1.0,1.0
+612,967663,republican,democrat,partner earned more,0,1.0,0.0
+613,971831,republican,republican,we earned about the same amount,1,0.0,
+614,972391,democrat,democrat,i earned more,1,1.0,1.0
+615,973581,democrat,democrat,partner earned more,1,1.0,0.0
+616,974591,democrat,democrat,partner earned more,1,1.0,0.0
+617,976531,democrat,democrat,partner earned more,1,1.0,0.0
+618,977741,republican,republican,we earned about the same amount,1,0.0,
+619,978651,republican,republican,partner earned more,1,1.0,0.0
+620,979711,no preference,other,partner earned more,0,1.0,0.0
+621,982591,republican,republican,partner earned more,1,1.0,0.0
+622,983661,republican,republican,i earned more,1,1.0,1.0
+623,984451,democrat,democrat,i earned more,1,1.0,1.0
+624,985571,independent,democrat,partner earned more,0,1.0,0.0
+625,986481,no preference,democrat,i earned more,0,1.0,1.0
+626,987411,republican,republican,i earned more,1,1.0,1.0
+627,989215,no preference,democrat,partner earned more,0,1.0,0.0
+628,990636,independent,republican,i earned more,0,1.0,1.0
+629,991466,republican,democrat,i earned more,0,1.0,1.0
+630,992341,republican,republican,we earned about the same amount,1,0.0,
+631,995656,democrat,democrat,i earned more,1,1.0,1.0
+632,998391,democrat,democrat,i earned more,1,1.0,1.0
+633,999231,democrat,democrat,partner earned more,1,1.0,0.0
+634,1000561,independent,democrat,i earned more,0,1.0,1.0
+635,1001791,democrat,democrat,partner earned more,1,1.0,0.0
+636,1003291,democrat,democrat,i earned more,1,1.0,1.0
+637,1004741,republican,republican,i earned more,1,1.0,1.0
+638,1005421,democrat,democrat,partner earned more,1,1.0,0.0
+639,1006611,"another party, please specify",democrat,we earned about the same amount,0,0.0,
+640,1008275,republican,republican,partner earned more,1,1.0,0.0
+641,1009361,independent,democrat,i earned more,0,1.0,1.0
+642,1010732,democrat,democrat,we earned about the same amount,1,0.0,
+643,1011511,democrat,democrat,we earned about the same amount,1,0.0,
+644,1013451,republican,republican,i earned more,1,1.0,1.0
+645,1015371,democrat,democrat,i earned more,1,1.0,1.0
+646,1017606,democrat,democrat,partner earned more,1,1.0,0.0
+647,1018641,democrat,republican,i earned more,0,1.0,1.0
+648,1021791,no preference,democrat,partner earned more,0,1.0,0.0
+649,1022721,republican,democrat,i earned more,0,1.0,1.0
+650,1023721,independent,republican,partner earned more,0,1.0,0.0
+651,1024643,democrat,democrat,we earned about the same amount,1,0.0,
+652,1026381,no preference,republican,partner earned more,0,1.0,0.0
+653,1029571,democrat,democrat,partner earned more,1,1.0,0.0
+654,1030441,republican,republican,i earned more,1,1.0,1.0
+655,1031721,republican,republican,i earned more,1,1.0,1.0
+656,1033811,democrat,democrat,i earned more,1,1.0,1.0
+657,1034483,democrat,democrat,we earned about the same amount,1,0.0,
+658,1035596,democrat,democrat,partner earned more,1,1.0,0.0
+659,1036721,independent,republican,partner earned more,0,1.0,0.0
+660,1037633,republican,republican,i earned more,1,1.0,1.0
+661,1038241,no preference,republican,we earned about the same amount,0,0.0,
+662,1039481,republican,republican,partner earned more,1,1.0,0.0
+663,1040361,democrat,democrat,partner earned more,1,1.0,0.0
+664,1041291,democrat,democrat,partner earned more,1,1.0,0.0
+665,1043811,republican,republican,i earned more,1,1.0,1.0
+666,1044601,democrat,democrat,i earned more,1,1.0,1.0
+667,1045611,democrat,democrat,partner earned more,1,1.0,0.0
+668,1046321,democrat,democrat,i earned more,1,1.0,1.0
+669,1048266,democrat,democrat,i earned more,1,1.0,1.0
+670,1050395,democrat,democrat,i earned more,1,1.0,1.0
+671,1052595,democrat,democrat,we earned about the same amount,1,0.0,
+672,1057782,no preference,republican,i earned more,0,1.0,1.0
+673,1058195,democrat,republican,partner earned more,0,1.0,0.0
+674,1059286,democrat,democrat,we earned about the same amount,1,0.0,
+675,1061491,republican,republican,partner earned more,1,1.0,0.0
+676,1062551,republican,republican,we earned about the same amount,1,0.0,
+677,1064496,democrat,democrat,i earned more,1,1.0,1.0
+678,1069616,democrat,democrat,partner earned more,1,1.0,0.0
+679,1073351,no preference,republican,i earned more,0,1.0,1.0
+680,1074381,democrat,democrat,partner earned more,1,1.0,0.0
+681,1075832,no preference,republican,partner earned more,0,1.0,0.0
+682,1076291,"another party, please specify",republican,i earned more,0,1.0,1.0
+683,1078631,democrat,democrat,partner earned more,1,1.0,0.0
+684,1079255,independent,democrat,i earned more,0,1.0,1.0
+685,1080831,republican,republican,partner earned more,1,1.0,0.0
+686,1083446,democrat,democrat,i earned more,1,1.0,1.0
+687,1084706,democrat,democrat,partner earned more,1,1.0,0.0
+688,1085626,democrat,democrat,i earned more,1,1.0,1.0
+689,1087551,democrat,democrat,partner earned more,1,1.0,0.0
+690,1090535,democrat,democrat,i earned more,1,1.0,1.0
+691,1091712,democrat,democrat,partner earned more,1,1.0,0.0
+692,1092291,independent,democrat,i earned more,0,1.0,1.0
+693,1093441,democrat,democrat,partner earned more,1,1.0,0.0
+694,1094453,democrat,democrat,partner earned more,1,1.0,0.0
+695,1096341,no preference,republican,partner earned more,0,1.0,0.0
+696,1097281,democrat,democrat,partner earned more,1,1.0,0.0
+697,1098406,democrat,democrat,we earned about the same amount,1,0.0,
+698,1099651,independent,republican,i earned more,0,1.0,1.0
+699,1100361,democrat,republican,partner earned more,0,1.0,0.0
+700,1101471,independent,republican,partner earned more,0,1.0,0.0
+701,1103641,democrat,democrat,partner earned more,1,1.0,0.0
+702,1104541,no preference,democrat,i earned more,0,1.0,1.0
+703,1105706,independent,democrat,i earned more,0,1.0,1.0
+704,1106521,democrat,democrat,partner earned more,1,1.0,0.0
+705,1109341,democrat,democrat,partner earned more,1,1.0,0.0
+706,1110421,republican,republican,we earned about the same amount,1,0.0,
+707,1111291,democrat,democrat,partner earned more,1,1.0,0.0
+708,1112651,democrat,democrat,i earned more,1,1.0,1.0
+709,1113205,republican,republican,partner earned more,1,1.0,0.0
+710,1114781,independent,republican,partner earned more,0,1.0,0.0
+711,1115241,republican,republican,partner earned more,1,1.0,0.0
+712,1118711,independent,republican,i earned more,0,1.0,1.0
+713,1119781,democrat,democrat,i earned more,1,1.0,1.0
+714,1121235,democrat,democrat,partner earned more,1,1.0,0.0
+715,1123532,no preference,republican,i earned more,0,1.0,1.0
+716,1124611,democrat,democrat,partner earned more,1,1.0,0.0
+717,1127351,democrat,democrat,partner earned more,1,1.0,0.0
+718,1130254,no preference,republican,i earned more,0,1.0,1.0
+719,1131421,independent,democrat,i earned more,0,1.0,1.0
+720,1133286,no preference,democrat,partner earned more,0,1.0,0.0
+721,1134571,democrat,democrat,partner earned more,1,1.0,0.0
+722,1135451,independent,republican,we earned about the same amount,0,0.0,
+723,1136341,independent,democrat,we earned about the same amount,0,0.0,
+724,1137461,democrat,democrat,partner earned more,1,1.0,0.0
+725,1138226,independent,republican,partner earned more,0,1.0,0.0
+726,1140623,no preference,republican,partner earned more,0,1.0,0.0
+727,1144612,republican,republican,partner earned more,1,1.0,0.0
+728,1145473,republican,democrat,partner earned more,0,1.0,0.0
+729,1146742,no preference,democrat,i earned more,0,1.0,1.0
+730,1147471,republican,republican,partner earned more,1,1.0,0.0
+731,1148571,democrat,democrat,i earned more,1,1.0,1.0
+732,1149591,democrat,democrat,we earned about the same amount,1,0.0,
+733,1152556,independent,democrat,i earned more,0,1.0,1.0
+734,1153741,republican,republican,we earned about the same amount,1,0.0,
+735,1154421,democrat,democrat,i earned more,1,1.0,1.0
+736,1155496,republican,republican,i earned more,1,1.0,1.0
+737,1157671,republican,republican,partner earned more,1,1.0,0.0
+738,1160731,independent,republican,i earned more,0,1.0,1.0
+739,1162493,democrat,democrat,partner earned more,1,1.0,0.0
+740,1163761,republican,republican,i earned more,1,1.0,1.0
+741,1164235,democrat,democrat,partner earned more,1,1.0,0.0
+742,1166341,republican,democrat,i earned more,0,1.0,1.0
+743,1169771,republican,republican,refused,1,,
+744,1170601,no preference,democrat,partner earned more,0,1.0,0.0
+745,1171561,republican,republican,we earned about the same amount,1,0.0,
+746,1173661,democrat,democrat,we earned about the same amount,1,0.0,
+747,1177285,independent,democrat,we earned about the same amount,0,0.0,
+748,1179591,republican,republican,partner earned more,1,1.0,0.0
+749,1180271,independent,republican,i earned more,0,1.0,1.0
+750,1181656,independent,democrat,partner earned more,0,1.0,0.0
+751,1183831,independent,republican,we earned about the same amount,0,0.0,
+752,1184501,independent,democrat,partner earned more,0,1.0,0.0
+753,1185644,independent,republican,partner earned more,0,1.0,0.0
+754,1187235,no preference,democrat,we earned about the same amount,0,0.0,
+755,1188821,republican,republican,i earned more,1,1.0,1.0
+756,1189486,independent,republican,partner earned more,0,1.0,0.0
+757,1193586,democrat,democrat,i earned more,1,1.0,1.0
+758,1198411,democrat,democrat,partner earned more,1,1.0,0.0
+759,1199541,republican,democrat,partner earned more,0,1.0,0.0
+760,1200626,democrat,democrat,we earned about the same amount,1,0.0,
+761,1202681,republican,republican,we earned about the same amount,1,0.0,
+762,1203431,democrat,democrat,partner earned more,1,1.0,0.0
+763,1204395,democrat,democrat,partner earned more,1,1.0,0.0
+764,1205802,democrat,democrat,refused,1,,
+765,1206512,democrat,democrat,partner earned more,1,1.0,0.0
+766,1207731,democrat,republican,i earned more,0,1.0,1.0
+767,1208205,no preference,democrat,partner earned more,0,1.0,0.0
+768,1209621,no preference,democrat,i earned more,0,1.0,1.0
+769,1210536,democrat,democrat,partner earned more,1,1.0,0.0
+770,1213771,democrat,democrat,i earned more,1,1.0,1.0
+771,1214546,no preference,republican,i earned more,0,1.0,1.0
+772,1216365,independent,democrat,i earned more,0,1.0,1.0
+773,1217341,no preference,republican,i earned more,0,1.0,1.0
+774,1219921,independent,democrat,i earned more,0,1.0,1.0
+775,1220631,independent,republican,partner earned more,0,1.0,0.0
+776,1222671,democrat,democrat,i earned more,1,1.0,1.0
+777,1223621,republican,republican,i earned more,1,1.0,1.0
+778,1225585,democrat,democrat,we earned about the same amount,1,0.0,
+779,1226651,democrat,democrat,partner earned more,1,1.0,0.0
+780,1228415,democrat,democrat,i earned more,1,1.0,1.0
+781,1232501,no preference,republican,partner earned more,0,1.0,0.0
+782,1233501,democrat,democrat,i earned more,1,1.0,1.0
+783,1234331,no preference,other,we earned about the same amount,0,0.0,
+784,1235316,democrat,democrat,i earned more,1,1.0,1.0
+785,1240456,democrat,democrat,i earned more,1,1.0,1.0
+786,1241521,republican,republican,partner earned more,1,1.0,0.0
+787,1243681,independent,democrat,we earned about the same amount,0,0.0,
+788,1249671,democrat,democrat,i earned more,1,1.0,1.0
+789,1250456,democrat,democrat,i earned more,1,1.0,1.0
+790,1252476,democrat,democrat,we earned about the same amount,1,0.0,
+791,1253471,democrat,democrat,i earned more,1,1.0,1.0
+792,1254703,democrat,democrat,i earned more,1,1.0,1.0
+793,1255801,republican,republican,i earned more,1,1.0,1.0
+794,1256565,democrat,democrat,i earned more,1,1.0,1.0
+795,1257371,republican,republican,i earned more,1,1.0,1.0
+796,1258751,democrat,democrat,i earned more,1,1.0,1.0
+797,1260536,democrat,democrat,i earned more,1,1.0,1.0
+798,1261401,republican,republican,i earned more,1,1.0,1.0
+799,1262421,republican,republican,partner earned more,1,1.0,0.0
+800,1263261,democrat,democrat,we earned about the same amount,1,0.0,
+801,1265752,no preference,republican,i earned more,0,1.0,1.0
+802,1266516,independent,democrat,i earned more,0,1.0,1.0
+803,1267401,republican,republican,i earned more,1,1.0,1.0
+804,1269411,independent,democrat,partner earned more,0,1.0,0.0
+805,1270636,democrat,democrat,partner earned more,1,1.0,0.0
+806,1271456,democrat,democrat,we earned about the same amount,1,0.0,
+807,1273236,democrat,democrat,partner earned more,1,1.0,0.0
+808,1274576,democrat,democrat,i earned more,1,1.0,1.0
+809,1275585,republican,republican,partner earned more,1,1.0,0.0
+810,1277421,republican,republican,i earned more,1,1.0,1.0
+811,1278541,republican,republican,partner earned more,1,1.0,0.0
+812,1279296,democrat,democrat,i earned more,1,1.0,1.0
+813,1280305,democrat,democrat,i earned more,1,1.0,1.0
+814,1281395,democrat,democrat,partner earned more,1,1.0,0.0
+815,1283621,democrat,democrat,i earned more,1,1.0,1.0
+816,1284701,republican,republican,partner earned more,1,1.0,0.0
+817,1285703,independent,democrat,partner earned more,0,1.0,0.0
+818,1286415,republican,republican,partner earned more,1,1.0,0.0
+819,1287613,independent,democrat,we earned about the same amount,0,0.0,
+820,1289291,republican,republican,partner earned more,1,1.0,0.0
+821,1290401,democrat,democrat,i earned more,1,1.0,1.0
+822,1291771,republican,democrat,i earned more,0,1.0,1.0
+823,1294631,independent,republican,i earned more,0,1.0,1.0
+824,1297901,republican,republican,i earned more,1,1.0,1.0
+825,1298581,republican,republican,we earned about the same amount,1,0.0,
+826,1299356,no preference,republican,partner earned more,0,1.0,0.0
+827,1301626,democrat,democrat,we earned about the same amount,1,0.0,
+828,1302415,democrat,republican,partner earned more,0,1.0,0.0
+829,1303571,no preference,democrat,i earned more,0,1.0,1.0
+830,1305741,independent,democrat,i earned more,0,1.0,1.0
+831,1306381,republican,republican,i earned more,1,1.0,1.0
+832,1307306,no preference,democrat,partner earned more,0,1.0,0.0
+833,1308821,independent,republican,i earned more,0,1.0,1.0
+834,1310523,democrat,democrat,we earned about the same amount,1,0.0,
+835,1312301,no preference,republican,i earned more,0,1.0,1.0
+836,1313431,democrat,democrat,i earned more,1,1.0,1.0
+837,1314201,democrat,democrat,partner earned more,1,1.0,0.0
+838,1315536,democrat,democrat,partner earned more,1,1.0,0.0
+839,1316391,democrat,democrat,partner earned more,1,1.0,0.0
+840,1320215,republican,republican,i earned more,1,1.0,1.0
+841,1323596,republican,republican,partner earned more,1,1.0,0.0
+842,1325391,republican,republican,partner earned more,1,1.0,0.0
+843,1326451,independent,republican,i earned more,0,1.0,1.0
+844,1327693,democrat,democrat,i earned more,1,1.0,1.0
+845,1328713,republican,democrat,i earned more,0,1.0,1.0
+846,1329235,no preference,republican,i earned more,0,1.0,1.0
+847,1330251,independent,democrat,i earned more,0,1.0,1.0
+848,1332405,democrat,democrat,we earned about the same amount,1,0.0,
+849,1333711,democrat,democrat,refused,1,,
+850,1334261,democrat,democrat,i earned more,1,1.0,1.0
+851,1335363,independent,republican,i earned more,0,1.0,1.0
+852,1340556,independent,democrat,partner earned more,0,1.0,0.0
+853,1341511,independent,democrat,i earned more,0,1.0,1.0
+854,1345356,independent,democrat,partner earned more,0,1.0,0.0
+855,1348345,democrat,democrat,partner earned more,1,1.0,0.0
+856,1349311,republican,republican,partner earned more,1,1.0,0.0
+857,1352771,independent,democrat,i earned more,0,1.0,1.0
+858,1354291,democrat,democrat,i earned more,1,1.0,1.0
+859,1356751,independent,republican,i earned more,0,1.0,1.0
+860,1358455,democrat,democrat,i earned more,1,1.0,1.0
+861,1361771,democrat,republican,we earned about the same amount,0,0.0,
+862,1363253,democrat,democrat,partner earned more,1,1.0,0.0
+863,1364533,republican,republican,partner earned more,1,1.0,0.0
+864,1366341,republican,republican,i earned more,1,1.0,1.0
+865,1367841,republican,democrat,i earned more,0,1.0,1.0
+866,1368545,democrat,democrat,partner earned more,1,1.0,0.0
+867,1369721,democrat,republican,i earned more,0,1.0,1.0
+868,1370453,democrat,democrat,partner earned more,1,1.0,0.0
+869,1371681,no preference,democrat,partner earned more,0,1.0,0.0
+870,1372391,democrat,democrat,i earned more,1,1.0,1.0
+871,1373663,independent,democrat,i earned more,0,1.0,1.0
+872,1374731,democrat,democrat,i earned more,1,1.0,1.0
+873,1375681,democrat,democrat,partner earned more,1,1.0,0.0
+874,1376386,democrat,democrat,i earned more,1,1.0,1.0
+875,1377811,democrat,democrat,i earned more,1,1.0,1.0
+876,1378732,republican,republican,i earned more,1,1.0,1.0
+877,1379291,"another party, please specify",republican,partner earned more,0,1.0,0.0
+878,1380606,independent,democrat,i earned more,0,1.0,1.0
+879,1381205,no preference,democrat,partner earned more,0,1.0,0.0
+880,1382546,republican,republican,i earned more,1,1.0,1.0
+881,1383671,no preference,republican,i earned more,0,1.0,1.0
+882,1384431,"another party, please specify",republican,we earned about the same amount,0,0.0,
+883,1386291,republican,republican,partner earned more,1,1.0,0.0
+884,1387255,democrat,democrat,i earned more,1,1.0,1.0
+885,1388606,democrat,democrat,i earned more,1,1.0,1.0
+886,1392612,independent,republican,we earned about the same amount,0,0.0,
+887,1393286,no preference,democrat,partner earned more,0,1.0,0.0
+888,1394385,democrat,democrat,i earned more,1,1.0,1.0
+889,1396626,democrat,democrat,i earned more,1,1.0,1.0
+890,1398431,no preference,democrat,i earned more,0,1.0,1.0
+891,1401456,independent,republican,we earned about the same amount,0,0.0,
+892,1402461,democrat,republican,i earned more,0,1.0,1.0
+893,1403571,no preference,republican,i earned more,0,1.0,1.0
+894,1405701,no preference,republican,partner earned more,0,1.0,0.0
+895,1408531,democrat,democrat,we earned about the same amount,1,0.0,
+896,1409551,republican,republican,i earned more,1,1.0,1.0
+897,1410441,democrat,democrat,we earned about the same amount,1,0.0,
+898,1411661,republican,republican,i earned more,1,1.0,1.0
+899,1412495,democrat,democrat,i earned more,1,1.0,1.0
+900,1413821,no preference,republican,i earned more,0,1.0,1.0
+901,1416791,democrat,democrat,we earned about the same amount,1,0.0,
+902,1418265,independent,democrat,we earned about the same amount,0,0.0,
+903,1421401,democrat,democrat,i earned more,1,1.0,1.0
+904,1422621,independent,other,i earned more,0,1.0,1.0
+905,1425271,democrat,democrat,partner earned more,1,1.0,0.0
+906,1426355,no preference,democrat,i earned more,0,1.0,1.0
+907,1427636,democrat,democrat,partner earned more,1,1.0,0.0
+908,1428631,democrat,democrat,partner earned more,1,1.0,0.0
+909,1430681,republican,republican,partner earned more,1,1.0,0.0
+910,1433533,no preference,republican,i earned more,0,1.0,1.0
+911,1434421,democrat,democrat,partner earned more,1,1.0,0.0
+912,1435285,"another party, please specify",democrat,partner earned more,0,1.0,0.0
+913,1437591,democrat,republican,partner earned more,0,1.0,0.0
+914,1438781,independent,democrat,we earned about the same amount,0,0.0,
+915,1439225,democrat,republican,partner earned more,0,1.0,0.0
+916,1440573,no preference,democrat,we earned about the same amount,0,0.0,
+917,1445491,republican,democrat,i earned more,0,1.0,1.0
+918,1446561,republican,republican,partner earned more,1,1.0,0.0
+919,1447506,democrat,democrat,partner earned more,1,1.0,0.0
+920,1449706,democrat,democrat,partner earned more,1,1.0,0.0
+921,1450553,democrat,democrat,i earned more,1,1.0,1.0
+922,1451501,independent,democrat,partner earned more,0,1.0,0.0
+923,1453663,no preference,republican,partner earned more,0,1.0,0.0
+924,1454411,republican,republican,partner earned more,1,1.0,0.0
+925,1456556,democrat,democrat,we earned about the same amount,1,0.0,
+926,1458801,independent,democrat,partner earned more,0,1.0,0.0
+927,1459321,democrat,democrat,partner earned more,1,1.0,0.0
+928,1461341,independent,republican,i earned more,0,1.0,1.0
+929,1463856,republican,republican,we earned about the same amount,1,0.0,
+930,1464431,democrat,democrat,i earned more,1,1.0,1.0
+931,1465371,"another party, please specify",democrat,i earned more,0,1.0,1.0
+932,1466245,republican,republican,partner earned more,1,1.0,0.0
+933,1467541,democrat,democrat,refused,1,,
+934,1468606,democrat,democrat,partner earned more,1,1.0,0.0
+935,1469225,democrat,democrat,i earned more,1,1.0,1.0
+936,1472491,democrat,republican,i earned more,0,1.0,1.0
+937,1473421,republican,republican,i earned more,1,1.0,1.0
+938,1474566,democrat,democrat,i earned more,1,1.0,1.0
+939,1475711,republican,republican,partner earned more,1,1.0,0.0
+940,1476271,republican,republican,partner earned more,1,1.0,0.0
+941,1477205,republican,republican,i earned more,1,1.0,1.0
+942,1478566,democrat,democrat,we earned about the same amount,1,0.0,
+943,1479275,democrat,democrat,i earned more,1,1.0,1.0
+944,1480621,democrat,democrat,we earned about the same amount,1,0.0,
+945,1482336,democrat,democrat,i earned more,1,1.0,1.0
+946,1484521,democrat,democrat,partner earned more,1,1.0,0.0
+947,1485791,democrat,democrat,i earned more,1,1.0,1.0
+948,1488486,republican,republican,partner earned more,1,1.0,0.0
+949,1490563,republican,democrat,i earned more,0,1.0,1.0
+950,1491391,democrat,democrat,i earned more,1,1.0,1.0
+951,1492642,republican,republican,partner earned more,1,1.0,0.0
+952,1493501,democrat,republican,i earned more,0,1.0,1.0
+953,1494381,democrat,democrat,i earned more,1,1.0,1.0
+954,1495643,democrat,democrat,we earned about the same amount,1,0.0,
+955,1496621,democrat,republican,partner earned more,0,1.0,0.0
+956,1497641,no preference,republican,i earned more,0,1.0,1.0
+957,1498471,republican,republican,partner earned more,1,1.0,0.0
+958,1500551,independent,republican,partner earned more,0,1.0,0.0
+959,1505246,no preference,republican,i earned more,0,1.0,1.0
+960,1506761,republican,republican,i earned more,1,1.0,1.0
+961,1507475,"another party, please specify",democrat,i earned more,0,1.0,1.0
+962,1509726,democrat,democrat,we earned about the same amount,1,0.0,
+963,1511571,republican,democrat,partner earned more,0,1.0,0.0
+964,1512761,republican,republican,partner earned more,1,1.0,0.0
+965,1513511,republican,republican,i earned more,1,1.0,1.0
+966,1514561,democrat,democrat,i earned more,1,1.0,1.0
+967,1515601,democrat,democrat,i earned more,1,1.0,1.0
+968,1516441,republican,other,partner earned more,0,1.0,0.0
+969,1517771,independent,democrat,i earned more,0,1.0,1.0
+970,1518501,democrat,democrat,we earned about the same amount,1,0.0,
+971,1519266,independent,democrat,i earned more,0,1.0,1.0
+972,1520271,no preference,republican,partner earned more,0,1.0,0.0
+973,1521461,independent,republican,i earned more,0,1.0,1.0
+974,1522341,republican,republican,i earned more,1,1.0,1.0
+975,1523526,democrat,republican,i earned more,0,1.0,1.0
+976,1524351,republican,republican,i earned more,1,1.0,1.0
+977,1525665,independent,democrat,i earned more,0,1.0,1.0
+978,1527295,democrat,democrat,i earned more,1,1.0,1.0
+979,1529205,no preference,republican,we earned about the same amount,0,0.0,
+980,1530311,no preference,republican,i earned more,0,1.0,1.0
+981,1531821,democrat,republican,i earned more,0,1.0,1.0
+982,1532631,independent,democrat,i earned more,0,1.0,1.0
+983,1534361,no preference,democrat,i earned more,0,1.0,1.0
+984,1536831,democrat,democrat,we earned about the same amount,1,0.0,
+985,1537541,democrat,democrat,partner earned more,1,1.0,0.0
+986,1538731,republican,republican,i earned more,1,1.0,1.0
+987,1540693,republican,democrat,partner earned more,0,1.0,0.0
+988,1541384,democrat,democrat,partner earned more,1,1.0,0.0
+989,1544581,republican,republican,i earned more,1,1.0,1.0
+990,1546505,democrat,democrat,we earned about the same amount,1,0.0,
+991,1547271,republican,republican,partner earned more,1,1.0,0.0
+992,1549701,no preference,other,i earned more,0,1.0,1.0
+993,1550851,independent,republican,we earned about the same amount,0,0.0,
+994,1551231,independent,democrat,i earned more,0,1.0,1.0
+995,1552386,no preference,democrat,we earned about the same amount,0,0.0,
+996,1553205,independent,democrat,i earned more,0,1.0,1.0
+997,1554466,democrat,democrat,partner earned more,1,1.0,0.0
+998,1555195,democrat,republican,i earned more,0,1.0,1.0
+999,1558251,republican,republican,partner earned more,1,1.0,0.0
+1000,1559571,democrat,democrat,i earned more,1,1.0,1.0
+1001,1560702,independent,republican,i earned more,0,1.0,1.0
+1002,1563713,no preference,democrat,partner earned more,0,1.0,0.0
+1003,1564453,no preference,democrat,i earned more,0,1.0,1.0
+1004,1565636,republican,republican,i earned more,1,1.0,1.0
+1005,1567444,"another party, please specify",democrat,we earned about the same amount,0,0.0,
+1006,1568251,no preference,democrat,we earned about the same amount,0,0.0,
+1007,1569351,democrat,republican,i earned more,0,1.0,1.0
+1008,1570286,republican,republican,i earned more,1,1.0,1.0
+1009,1571463,no preference,republican,i earned more,0,1.0,1.0
+1010,1573641,republican,republican,partner earned more,1,1.0,0.0
+1011,1574481,no preference,republican,i earned more,0,1.0,1.0
+1012,1575691,republican,republican,partner earned more,1,1.0,0.0
+1013,1577546,democrat,democrat,i earned more,1,1.0,1.0
+1014,1579693,independent,republican,i earned more,0,1.0,1.0
+1015,1580691,independent,democrat,we earned about the same amount,0,0.0,
+1016,1582653,democrat,democrat,partner earned more,1,1.0,0.0
+1017,1584491,republican,democrat,i earned more,0,1.0,1.0
+1018,1585543,democrat,democrat,we earned about the same amount,1,0.0,
+1019,1586641,independent,republican,i earned more,0,1.0,1.0
+1020,1587316,democrat,democrat,partner earned more,1,1.0,0.0
+1021,1588416,republican,republican,i earned more,1,1.0,1.0
+1022,1589361,democrat,democrat,i earned more,1,1.0,1.0
+1023,1590491,democrat,republican,partner earned more,0,1.0,0.0
+1024,1591601,no preference,republican,we earned about the same amount,0,0.0,
+1025,1592631,republican,democrat,partner earned more,0,1.0,0.0
+1026,1593301,independent,republican,i earned more,0,1.0,1.0
+1027,1594842,democrat,democrat,refused,1,,
+1028,1595371,republican,republican,partner earned more,1,1.0,0.0
+1029,1597546,no preference,democrat,partner earned more,0,1.0,0.0
+1030,1599291,independent,republican,i earned more,0,1.0,1.0
+1031,1600711,democrat,democrat,i earned more,1,1.0,1.0
+1032,1601511,democrat,democrat,i earned more,1,1.0,1.0
+1033,1602401,democrat,republican,partner earned more,0,1.0,0.0
+1034,1603265,independent,democrat,partner earned more,0,1.0,0.0
+1035,1605481,republican,republican,i earned more,1,1.0,1.0
+1036,1606456,democrat,democrat,i earned more,1,1.0,1.0
+1037,1608266,no preference,democrat,partner earned more,0,1.0,0.0
+1038,1610771,democrat,democrat,i earned more,1,1.0,1.0
+1039,1611503,independent,democrat,i earned more,0,1.0,1.0
+1040,1612235,independent,republican,i earned more,0,1.0,1.0
+1041,1613271,independent,republican,i earned more,0,1.0,1.0
+1042,1615431,democrat,democrat,partner earned more,1,1.0,0.0
+1043,1617575,democrat,democrat,partner earned more,1,1.0,0.0
+1044,1619401,no preference,republican,i earned more,0,1.0,1.0
+1045,1620371,republican,democrat,i earned more,0,1.0,1.0
+1046,1621812,republican,democrat,refused,0,,
+1047,1622621,republican,republican,i earned more,1,1.0,1.0
+1048,1623351,republican,republican,we earned about the same amount,1,0.0,
+1049,1624601,independent,democrat,partner earned more,0,1.0,0.0
+1050,1625871,no preference,democrat,i earned more,0,1.0,1.0
+1051,1626891,democrat,democrat,partner earned more,1,1.0,0.0
+1052,1627291,republican,republican,partner earned more,1,1.0,0.0
+1053,1628461,independent,democrat,partner earned more,0,1.0,0.0
+1054,1629821,republican,republican,partner earned more,1,1.0,0.0
+1055,1630551,democrat,democrat,partner earned more,1,1.0,0.0
+1056,1631443,republican,republican,i earned more,1,1.0,1.0
+1057,1632802,republican,republican,i earned more,1,1.0,1.0
+1058,1634672,republican,republican,partner earned more,1,1.0,0.0
+1059,1635436,democrat,democrat,i earned more,1,1.0,1.0
+1060,1637395,democrat,democrat,partner earned more,1,1.0,0.0
+1061,1638721,democrat,democrat,i earned more,1,1.0,1.0
+1062,1639691,democrat,democrat,partner earned more,1,1.0,0.0
+1063,1641281,"another party, please specify",republican,partner earned more,0,1.0,0.0
+1064,1642351,republican,republican,partner earned more,1,1.0,0.0
+1065,1643761,democrat,republican,partner earned more,0,1.0,0.0
+1066,1644245,democrat,democrat,i earned more,1,1.0,1.0
+1067,1645323,democrat,republican,i earned more,0,1.0,1.0
+1068,1647511,republican,republican,i earned more,1,1.0,1.0
+1069,1648276,no preference,democrat,i earned more,0,1.0,1.0
+1070,1650205,no preference,democrat,i earned more,0,1.0,1.0
+1071,1652451,independent,democrat,partner earned more,0,1.0,0.0
+1072,1653653,republican,republican,i earned more,1,1.0,1.0
+1073,1654671,democrat,democrat,i earned more,1,1.0,1.0
+1074,1655555,independent,republican,i earned more,0,1.0,1.0
+1075,1657335,democrat,democrat,i earned more,1,1.0,1.0
+1076,1661682,democrat,democrat,partner earned more,1,1.0,0.0
+1077,1664275,democrat,democrat,i earned more,1,1.0,1.0
+1078,1665713,republican,republican,partner earned more,1,1.0,0.0
+1079,1667291,democrat,democrat,we earned about the same amount,1,0.0,
+1080,1668241,no preference,republican,partner earned more,0,1.0,0.0
+1081,1669566,democrat,democrat,i earned more,1,1.0,1.0
+1082,1671291,no preference,other,i earned more,0,1.0,1.0
+1083,1672325,democrat,democrat,partner earned more,1,1.0,0.0
+1084,1673321,democrat,republican,i earned more,0,1.0,1.0
+1085,1674621,no preference,republican,partner earned more,0,1.0,0.0
+1086,1675641,republican,republican,partner earned more,1,1.0,0.0
+1087,1676566,democrat,democrat,partner earned more,1,1.0,0.0
+1088,1677766,democrat,democrat,i earned more,1,1.0,1.0
+1089,1678601,republican,republican,partner earned more,1,1.0,0.0
+1090,1681661,democrat,democrat,partner earned more,1,1.0,0.0
+1091,1683821,independent,republican,i earned more,0,1.0,1.0
+1092,1685385,democrat,democrat,partner earned more,1,1.0,0.0
+1093,1686502,no preference,democrat,partner earned more,0,1.0,0.0
+1094,1687301,no preference,republican,partner earned more,0,1.0,0.0
+1095,1688541,"another party, please specify",democrat,partner earned more,0,1.0,0.0
+1096,1689375,no preference,democrat,i earned more,0,1.0,1.0
+1097,1691641,democrat,democrat,i earned more,1,1.0,1.0
+1098,1692566,democrat,democrat,i earned more,1,1.0,1.0
+1099,1693481,democrat,democrat,partner earned more,1,1.0,0.0
+1100,1697445,republican,republican,refused,1,,
+1101,1698641,no preference,democrat,i earned more,0,1.0,1.0
+1102,1699641,independent,other,i earned more,0,1.0,1.0
+1103,1700416,democrat,democrat,i earned more,1,1.0,1.0
+1104,1703712,republican,republican,partner earned more,1,1.0,0.0
+1105,1704403,no preference,democrat,partner earned more,0,1.0,0.0
+1106,1705261,democrat,democrat,partner earned more,1,1.0,0.0
+1107,1706351,republican,republican,i earned more,1,1.0,1.0
+1108,1707621,republican,republican,i earned more,1,1.0,1.0
+1109,1708231,democrat,democrat,partner earned more,1,1.0,0.0
+1110,1709246,independent,republican,partner earned more,0,1.0,0.0
+1111,1711502,independent,democrat,partner earned more,0,1.0,0.0
+1112,1714741,independent,republican,partner earned more,0,1.0,0.0
+1113,1715481,republican,republican,partner earned more,1,1.0,0.0
+1114,1718291,republican,republican,partner earned more,1,1.0,0.0
+1115,1719406,democrat,democrat,i earned more,1,1.0,1.0
+1116,1720621,republican,republican,we earned about the same amount,1,0.0,
+1117,1721381,republican,republican,partner earned more,1,1.0,0.0
+1118,1726685,democrat,democrat,refused,1,,
+1119,1728311,democrat,democrat,we earned about the same amount,1,0.0,
+1120,1730361,democrat,democrat,we earned about the same amount,1,0.0,
+1121,1735441,republican,republican,i earned more,1,1.0,1.0
+1122,1736721,independent,democrat,partner earned more,0,1.0,0.0
+1123,1738463,republican,other,partner earned more,0,1.0,0.0
+1124,1739511,democrat,democrat,i earned more,1,1.0,1.0
+1125,1740291,republican,republican,i earned more,1,1.0,1.0
+1126,1742351,no preference,democrat,partner earned more,0,1.0,0.0
+1127,1743521,democrat,democrat,i earned more,1,1.0,1.0
+1128,1745446,democrat,democrat,i earned more,1,1.0,1.0
+1129,1747381,republican,republican,partner earned more,1,1.0,0.0
+1130,1748271,republican,republican,partner earned more,1,1.0,0.0
+1131,1749592,democrat,republican,i earned more,0,1.0,1.0
+1132,1750331,democrat,democrat,i earned more,1,1.0,1.0
+1133,1751291,no preference,republican,partner earned more,0,1.0,0.0
+1134,1752521,no preference,democrat,i earned more,0,1.0,1.0
+1135,1753471,democrat,republican,i earned more,0,1.0,1.0
+1136,1755306,democrat,democrat,partner earned more,1,1.0,0.0
+1137,1756633,democrat,democrat,partner earned more,1,1.0,0.0
+1138,1757781,republican,republican,partner earned more,1,1.0,0.0
+1139,1759791,independent,democrat,i earned more,0,1.0,1.0
+1140,1760353,democrat,other,i earned more,0,1.0,1.0
+1141,1762615,no preference,republican,partner earned more,0,1.0,0.0
+1142,1763881,republican,republican,i earned more,1,1.0,1.0
+1143,1764471,democrat,democrat,i earned more,1,1.0,1.0
+1144,1765521,republican,republican,we earned about the same amount,1,0.0,
+1145,1767591,republican,republican,partner earned more,1,1.0,0.0
+1146,1768436,democrat,democrat,partner earned more,1,1.0,0.0
+1147,1771195,independent,democrat,partner earned more,0,1.0,0.0
+1148,1772413,no preference,democrat,we earned about the same amount,0,0.0,
+1149,1774541,republican,republican,partner earned more,1,1.0,0.0
+1150,1777513,independent,republican,we earned about the same amount,0,0.0,
+1151,1778236,independent,democrat,i earned more,0,1.0,1.0
+1152,1779551,no preference,republican,partner earned more,0,1.0,0.0
+1153,1781261,no preference,republican,i earned more,0,1.0,1.0
+1154,1784331,democrat,democrat,i earned more,1,1.0,1.0
+1155,1785761,"another party, please specify",republican,partner earned more,0,1.0,0.0
+1156,1786301,republican,republican,i earned more,1,1.0,1.0
+1157,1787296,democrat,democrat,we earned about the same amount,1,0.0,
+1158,1788316,democrat,democrat,partner earned more,1,1.0,0.0
+1159,1790623,independent,democrat,partner earned more,0,1.0,0.0
+1160,1792311,no preference,democrat,partner earned more,0,1.0,0.0
+1161,1793381,republican,democrat,partner earned more,0,1.0,0.0
+1162,1794351,no preference,other,we earned about the same amount,0,0.0,
+1163,1795381,republican,democrat,i earned more,0,1.0,1.0
+1164,1796621,independent,republican,partner earned more,0,1.0,0.0
+1165,1797541,democrat,democrat,partner earned more,1,1.0,0.0
+1166,1798281,democrat,democrat,partner earned more,1,1.0,0.0
+1167,1799441,republican,republican,i earned more,1,1.0,1.0
+1168,1800341,republican,republican,i earned more,1,1.0,1.0
+1169,1802445,democrat,democrat,i earned more,1,1.0,1.0
+1170,1803416,democrat,democrat,i earned more,1,1.0,1.0
+1171,1804235,democrat,democrat,partner earned more,1,1.0,0.0
+1172,1805341,independent,democrat,partner earned more,0,1.0,0.0
+1173,1807331,democrat,democrat,partner earned more,1,1.0,0.0
+1174,1808475,no preference,democrat,i earned more,0,1.0,1.0
+1175,1809246,democrat,democrat,i earned more,1,1.0,1.0
+1176,1810601,republican,democrat,i earned more,0,1.0,1.0
+1177,1812681,democrat,democrat,partner earned more,1,1.0,0.0
+1178,1813483,independent,republican,i earned more,0,1.0,1.0
+1179,1814401,democrat,democrat,partner earned more,1,1.0,0.0
+1180,1815601,republican,republican,partner earned more,1,1.0,0.0
+1181,1817446,no preference,other,partner earned more,0,1.0,0.0
+1182,1818371,republican,republican,i earned more,1,1.0,1.0
+1183,1819566,democrat,democrat,partner earned more,1,1.0,0.0
+1184,1820763,independent,democrat,partner earned more,0,1.0,0.0
+1185,1821371,republican,republican,i earned more,1,1.0,1.0
+1186,1823706,democrat,democrat,i earned more,1,1.0,1.0
+1187,1825361,republican,democrat,i earned more,0,1.0,1.0
+1188,1828271,republican,republican,partner earned more,1,1.0,0.0
+1189,1830561,democrat,republican,we earned about the same amount,0,0.0,
+1190,1831446,democrat,democrat,partner earned more,1,1.0,0.0
+1191,1833581,independent,republican,we earned about the same amount,0,0.0,
+1192,1834215,democrat,democrat,partner earned more,1,1.0,0.0
+1193,1835645,republican,republican,partner earned more,1,1.0,0.0
+1194,1836683,democrat,democrat,partner earned more,1,1.0,0.0
+1195,1837415,no preference,republican,i earned more,0,1.0,1.0
+1196,1839335,independent,democrat,partner earned more,0,1.0,0.0
+1197,1840205,no preference,republican,we earned about the same amount,0,0.0,
+1198,1841311,democrat,democrat,i earned more,1,1.0,1.0
+1199,1842506,democrat,democrat,partner earned more,1,1.0,0.0
+1200,1843471,democrat,democrat,i earned more,1,1.0,1.0
+1201,1845451,republican,republican,partner earned more,1,1.0,0.0
+1202,1846441,democrat,democrat,i earned more,1,1.0,1.0
+1203,1848513,republican,democrat,i earned more,0,1.0,1.0
+1204,1850456,democrat,democrat,partner earned more,1,1.0,0.0
+1205,1852461,independent,republican,we earned about the same amount,0,0.0,
+1206,1853843,democrat,democrat,partner earned more,1,1.0,0.0
+1207,1854541,republican,republican,i earned more,1,1.0,1.0
+1208,1855236,democrat,democrat,i earned more,1,1.0,1.0
+1209,1857346,democrat,democrat,i earned more,1,1.0,1.0
+1210,1859701,democrat,democrat,partner earned more,1,1.0,0.0
+1211,1860271,no preference,democrat,i earned more,0,1.0,1.0
+1212,1861603,no preference,republican,we earned about the same amount,0,0.0,
+1213,1862281,democrat,republican,partner earned more,0,1.0,0.0
+1214,1863321,republican,republican,we earned about the same amount,1,0.0,
+1215,1864311,republican,republican,i earned more,1,1.0,1.0
+1216,1865296,democrat,democrat,i earned more,1,1.0,1.0
+1217,1866571,democrat,democrat,i earned more,1,1.0,1.0
+1218,1867521,democrat,democrat,partner earned more,1,1.0,0.0
+1219,1868455,democrat,democrat,partner earned more,1,1.0,0.0
+1220,1869273,democrat,democrat,i earned more,1,1.0,1.0
+1221,1870406,republican,republican,i earned more,1,1.0,1.0
+1222,1871556,no preference,democrat,partner earned more,0,1.0,0.0
+1223,1875531,republican,republican,partner earned more,1,1.0,0.0
+1224,1879215,republican,republican,i earned more,1,1.0,1.0
+1225,1882315,democrat,democrat,i earned more,1,1.0,1.0
+1226,1883321,democrat,democrat,partner earned more,1,1.0,0.0
+1227,1885371,democrat,democrat,i earned more,1,1.0,1.0
+1228,1886461,independent,republican,i earned more,0,1.0,1.0
+1229,1888561,republican,republican,partner earned more,1,1.0,0.0
+1230,1890241,republican,democrat,partner earned more,0,1.0,0.0
+1231,1891561,republican,republican,i earned more,1,1.0,1.0
+1232,1892215,no preference,republican,partner earned more,0,1.0,0.0
+1233,1894396,democrat,democrat,partner earned more,1,1.0,0.0
+1234,1897225,republican,democrat,i earned more,0,1.0,1.0
+1235,1898671,no preference,democrat,i earned more,0,1.0,1.0
+1236,1900391,no preference,other,partner earned more,0,1.0,0.0
+1237,1901531,no preference,democrat,partner earned more,0,1.0,0.0
+1238,1902385,republican,democrat,partner earned more,0,1.0,0.0
+1239,1904661,democrat,democrat,i earned more,1,1.0,1.0
+1240,1905431,democrat,republican,i earned more,0,1.0,1.0
+1241,1906461,"another party, please specify",republican,partner earned more,0,1.0,0.0
+1242,1907225,"another party, please specify",other,i earned more,0,1.0,1.0
+1243,1908381,republican,republican,i earned more,1,1.0,1.0
+1244,1910205,democrat,democrat,i earned more,1,1.0,1.0
+1245,1912446,republican,democrat,i earned more,0,1.0,1.0
+1246,1914291,democrat,democrat,partner earned more,1,1.0,0.0
+1247,1915281,republican,republican,i earned more,1,1.0,1.0
+1248,1918441,democrat,democrat,i earned more,1,1.0,1.0
+1249,1919431,democrat,democrat,i earned more,1,1.0,1.0
+1250,1922632,democrat,democrat,i earned more,1,1.0,1.0
+1251,1924581,no preference,republican,i earned more,0,1.0,1.0
+1252,1925511,republican,republican,partner earned more,1,1.0,0.0
+1253,1926366,democrat,democrat,partner earned more,1,1.0,0.0
+1254,1928351,democrat,democrat,partner earned more,1,1.0,0.0
+1255,1929641,republican,republican,i earned more,1,1.0,1.0
+1256,1930531,independent,democrat,i earned more,0,1.0,1.0
+1257,1932416,democrat,democrat,we earned about the same amount,1,0.0,
+1258,1933576,no preference,democrat,i earned more,0,1.0,1.0
+1259,1935281,democrat,democrat,partner earned more,1,1.0,0.0
+1260,1936281,republican,republican,we earned about the same amount,1,0.0,
+1261,1942291,democrat,democrat,partner earned more,1,1.0,0.0
+1262,1944641,republican,republican,partner earned more,1,1.0,0.0
+1263,1947301,republican,democrat,partner earned more,0,1.0,0.0
+1264,1950461,independent,republican,i earned more,0,1.0,1.0
+1265,1952535,democrat,democrat,partner earned more,1,1.0,0.0
+1266,1953441,no preference,republican,i earned more,0,1.0,1.0
+1267,1954621,democrat,democrat,we earned about the same amount,1,0.0,
+1268,1958331,republican,republican,i earned more,1,1.0,1.0
+1269,1959311,independent,democrat,i earned more,0,1.0,1.0
+1270,1960361,republican,republican,i earned more,1,1.0,1.0
+1271,1963361,republican,republican,i earned more,1,1.0,1.0
+1272,1964531,republican,republican,i earned more,1,1.0,1.0
+1273,1965401,democrat,democrat,i earned more,1,1.0,1.0
+1274,1966581,independent,democrat,partner earned more,0,1.0,0.0
+1275,1967711,democrat,democrat,we earned about the same amount,1,0.0,
+1276,1969416,republican,republican,partner earned more,1,1.0,0.0
+1277,1970216,democrat,democrat,i earned more,1,1.0,1.0
+1278,1972476,no preference,democrat,partner earned more,0,1.0,0.0
+1279,1974466,democrat,democrat,partner earned more,1,1.0,0.0
+1280,1975205,democrat,republican,we earned about the same amount,0,0.0,
+1281,1977621,democrat,republican,i earned more,0,1.0,1.0
+1282,1978511,republican,republican,i earned more,1,1.0,1.0
+1283,1982391,no preference,democrat,i earned more,0,1.0,1.0
+1284,1984436,republican,republican,partner earned more,1,1.0,0.0
+1285,1985391,republican,republican,i earned more,1,1.0,1.0
+1286,1986571,republican,republican,partner earned more,1,1.0,0.0
+1287,1989521,democrat,democrat,i earned more,1,1.0,1.0
+1288,1990566,democrat,democrat,i earned more,1,1.0,1.0
+1289,1992601,democrat,democrat,i earned more,1,1.0,1.0
+1290,1993565,democrat,democrat,partner earned more,1,1.0,0.0
+1291,1995622,democrat,democrat,refused,1,,
+1292,1998801,democrat,democrat,i earned more,1,1.0,1.0
+1293,1999591,independent,republican,partner earned more,0,1.0,0.0
+1294,2000641,democrat,democrat,partner earned more,1,1.0,0.0
+1295,2002381,no preference,democrat,i earned more,0,1.0,1.0
+1296,2003516,democrat,democrat,we earned about the same amount,1,0.0,
+1297,2009245,independent,republican,partner earned more,0,1.0,0.0
+1298,2013526,democrat,democrat,we earned about the same amount,1,0.0,
+1299,2015255,independent,democrat,partner earned more,0,1.0,0.0
+1300,2016761,republican,republican,partner earned more,1,1.0,0.0
+1301,2017286,no preference,democrat,i earned more,0,1.0,1.0
+1302,2018495,democrat,democrat,partner earned more,1,1.0,0.0
+1303,2020261,no preference,republican,partner earned more,0,1.0,0.0
+1304,2023291,independent,republican,i earned more,0,1.0,1.0
+1305,2025423,democrat,democrat,we earned about the same amount,1,0.0,
+1306,2026446,democrat,democrat,partner earned more,1,1.0,0.0
+1307,2027521,democrat,republican,i earned more,0,1.0,1.0
+1308,2028576,democrat,democrat,partner earned more,1,1.0,0.0
+1309,2029496,independent,republican,i earned more,0,1.0,1.0
+1310,2030381,no preference,republican,i earned more,0,1.0,1.0
+1311,2031541,democrat,democrat,i earned more,1,1.0,1.0
+1312,2032535,no preference,republican,i earned more,0,1.0,1.0
+1313,2033463,republican,republican,i earned more,1,1.0,1.0
+1314,2034526,independent,democrat,i earned more,0,1.0,1.0
+1315,2036461,independent,republican,i earned more,0,1.0,1.0
+1316,2037441,independent,democrat,we earned about the same amount,0,0.0,
+1317,2038275,no preference,democrat,i earned more,0,1.0,1.0
+1318,2039531,democrat,democrat,we earned about the same amount,1,0.0,
+1319,2040821,"another party, please specify",republican,partner earned more,0,1.0,0.0
+1320,2041791,democrat,democrat,i earned more,1,1.0,1.0
+1321,2045781,no preference,other,i earned more,0,1.0,1.0
+1322,2047493,democrat,democrat,we earned about the same amount,1,0.0,
+1323,2049245,republican,republican,we earned about the same amount,1,0.0,
+1324,2052541,independent,republican,partner earned more,0,1.0,0.0
+1325,2053443,no preference,democrat,i earned more,0,1.0,1.0
+1326,2055481,democrat,democrat,i earned more,1,1.0,1.0
+1327,2059581,independent,democrat,partner earned more,0,1.0,0.0
+1328,2062511,republican,republican,partner earned more,1,1.0,0.0
+1329,2063205,independent,democrat,i earned more,0,1.0,1.0
+1330,2064651,republican,republican,partner earned more,1,1.0,0.0
+1331,2065431,no preference,other,partner earned more,0,1.0,0.0
+1332,2066551,democrat,democrat,i earned more,1,1.0,1.0
+1333,2067411,independent,republican,i earned more,0,1.0,1.0
+1334,2068206,democrat,other,refused,0,,
+1335,2069261,republican,republican,partner earned more,1,1.0,0.0
+1336,2070361,democrat,democrat,i earned more,1,1.0,1.0
+1337,2071506,independent,democrat,i earned more,0,1.0,1.0
+1338,2072195,independent,republican,partner earned more,0,1.0,0.0
+1339,2073466,democrat,democrat,i earned more,1,1.0,1.0
+1340,2075404,independent,democrat,i earned more,0,1.0,1.0
+1341,2076271,no preference,republican,partner earned more,0,1.0,0.0
+1342,2077215,no preference,democrat,we earned about the same amount,0,0.0,
+1343,2078631,no preference,republican,partner earned more,0,1.0,0.0
+1344,2079721,republican,republican,i earned more,1,1.0,1.0
+1345,2080896,independent,democrat,partner earned more,0,1.0,0.0
+1346,2083271,republican,republican,partner earned more,1,1.0,0.0
+1347,2084411,no preference,democrat,refused,0,,
+1348,2086556,democrat,democrat,we earned about the same amount,1,0.0,
+1349,2088471,no preference,democrat,i earned more,0,1.0,1.0
+1350,2089361,democrat,republican,i earned more,0,1.0,1.0
+1351,2091581,independent,democrat,i earned more,0,1.0,1.0
+1352,2092496,democrat,republican,i earned more,0,1.0,1.0
+1353,2093501,democrat,democrat,i earned more,1,1.0,1.0
+1354,2095281,democrat,democrat,partner earned more,1,1.0,0.0
+1355,2096536,democrat,democrat,we earned about the same amount,1,0.0,
+1356,2097411,democrat,democrat,i earned more,1,1.0,1.0
+1357,2098515,independent,other,partner earned more,0,1.0,0.0
+1358,2099831,democrat,democrat,i earned more,1,1.0,1.0
+1359,2100743,independent,democrat,partner earned more,0,1.0,0.0
+1360,2101416,no preference,republican,i earned more,0,1.0,1.0
+1361,2103296,democrat,democrat,i earned more,1,1.0,1.0
+1362,2105421,no preference,republican,i earned more,0,1.0,1.0
+1363,2107491,democrat,democrat,we earned about the same amount,1,0.0,
+1364,2108781,republican,republican,i earned more,1,1.0,1.0
+1365,2109285,no preference,democrat,partner earned more,0,1.0,0.0
+1366,2110451,republican,republican,partner earned more,1,1.0,0.0
+1367,2111623,democrat,democrat,i earned more,1,1.0,1.0
+1368,2112291,democrat,republican,partner earned more,0,1.0,0.0
+1369,2114411,no preference,other,partner earned more,0,1.0,0.0
+1370,2117621,democrat,democrat,we earned about the same amount,1,0.0,
+1371,2118245,democrat,democrat,i earned more,1,1.0,1.0
+1372,2119791,no preference,republican,i earned more,0,1.0,1.0
+1373,2120526,democrat,democrat,partner earned more,1,1.0,0.0
+1374,2121436,democrat,democrat,partner earned more,1,1.0,0.0
+1375,2124215,independent,democrat,partner earned more,0,1.0,0.0
+1376,2125215,democrat,democrat,partner earned more,1,1.0,0.0
+1377,2127441,republican,republican,we earned about the same amount,1,0.0,
+1378,2128441,democrat,democrat,partner earned more,1,1.0,0.0
+1379,2130225,republican,republican,i earned more,1,1.0,1.0
+1380,2131426,democrat,democrat,we earned about the same amount,1,0.0,
+1381,2134466,democrat,democrat,partner earned more,1,1.0,0.0
+1382,2137436,no preference,republican,i earned more,0,1.0,1.0
+1383,2140561,democrat,democrat,i earned more,1,1.0,1.0
+1384,2142591,democrat,democrat,partner earned more,1,1.0,0.0
+1385,2143405,democrat,republican,i earned more,0,1.0,1.0
+1386,2144501,no preference,republican,i earned more,0,1.0,1.0
+1387,2145295,democrat,democrat,partner earned more,1,1.0,0.0
+1388,2146361,independent,democrat,i earned more,0,1.0,1.0
+1389,2147491,no preference,democrat,i earned more,0,1.0,1.0
+1390,2149736,democrat,democrat,i earned more,1,1.0,1.0
+1391,2150511,republican,republican,partner earned more,1,1.0,0.0
+1392,2151631,no preference,republican,i earned more,0,1.0,1.0
+1393,2153601,no preference,republican,partner earned more,0,1.0,0.0
+1394,2154365,no preference,democrat,refused,0,,
+1395,2155561,republican,republican,partner earned more,1,1.0,0.0
+1396,2156394,democrat,democrat,partner earned more,1,1.0,0.0
+1397,2159315,democrat,democrat,i earned more,1,1.0,1.0
+1398,2160635,independent,democrat,i earned more,0,1.0,1.0
+1399,2161732,democrat,democrat,i earned more,1,1.0,1.0
+1400,2162822,democrat,democrat,partner earned more,1,1.0,0.0
+1401,2163291,republican,republican,partner earned more,1,1.0,0.0
+1402,2164622,democrat,democrat,i earned more,1,1.0,1.0
+1403,2165591,republican,republican,partner earned more,1,1.0,0.0
+1404,2167261,democrat,republican,partner earned more,0,1.0,0.0
+1405,2168301,no preference,democrat,partner earned more,0,1.0,0.0
+1406,2169386,democrat,democrat,i earned more,1,1.0,1.0
+1407,2170641,no preference,republican,we earned about the same amount,0,0.0,
+1408,2171371,republican,republican,i earned more,1,1.0,1.0
+1409,2172526,democrat,democrat,i earned more,1,1.0,1.0
+1410,2173235,republican,republican,partner earned more,1,1.0,0.0
+1411,2175365,democrat,democrat,partner earned more,1,1.0,0.0
+1412,2176301,no preference,democrat,refused,0,,
+1413,2177596,independent,democrat,i earned more,0,1.0,1.0
+1414,2178396,democrat,republican,i earned more,0,1.0,1.0
+1415,2179636,democrat,democrat,i earned more,1,1.0,1.0
+1416,2180411,republican,republican,we earned about the same amount,1,0.0,
+1417,2181421,independent,democrat,i earned more,0,1.0,1.0
+1418,2183361,democrat,democrat,i earned more,1,1.0,1.0
+1419,2184591,democrat,democrat,partner earned more,1,1.0,0.0
+1420,2187416,republican,republican,partner earned more,1,1.0,0.0
+1421,2188581,democrat,democrat,partner earned more,1,1.0,0.0
+1422,2190381,democrat,republican,partner earned more,0,1.0,0.0
+1423,2192852,republican,republican,partner earned more,1,1.0,0.0
+1424,2193195,democrat,republican,partner earned more,0,1.0,0.0
+1425,2194621,democrat,democrat,i earned more,1,1.0,1.0
+1426,2195781,no preference,democrat,partner earned more,0,1.0,0.0
+1427,2196501,democrat,democrat,i earned more,1,1.0,1.0
+1428,2197361,independent,democrat,i earned more,0,1.0,1.0
+1429,2198686,democrat,democrat,partner earned more,1,1.0,0.0
+1430,2199575,no preference,democrat,partner earned more,0,1.0,0.0
+1431,2200651,democrat,republican,i earned more,0,1.0,1.0
+1432,2201486,democrat,democrat,partner earned more,1,1.0,0.0
+1433,2203446,independent,republican,i earned more,0,1.0,1.0
+1434,2204281,republican,republican,we earned about the same amount,1,0.0,
+1435,2205832,democrat,democrat,we earned about the same amount,1,0.0,
+1436,2206256,independent,democrat,partner earned more,0,1.0,0.0
+1437,2207591,no preference,democrat,partner earned more,0,1.0,0.0
+1438,2208621,no preference,republican,i earned more,0,1.0,1.0
+1439,2209421,no preference,republican,i earned more,0,1.0,1.0
+1440,2211311,independent,republican,i earned more,0,1.0,1.0
+1441,2212616,no preference,democrat,i earned more,0,1.0,1.0
+1442,2218261,democrat,democrat,partner earned more,1,1.0,0.0
+1443,2219255,democrat,democrat,partner earned more,1,1.0,0.0
+1444,2220321,no preference,democrat,partner earned more,0,1.0,0.0
+1445,2221291,republican,republican,partner earned more,1,1.0,0.0
+1446,2222425,democrat,democrat,partner earned more,1,1.0,0.0
+1447,2223581,democrat,democrat,partner earned more,1,1.0,0.0
+1448,2224215,democrat,democrat,partner earned more,1,1.0,0.0
+1449,2226231,democrat,democrat,i earned more,1,1.0,1.0
+1450,2227296,independent,democrat,partner earned more,0,1.0,0.0
+1451,2228436,independent,democrat,partner earned more,0,1.0,0.0
+1452,2229421,no preference,democrat,partner earned more,0,1.0,0.0
+1453,2230711,no preference,democrat,i earned more,0,1.0,1.0
+1454,2232496,democrat,democrat,partner earned more,1,1.0,0.0
+1455,2235561,democrat,republican,i earned more,0,1.0,1.0
+1456,2237225,democrat,democrat,i earned more,1,1.0,1.0
+1457,2238361,independent,republican,i earned more,0,1.0,1.0
+1458,2242616,democrat,democrat,partner earned more,1,1.0,0.0
+1459,2246691,democrat,democrat,i earned more,1,1.0,1.0
+1460,2247501,republican,republican,partner earned more,1,1.0,0.0
+1461,2249411,democrat,democrat,i earned more,1,1.0,1.0
+1462,2250596,independent,republican,we earned about the same amount,0,0.0,
+1463,2252496,democrat,democrat,partner earned more,1,1.0,0.0
+1464,2256431,democrat,democrat,we earned about the same amount,1,0.0,
+1465,2260661,independent,republican,i earned more,0,1.0,1.0
+1466,2266405,republican,democrat,i earned more,0,1.0,1.0
+1467,2268411,democrat,republican,i earned more,0,1.0,1.0
+1468,2270851,republican,republican,i earned more,1,1.0,1.0
+1469,2272671,democrat,democrat,refused,1,,
+1470,2273691,no preference,democrat,i earned more,0,1.0,1.0
+1471,2274225,democrat,democrat,we earned about the same amount,1,0.0,
+1472,2276244,democrat,democrat,partner earned more,1,1.0,0.0
+1473,2277506,democrat,democrat,i earned more,1,1.0,1.0
+1474,2278553,independent,democrat,partner earned more,0,1.0,0.0
+1475,2280655,no preference,democrat,i earned more,0,1.0,1.0
+1476,2281616,democrat,democrat,partner earned more,1,1.0,0.0
+1477,2282431,democrat,republican,partner earned more,0,1.0,0.0
+1478,2285351,democrat,republican,i earned more,0,1.0,1.0
+1479,2286421,republican,republican,i earned more,1,1.0,1.0
+1480,2287554,democrat,republican,i earned more,0,1.0,1.0
+1481,2288511,independent,democrat,we earned about the same amount,0,0.0,
+1482,2289671,democrat,democrat,partner earned more,1,1.0,0.0
+1483,2290306,"another party, please specify",democrat,partner earned more,0,1.0,0.0
+1484,2292275,independent,republican,partner earned more,0,1.0,0.0
+1485,2294411,democrat,democrat,we earned about the same amount,1,0.0,
+1486,2296531,no preference,republican,i earned more,0,1.0,1.0
+1487,2297221,democrat,democrat,i earned more,1,1.0,1.0
+1488,2298381,independent,republican,partner earned more,0,1.0,0.0
+1489,2299651,republican,republican,i earned more,1,1.0,1.0
+1490,2300541,no preference,democrat,i earned more,0,1.0,1.0
+1491,2302541,democrat,democrat,partner earned more,1,1.0,0.0
+1492,2303465,no preference,democrat,i earned more,0,1.0,1.0
+1493,2304511,democrat,democrat,i earned more,1,1.0,1.0
+1494,2305481,republican,republican,partner earned more,1,1.0,0.0
+1495,2306401,republican,republican,i earned more,1,1.0,1.0
+1496,2307264,independent,democrat,refused,0,,
+1497,2309591,republican,republican,i earned more,1,1.0,1.0
+1498,2310431,republican,republican,partner earned more,1,1.0,0.0
+1499,2311205,democrat,democrat,partner earned more,1,1.0,0.0
+1500,2312496,republican,republican,partner earned more,1,1.0,0.0
+1501,2314732,democrat,democrat,partner earned more,1,1.0,0.0
+1502,2317486,no preference,democrat,i earned more,0,1.0,1.0
+1503,2318566,democrat,democrat,partner earned more,1,1.0,0.0
+1504,2321421,republican,republican,i earned more,1,1.0,1.0
+1505,2322215,democrat,democrat,partner earned more,1,1.0,0.0
+1506,2323671,republican,republican,i earned more,1,1.0,1.0
+1507,2327642,no preference,other,i earned more,0,1.0,1.0
+1508,2328561,democrat,democrat,i earned more,1,1.0,1.0
+1509,2330376,democrat,democrat,partner earned more,1,1.0,0.0
+1510,2333551,democrat,democrat,i earned more,1,1.0,1.0
+1511,2334456,democrat,democrat,partner earned more,1,1.0,0.0
+1512,2335586,democrat,democrat,partner earned more,1,1.0,0.0
+1513,2337554,democrat,democrat,we earned about the same amount,1,0.0,
+1514,2338195,democrat,democrat,we earned about the same amount,1,0.0,
+1515,2339381,republican,republican,i earned more,1,1.0,1.0
+1516,2342326,democrat,democrat,i earned more,1,1.0,1.0
+1517,2343271,democrat,democrat,partner earned more,1,1.0,0.0
+1518,2344281,democrat,democrat,i earned more,1,1.0,1.0
+1519,2347261,democrat,republican,i earned more,0,1.0,1.0
+1520,2349521,no preference,democrat,partner earned more,0,1.0,0.0
+1521,2350195,no preference,republican,partner earned more,0,1.0,0.0
+1522,2352296,democrat,democrat,i earned more,1,1.0,1.0
+1523,2353373,democrat,democrat,i earned more,1,1.0,1.0
+1524,2354381,no preference,republican,i earned more,0,1.0,1.0
+1525,2355521,no preference,republican,partner earned more,0,1.0,0.0
+1526,2356606,democrat,democrat,partner earned more,1,1.0,0.0
+1527,2358331,republican,democrat,i earned more,0,1.0,1.0
+1528,2361411,independent,democrat,we earned about the same amount,0,0.0,
+1529,2363391,republican,republican,i earned more,1,1.0,1.0
+1530,2364441,no preference,republican,we earned about the same amount,0,0.0,
+1531,2365386,democrat,democrat,i earned more,1,1.0,1.0
+1532,2366361,republican,republican,i earned more,1,1.0,1.0
+1533,2367561,republican,republican,partner earned more,1,1.0,0.0
+1534,2368446,democrat,democrat,i earned more,1,1.0,1.0
+1535,2370396,democrat,democrat,i earned more,1,1.0,1.0
+1536,2371312,democrat,democrat,partner earned more,1,1.0,0.0
+1537,2372802,democrat,democrat,partner earned more,1,1.0,0.0
+1538,2373376,democrat,democrat,i earned more,1,1.0,1.0
+1539,2374284,no preference,democrat,partner earned more,0,1.0,0.0
+1540,2376421,independent,republican,we earned about the same amount,0,0.0,
+1541,2377541,independent,republican,partner earned more,0,1.0,0.0
+1542,2379611,democrat,democrat,partner earned more,1,1.0,0.0
+1543,2380466,no preference,democrat,partner earned more,0,1.0,0.0
+1544,2381381,republican,republican,i earned more,1,1.0,1.0
+1545,2382301,republican,republican,partner earned more,1,1.0,0.0
+1546,2388281,republican,republican,partner earned more,1,1.0,0.0
+1547,2389501,independent,republican,i earned more,0,1.0,1.0
+1548,2390491,republican,republican,partner earned more,1,1.0,0.0
+1549,2393341,democrat,democrat,partner earned more,1,1.0,0.0
+1550,2394813,democrat,democrat,partner earned more,1,1.0,0.0
+1551,2395381,no preference,republican,i earned more,0,1.0,1.0
+1552,2397281,democrat,democrat,partner earned more,1,1.0,0.0
+1553,2398492,democrat,democrat,i earned more,1,1.0,1.0
+1554,2401544,democrat,democrat,partner earned more,1,1.0,0.0
+1555,2402351,democrat,democrat,i earned more,1,1.0,1.0
+1556,2403491,independent,democrat,partner earned more,0,1.0,0.0
+1557,2405331,republican,republican,partner earned more,1,1.0,0.0
+1558,2406541,republican,democrat,partner earned more,0,1.0,0.0
+1559,2408506,democrat,democrat,we earned about the same amount,1,0.0,
+1560,2409671,independent,democrat,i earned more,0,1.0,1.0
+1561,2412491,democrat,democrat,we earned about the same amount,1,0.0,
+1562,2413411,democrat,democrat,i earned more,1,1.0,1.0
+1563,2414511,democrat,democrat,i earned more,1,1.0,1.0
+1564,2416571,democrat,democrat,i earned more,1,1.0,1.0
+1565,2422533,democrat,democrat,i earned more,1,1.0,1.0
+1566,2423613,democrat,democrat,i earned more,1,1.0,1.0
+1567,2425596,democrat,democrat,partner earned more,1,1.0,0.0
+1568,2427431,independent,democrat,i earned more,0,1.0,1.0
+1569,2428344,independent,democrat,i earned more,0,1.0,1.0
+1570,2429371,no preference,republican,partner earned more,0,1.0,0.0
+1571,2430446,democrat,republican,partner earned more,0,1.0,0.0
+1572,2431491,democrat,democrat,partner earned more,1,1.0,0.0
+1573,2433651,democrat,republican,partner earned more,0,1.0,0.0
+1574,2434421,democrat,democrat,i earned more,1,1.0,1.0
+1575,2435561,independent,republican,i earned more,0,1.0,1.0
+1576,2437651,independent,republican,i earned more,0,1.0,1.0
+1577,2438411,democrat,democrat,i earned more,1,1.0,1.0
+1578,2439205,no preference,democrat,we earned about the same amount,0,0.0,
+1579,2440651,independent,democrat,i earned more,0,1.0,1.0
+1580,2442581,republican,republican,we earned about the same amount,1,0.0,
+1581,2449225,republican,democrat,partner earned more,0,1.0,0.0
+1582,2451281,republican,republican,partner earned more,1,1.0,0.0
+1583,2453455,democrat,democrat,partner earned more,1,1.0,0.0
+1584,2457561,democrat,democrat,i earned more,1,1.0,1.0
+1585,2460536,democrat,democrat,i earned more,1,1.0,1.0
+1586,2461521,democrat,republican,we earned about the same amount,0,0.0,
+1587,2462533,no preference,republican,i earned more,0,1.0,1.0
+1588,2463495,democrat,democrat,i earned more,1,1.0,1.0
+1589,2464481,no preference,democrat,partner earned more,0,1.0,0.0
+1590,2465606,democrat,democrat,i earned more,1,1.0,1.0
+1591,2466445,democrat,democrat,partner earned more,1,1.0,0.0
+1592,2468481,democrat,democrat,i earned more,1,1.0,1.0
+1593,2470335,republican,democrat,i earned more,0,1.0,1.0
+1594,2471586,democrat,democrat,i earned more,1,1.0,1.0
+1595,2472495,independent,republican,partner earned more,0,1.0,0.0
+1596,2473591,democrat,democrat,i earned more,1,1.0,1.0
+1597,2478401,republican,republican,i earned more,1,1.0,1.0
+1598,2479313,republican,republican,partner earned more,1,1.0,0.0
+1599,2480586,democrat,democrat,we earned about the same amount,1,0.0,
+1600,2482586,democrat,democrat,i earned more,1,1.0,1.0
+1601,2483563,democrat,democrat,i earned more,1,1.0,1.0
+1602,2485465,no preference,republican,partner earned more,0,1.0,0.0
+1603,2486245,republican,republican,partner earned more,1,1.0,0.0
+1604,2487583,independent,democrat,partner earned more,0,1.0,0.0
+1605,2488453,refused,other,partner earned more,0,1.0,0.0
+1606,2489561,republican,republican,i earned more,1,1.0,1.0
+1607,2490501,democrat,democrat,we earned about the same amount,1,0.0,
+1608,2491261,republican,republican,partner earned more,1,1.0,0.0
+1609,2492401,independent,democrat,i earned more,0,1.0,1.0
+1610,2494291,republican,republican,i earned more,1,1.0,1.0
+1611,2496271,republican,republican,i earned more,1,1.0,1.0
+1612,2497286,democrat,democrat,i earned more,1,1.0,1.0
+1613,2499671,republican,republican,partner earned more,1,1.0,0.0
+1614,2500281,republican,democrat,i earned more,0,1.0,1.0
+1615,2501285,republican,republican,partner earned more,1,1.0,0.0
+1616,2502671,democrat,democrat,i earned more,1,1.0,1.0
+1617,2503411,republican,republican,partner earned more,1,1.0,0.0
+1618,2504476,democrat,democrat,i earned more,1,1.0,1.0
+1619,2505436,democrat,democrat,partner earned more,1,1.0,0.0
+1620,2506506,republican,republican,we earned about the same amount,1,0.0,
+1621,2507563,"another party, please specify",democrat,partner earned more,0,1.0,0.0
+1622,2508414,democrat,democrat,we earned about the same amount,1,0.0,
+1623,2510361,independent,republican,i earned more,0,1.0,1.0
+1624,2512476,independent,republican,i earned more,0,1.0,1.0
+1625,2514683,no preference,republican,i earned more,0,1.0,1.0
+1626,2515245,refused,other,i earned more,0,1.0,1.0
+1627,2516782,democrat,republican,i earned more,0,1.0,1.0
+1628,2517611,independent,democrat,i earned more,0,1.0,1.0
+1629,2518321,no preference,democrat,i earned more,0,1.0,1.0
+1630,2519493,democrat,republican,partner earned more,0,1.0,0.0
+1631,2520291,no preference,democrat,partner earned more,0,1.0,0.0
+1632,2524351,independent,republican,i earned more,0,1.0,1.0
+1633,2526551,democrat,democrat,partner earned more,1,1.0,0.0
+1634,2527611,democrat,democrat,we earned about the same amount,1,0.0,
+1635,2528285,democrat,democrat,partner earned more,1,1.0,0.0
+1636,2529781,independent,democrat,partner earned more,0,1.0,0.0
+1637,2530373,democrat,republican,partner earned more,0,1.0,0.0
+1638,2532553,republican,democrat,i earned more,0,1.0,1.0
+1639,2533411,republican,republican,i earned more,1,1.0,1.0
+1640,2534481,independent,democrat,i earned more,0,1.0,1.0
+1641,2536634,democrat,democrat,we earned about the same amount,1,0.0,
+1642,2538381,democrat,democrat,partner earned more,1,1.0,0.0
+1643,2539331,democrat,democrat,we earned about the same amount,1,0.0,
+1644,2541912,democrat,democrat,we earned about the same amount,1,0.0,
+1645,2542495,democrat,democrat,i earned more,1,1.0,1.0
+1646,2543495,independent,democrat,partner earned more,0,1.0,0.0
+1647,2544491,republican,republican,i earned more,1,1.0,1.0
+1648,2547395,no preference,democrat,we earned about the same amount,0,0.0,
+1649,2548661,no preference,republican,i earned more,0,1.0,1.0
+1650,2549605,democrat,democrat,partner earned more,1,1.0,0.0
+1651,2550291,independent,democrat,partner earned more,0,1.0,0.0
+1652,2554441,republican,republican,partner earned more,1,1.0,0.0
+1653,2555255,democrat,democrat,partner earned more,1,1.0,0.0
+1654,2557351,republican,republican,i earned more,1,1.0,1.0
+1655,2558261,democrat,democrat,i earned more,1,1.0,1.0
+1656,2559361,independent,democrat,we earned about the same amount,0,0.0,
+1657,2561493,democrat,democrat,we earned about the same amount,1,0.0,
+1658,2562645,no preference,republican,i earned more,0,1.0,1.0
+1659,2564501,independent,democrat,i earned more,0,1.0,1.0
+1660,2565561,independent,democrat,i earned more,0,1.0,1.0
+1661,2566692,independent,republican,i earned more,0,1.0,1.0
+1662,2567461,no preference,republican,partner earned more,0,1.0,0.0
+1663,2568441,democrat,republican,i earned more,0,1.0,1.0
+1664,2569551,democrat,democrat,partner earned more,1,1.0,0.0
+1665,2570381,democrat,democrat,i earned more,1,1.0,1.0
+1666,2577576,democrat,democrat,partner earned more,1,1.0,0.0
+1667,2581443,democrat,democrat,we earned about the same amount,1,0.0,
+1668,2582441,democrat,democrat,partner earned more,1,1.0,0.0
+1669,2583291,democrat,democrat,i earned more,1,1.0,1.0
+1670,2585571,republican,republican,i earned more,1,1.0,1.0
+1671,2588496,democrat,democrat,partner earned more,1,1.0,0.0
+1672,2589535,democrat,democrat,i earned more,1,1.0,1.0
+1673,2591556,independent,democrat,i earned more,0,1.0,1.0
+1674,2594431,no preference,republican,partner earned more,0,1.0,0.0
+1675,2595533,democrat,democrat,we earned about the same amount,1,0.0,
+1676,2596391,democrat,democrat,partner earned more,1,1.0,0.0
+1677,2597631,republican,republican,i earned more,1,1.0,1.0
+1678,2598385,democrat,democrat,we earned about the same amount,1,0.0,
+1679,2600415,democrat,democrat,i earned more,1,1.0,1.0
+1680,2602436,democrat,democrat,i earned more,1,1.0,1.0
+1681,2603411,republican,republican,i earned more,1,1.0,1.0
+1682,2605456,democrat,democrat,i earned more,1,1.0,1.0
+1683,2606331,independent,republican,partner earned more,0,1.0,0.0
+1684,2607495,independent,republican,we earned about the same amount,0,0.0,
+1685,2608691,democrat,democrat,i earned more,1,1.0,1.0
+1686,2609225,republican,republican,partner earned more,1,1.0,0.0
+1687,2611571,republican,republican,partner earned more,1,1.0,0.0
+1688,2613456,independent,democrat,partner earned more,0,1.0,0.0
+1689,2614361,no preference,democrat,i earned more,0,1.0,1.0
+1690,2615546,independent,democrat,partner earned more,0,1.0,0.0
+1691,2616381,democrat,democrat,we earned about the same amount,1,0.0,
+1692,2617245,democrat,democrat,i earned more,1,1.0,1.0
+1693,2618441,democrat,republican,partner earned more,0,1.0,0.0
+1694,2619511,democrat,democrat,partner earned more,1,1.0,0.0
+1695,2620791,republican,republican,i earned more,1,1.0,1.0
+1696,2621593,republican,republican,i earned more,1,1.0,1.0
+1697,2622321,republican,republican,i earned more,1,1.0,1.0
+1698,2624575,no preference,democrat,i earned more,0,1.0,1.0
+1699,2625586,democrat,democrat,i earned more,1,1.0,1.0
+1700,2629351,democrat,democrat,partner earned more,1,1.0,0.0
+1701,2630582,democrat,democrat,partner earned more,1,1.0,0.0
+1702,2631603,republican,democrat,partner earned more,0,1.0,0.0
+1703,2632351,no preference,democrat,partner earned more,0,1.0,0.0
+1704,2633215,republican,republican,i earned more,1,1.0,1.0
+1705,2634401,republican,republican,i earned more,1,1.0,1.0
+1706,2635305,no preference,republican,partner earned more,0,1.0,0.0
+1707,2637661,independent,republican,partner earned more,0,1.0,0.0
+1708,2638581,democrat,democrat,i earned more,1,1.0,1.0
+1709,2640441,no preference,republican,partner earned more,0,1.0,0.0
+1710,2641401,republican,republican,partner earned more,1,1.0,0.0
+1711,2642411,republican,republican,i earned more,1,1.0,1.0
+1712,2643741,republican,republican,i earned more,1,1.0,1.0
+1713,2645415,democrat,democrat,i earned more,1,1.0,1.0
+1714,2648596,democrat,democrat,we earned about the same amount,1,0.0,
+1715,2649375,republican,republican,partner earned more,1,1.0,0.0
+1716,2650431,republican,republican,partner earned more,1,1.0,0.0
+1717,2651661,republican,republican,partner earned more,1,1.0,0.0
+1718,2652493,democrat,republican,i earned more,0,1.0,1.0
+1719,2654745,republican,democrat,i earned more,0,1.0,1.0
+1720,2655275,democrat,democrat,partner earned more,1,1.0,0.0
+1721,2656616,democrat,democrat,i earned more,1,1.0,1.0
+1722,2657451,republican,republican,partner earned more,1,1.0,0.0
+1723,2660401,no preference,other,i earned more,0,1.0,1.0
+1724,2662482,no preference,other,refused,0,,
+1725,2664241,democrat,republican,partner earned more,0,1.0,0.0
+1726,2666271,no preference,republican,partner earned more,0,1.0,0.0
+1727,2667431,democrat,democrat,i earned more,1,1.0,1.0
+1728,2668501,democrat,democrat,partner earned more,1,1.0,0.0
+1729,2670301,republican,republican,i earned more,1,1.0,1.0
+1730,2672556,no preference,democrat,i earned more,0,1.0,1.0
+1731,2673591,refused,democrat,partner earned more,0,1.0,0.0
+1732,2677431,no preference,democrat,partner earned more,0,1.0,0.0
+1733,2678485,democrat,democrat,i earned more,1,1.0,1.0
+1734,2679701,democrat,democrat,i earned more,1,1.0,1.0
+1735,2681396,democrat,democrat,we earned about the same amount,1,0.0,
+1736,2682456,democrat,democrat,i earned more,1,1.0,1.0
+1737,2683531,no preference,democrat,partner earned more,0,1.0,0.0
+1738,2684336,no preference,other,partner earned more,0,1.0,0.0
+1739,2686633,republican,democrat,partner earned more,0,1.0,0.0
+1740,2687386,democrat,democrat,i earned more,1,1.0,1.0
+1741,2688461,independent,republican,i earned more,0,1.0,1.0
+1742,2690361,independent,republican,i earned more,0,1.0,1.0
+1743,2692511,independent,republican,partner earned more,0,1.0,0.0
+1744,2695451,republican,republican,i earned more,1,1.0,1.0
+1745,2697631,republican,democrat,partner earned more,0,1.0,0.0
+1746,2698556,independent,democrat,i earned more,0,1.0,1.0
+1747,2700391,democrat,democrat,i earned more,1,1.0,1.0
+1748,2702381,republican,republican,i earned more,1,1.0,1.0
+1749,2703281,democrat,democrat,i earned more,1,1.0,1.0
+1750,2704721,democrat,democrat,partner earned more,1,1.0,0.0
+1751,2705406,democrat,democrat,i earned more,1,1.0,1.0
+1752,2707494,democrat,democrat,i earned more,1,1.0,1.0
+1753,2710455,democrat,democrat,i earned more,1,1.0,1.0
+1754,2711361,democrat,democrat,partner earned more,1,1.0,0.0
+1755,2712505,republican,republican,partner earned more,1,1.0,0.0
+1756,2713461,no preference,republican,i earned more,0,1.0,1.0
+1757,2714781,democrat,democrat,partner earned more,1,1.0,0.0
+1758,2716696,independent,democrat,partner earned more,0,1.0,0.0
+1759,2717481,refused,republican,partner earned more,0,1.0,0.0
+1760,2719291,independent,republican,partner earned more,0,1.0,0.0
+1761,2722205,no preference,democrat,i earned more,0,1.0,1.0
+1762,2723611,republican,democrat,partner earned more,0,1.0,0.0
+1763,2724356,democrat,democrat,partner earned more,1,1.0,0.0
+1764,2725295,no preference,republican,partner earned more,0,1.0,0.0
+1765,2726401,no preference,democrat,partner earned more,0,1.0,0.0
+1766,2729365,democrat,democrat,i earned more,1,1.0,1.0
+1767,2730501,independent,democrat,partner earned more,0,1.0,0.0
+1768,2732375,democrat,democrat,i earned more,1,1.0,1.0
+1769,2733643,republican,republican,partner earned more,1,1.0,0.0
+1770,2735421,democrat,democrat,i earned more,1,1.0,1.0
+1771,2736284,democrat,other,partner earned more,0,1.0,0.0
+1772,2737331,democrat,democrat,partner earned more,1,1.0,0.0
+1773,2739513,democrat,republican,i earned more,0,1.0,1.0
+1774,2740543,no preference,republican,partner earned more,0,1.0,0.0
+1775,2741471,no preference,republican,partner earned more,0,1.0,0.0
+1776,2744281,independent,republican,i earned more,0,1.0,1.0
+1777,2745305,democrat,democrat,partner earned more,1,1.0,0.0
+1778,2746506,democrat,democrat,i earned more,1,1.0,1.0
+1779,2747491,no preference,republican,we earned about the same amount,0,0.0,
+1780,2749481,independent,democrat,we earned about the same amount,0,0.0,
+1781,2751461,republican,republican,partner earned more,1,1.0,0.0
+1782,2753551,republican,republican,i earned more,1,1.0,1.0
+1783,2754692,no preference,other,partner earned more,0,1.0,0.0
+1784,2756231,republican,republican,partner earned more,1,1.0,0.0
+1785,2757531,republican,republican,partner earned more,1,1.0,0.0
+1786,2758456,democrat,democrat,we earned about the same amount,1,0.0,
+1787,2759424,republican,republican,partner earned more,1,1.0,0.0
+1788,2762355,democrat,democrat,we earned about the same amount,1,0.0,
+1789,2763486,democrat,democrat,i earned more,1,1.0,1.0
+1790,2764561,independent,democrat,we earned about the same amount,0,0.0,
+1791,2765291,republican,republican,partner earned more,1,1.0,0.0
+1792,2766495,republican,republican,i earned more,1,1.0,1.0
+1793,2768761,democrat,democrat,i earned more,1,1.0,1.0
+1794,2769621,republican,republican,partner earned more,1,1.0,0.0
+1795,2771331,independent,democrat,partner earned more,0,1.0,0.0
+1796,2773391,democrat,democrat,i earned more,1,1.0,1.0
+1797,2775495,democrat,democrat,partner earned more,1,1.0,0.0
+1798,2776351,democrat,republican,i earned more,0,1.0,1.0
+1799,2777215,republican,republican,partner earned more,1,1.0,0.0
+1800,2778431,republican,democrat,partner earned more,0,1.0,0.0
+1801,2780461,no preference,democrat,partner earned more,0,1.0,0.0
+1802,2781773,no preference,democrat,partner earned more,0,1.0,0.0
+1803,2783571,republican,republican,i earned more,1,1.0,1.0
+1804,2784335,democrat,democrat,partner earned more,1,1.0,0.0
+1805,2785271,republican,republican,i earned more,1,1.0,1.0
+1806,2786666,independent,democrat,i earned more,0,1.0,1.0
+1807,2788351,independent,democrat,partner earned more,0,1.0,0.0
+1808,2789491,democrat,republican,i earned more,0,1.0,1.0
+1809,2791391,republican,democrat,i earned more,0,1.0,1.0
+1810,2792381,republican,republican,i earned more,1,1.0,1.0
+1811,2793416,independent,democrat,i earned more,0,1.0,1.0
+1812,2794335,no preference,other,i earned more,0,1.0,1.0
+1813,2795343,no preference,democrat,i earned more,0,1.0,1.0
+1814,2796782,republican,republican,i earned more,1,1.0,1.0
+1815,2797496,republican,democrat,we earned about the same amount,0,0.0,
+1816,2798711,republican,republican,i earned more,1,1.0,1.0
+1817,2799525,no preference,democrat,i earned more,0,1.0,1.0
+1818,2800266,democrat,democrat,i earned more,1,1.0,1.0
+1819,2802655,democrat,democrat,i earned more,1,1.0,1.0
+1820,2803531,democrat,democrat,partner earned more,1,1.0,0.0
+1821,2806576,"another party, please specify",republican,i earned more,0,1.0,1.0
+1822,2808495,democrat,democrat,partner earned more,1,1.0,0.0
+1823,2809516,democrat,democrat,i earned more,1,1.0,1.0
+1824,2810195,independent,democrat,partner earned more,0,1.0,0.0
+1825,2811741,democrat,democrat,partner earned more,1,1.0,0.0
+1826,2812441,republican,republican,partner earned more,1,1.0,0.0
+1827,2813321,independent,other,i earned more,0,1.0,1.0
+1828,2814495,independent,democrat,partner earned more,0,1.0,0.0
+1829,2817571,republican,republican,partner earned more,1,1.0,0.0
+1830,2818471,republican,republican,i earned more,1,1.0,1.0
+1831,2819881,no preference,republican,partner earned more,0,1.0,0.0
+1832,2820571,republican,republican,partner earned more,1,1.0,0.0
+1833,2822526,independent,democrat,partner earned more,0,1.0,0.0
+1834,2824553,democrat,democrat,i earned more,1,1.0,1.0
+1835,2825881,independent,republican,i earned more,0,1.0,1.0
+1836,2826321,republican,republican,partner earned more,1,1.0,0.0
+1837,2828511,democrat,democrat,i earned more,1,1.0,1.0
+1838,2832291,independent,other,i earned more,0,1.0,1.0
+1839,2833505,republican,republican,partner earned more,1,1.0,0.0
+1840,2834301,no preference,democrat,partner earned more,0,1.0,0.0
+1841,2836511,democrat,democrat,we earned about the same amount,1,0.0,
+1842,2839411,independent,republican,i earned more,0,1.0,1.0
+1843,2840371,republican,republican,partner earned more,1,1.0,0.0
+1844,2841235,democrat,democrat,we earned about the same amount,1,0.0,
+1845,2842781,republican,democrat,partner earned more,0,1.0,0.0
+1846,2843431,republican,republican,i earned more,1,1.0,1.0
+1847,2844291,no preference,republican,partner earned more,0,1.0,0.0
+1848,2845381,democrat,democrat,partner earned more,1,1.0,0.0
+1849,2846315,democrat,democrat,we earned about the same amount,1,0.0,
+1850,2847371,independent,democrat,partner earned more,0,1.0,0.0
+1851,2848761,republican,republican,partner earned more,1,1.0,0.0
+1852,2850731,democrat,democrat,i earned more,1,1.0,1.0
+1853,2852225,democrat,democrat,partner earned more,1,1.0,0.0
+1854,2853301,democrat,democrat,i earned more,1,1.0,1.0
+1855,2854401,republican,republican,i earned more,1,1.0,1.0
+1856,2855671,democrat,democrat,partner earned more,1,1.0,0.0
+1857,2857341,republican,republican,i earned more,1,1.0,1.0
+1858,2859286,"another party, please specify",democrat,i earned more,0,1.0,1.0
+1859,2861215,republican,republican,partner earned more,1,1.0,0.0
+1860,2863466,no preference,republican,i earned more,0,1.0,1.0
+1861,2866471,democrat,democrat,i earned more,1,1.0,1.0
+1862,2868606,republican,republican,we earned about the same amount,1,0.0,
+1863,2869721,democrat,democrat,i earned more,1,1.0,1.0
+1864,2871516,democrat,democrat,partner earned more,1,1.0,0.0
+1865,2872503,democrat,democrat,partner earned more,1,1.0,0.0
+1866,2874421,republican,republican,i earned more,1,1.0,1.0
+1867,2876526,democrat,democrat,partner earned more,1,1.0,0.0
+1868,2877411,republican,democrat,i earned more,0,1.0,1.0
+1869,2878781,no preference,democrat,we earned about the same amount,0,0.0,
+1870,2880391,democrat,democrat,i earned more,1,1.0,1.0
+1871,2881561,republican,republican,partner earned more,1,1.0,0.0
+1872,2883461,democrat,democrat,partner earned more,1,1.0,0.0
+1873,2884681,democrat,democrat,i earned more,1,1.0,1.0
+1874,2885256,no preference,republican,we earned about the same amount,0,0.0,
+1875,2887261,no preference,other,partner earned more,0,1.0,0.0
+1876,2890236,republican,republican,i earned more,1,1.0,1.0
+1877,2891361,republican,republican,we earned about the same amount,1,0.0,
+1878,2892291,republican,republican,partner earned more,1,1.0,0.0
+1879,2893255,independent,democrat,i earned more,0,1.0,1.0
+1880,2895566,democrat,democrat,i earned more,1,1.0,1.0
+1881,2897401,republican,republican,i earned more,1,1.0,1.0
+1882,2898641,republican,republican,partner earned more,1,1.0,0.0
+1883,2901465,no preference,democrat,we earned about the same amount,0,0.0,
+1884,2902291,republican,republican,partner earned more,1,1.0,0.0
+1885,2903453,no preference,republican,partner earned more,0,1.0,0.0
+1886,2904546,democrat,democrat,i earned more,1,1.0,1.0
+1887,2905436,no preference,republican,partner earned more,0,1.0,0.0
+1888,2906325,no preference,republican,i earned more,0,1.0,1.0
+1889,2907761,republican,democrat,partner earned more,0,1.0,0.0
+1890,2908413,democrat,democrat,we earned about the same amount,1,0.0,
+1891,2910801,democrat,democrat,i earned more,1,1.0,1.0
+1892,2913266,democrat,democrat,i earned more,1,1.0,1.0
+1893,2915356,republican,republican,i earned more,1,1.0,1.0
+1894,2917751,democrat,democrat,partner earned more,1,1.0,0.0
+1895,2918525,democrat,democrat,partner earned more,1,1.0,0.0
+1896,2919505,no preference,democrat,partner earned more,0,1.0,0.0
+1897,2920513,democrat,republican,partner earned more,0,1.0,0.0
+1898,2923486,democrat,democrat,i earned more,1,1.0,1.0
+1899,2924471,republican,republican,i earned more,1,1.0,1.0
+1900,2925235,no preference,republican,i earned more,0,1.0,1.0
+1901,2926403,no preference,republican,partner earned more,0,1.0,0.0
+1902,2928503,democrat,republican,we earned about the same amount,0,0.0,
+1903,2929295,democrat,democrat,partner earned more,1,1.0,0.0
+1904,2931391,republican,democrat,i earned more,0,1.0,1.0
+1905,2932541,democrat,republican,we earned about the same amount,0,0.0,
+1906,2934316,independent,democrat,i earned more,0,1.0,1.0
+1907,2935476,independent,republican,we earned about the same amount,0,0.0,
+1908,2936265,no preference,other,we earned about the same amount,0,0.0,
+1909,2937511,republican,republican,partner earned more,1,1.0,0.0
+1910,2939601,democrat,democrat,partner earned more,1,1.0,0.0
+1911,2940495,democrat,democrat,i earned more,1,1.0,1.0
+1912,2941421,republican,republican,partner earned more,1,1.0,0.0
+1913,2942506,democrat,democrat,partner earned more,1,1.0,0.0
+1914,2943451,refused,other,partner earned more,0,1.0,0.0
+1915,2944772,democrat,democrat,i earned more,1,1.0,1.0
+1916,2945701,republican,democrat,partner earned more,0,1.0,0.0
+1917,2947543,no preference,republican,partner earned more,0,1.0,0.0
+1918,2948394,no preference,democrat,i earned more,0,1.0,1.0
+1919,2949755,democrat,other,partner earned more,0,1.0,0.0
+1920,2950445,democrat,democrat,we earned about the same amount,1,0.0,
+1921,2958495,democrat,democrat,i earned more,1,1.0,1.0
+1922,2959235,independent,republican,i earned more,0,1.0,1.0
+1923,2961446,democrat,democrat,i earned more,1,1.0,1.0
+1924,2962421,democrat,republican,i earned more,0,1.0,1.0
+1925,2963351,democrat,democrat,i earned more,1,1.0,1.0
+1926,2964195,democrat,republican,i earned more,0,1.0,1.0
+1927,2965291,republican,republican,partner earned more,1,1.0,0.0
+1928,2967381,democrat,democrat,partner earned more,1,1.0,0.0
+1929,2968566,democrat,democrat,partner earned more,1,1.0,0.0
+1930,2969211,"another party, please specify",other,partner earned more,0,1.0,0.0
+1931,2970391,republican,republican,i earned more,1,1.0,1.0
+1932,2971315,republican,democrat,partner earned more,0,1.0,0.0
+1933,2972195,republican,republican,partner earned more,1,1.0,0.0
+1934,2973265,democrat,democrat,i earned more,1,1.0,1.0
+1935,2974271,republican,republican,i earned more,1,1.0,1.0
+1936,2975453,democrat,democrat,we earned about the same amount,1,0.0,
+1937,2976481,republican,republican,partner earned more,1,1.0,0.0
+1938,2977341,republican,republican,i earned more,1,1.0,1.0
+1939,2978391,republican,republican,i earned more,1,1.0,1.0
+1940,2979633,democrat,democrat,partner earned more,1,1.0,0.0
+1941,2980466,independent,democrat,we earned about the same amount,0,0.0,
+1942,2982581,democrat,republican,i earned more,0,1.0,1.0
+1943,2983365,democrat,democrat,i earned more,1,1.0,1.0
+1944,2984311,democrat,democrat,i earned more,1,1.0,1.0
+1945,2985453,republican,democrat,partner earned more,0,1.0,0.0
+1946,2986301,democrat,democrat,partner earned more,1,1.0,0.0
+1947,2987583,independent,democrat,i earned more,0,1.0,1.0
+1948,2988441,no preference,republican,partner earned more,0,1.0,0.0
+1949,2989771,republican,republican,i earned more,1,1.0,1.0
+1950,2990611,democrat,democrat,i earned more,1,1.0,1.0
+1951,2991315,no preference,republican,partner earned more,0,1.0,0.0
+1952,2992381,democrat,democrat,i earned more,1,1.0,1.0
+1953,2995451,democrat,democrat,partner earned more,1,1.0,0.0
+1954,2997563,no preference,democrat,i earned more,0,1.0,1.0
+1955,3000751,democrat,democrat,i earned more,1,1.0,1.0
+1956,3004285,republican,democrat,i earned more,0,1.0,1.0
+1957,3005451,no preference,democrat,i earned more,0,1.0,1.0
+1958,3006481,no preference,republican,i earned more,0,1.0,1.0
+1959,3007443,republican,democrat,partner earned more,0,1.0,0.0
+1960,3008511,independent,republican,partner earned more,0,1.0,0.0
+1961,3009346,republican,republican,i earned more,1,1.0,1.0
+1962,3010291,democrat,democrat,partner earned more,1,1.0,0.0
+1963,3012503,independent,democrat,i earned more,0,1.0,1.0
+1964,3013891,no preference,democrat,i earned more,0,1.0,1.0
+1965,3014445,democrat,democrat,partner earned more,1,1.0,0.0
+1966,3015621,republican,democrat,partner earned more,0,1.0,0.0
+1967,3016311,no preference,democrat,partner earned more,0,1.0,0.0
+1968,3021321,republican,republican,partner earned more,1,1.0,0.0
+1969,3022245,republican,republican,partner earned more,1,1.0,0.0
+1970,3023281,republican,republican,i earned more,1,1.0,1.0
+1971,3024391,republican,republican,i earned more,1,1.0,1.0
+1972,3025406,democrat,democrat,partner earned more,1,1.0,0.0
+1973,3026461,democrat,republican,i earned more,0,1.0,1.0
+1974,3027506,independent,democrat,i earned more,0,1.0,1.0
+1975,3028411,republican,republican,i earned more,1,1.0,1.0
+1976,3029471,no preference,democrat,we earned about the same amount,0,0.0,
+1977,3030281,republican,democrat,i earned more,0,1.0,1.0
+1978,3031421,democrat,democrat,i earned more,1,1.0,1.0
+1979,3035195,independent,republican,we earned about the same amount,0,0.0,
+1980,3037375,republican,republican,i earned more,1,1.0,1.0
+1981,3038731,democrat,democrat,partner earned more,1,1.0,0.0
+1982,3039731,republican,republican,i earned more,1,1.0,1.0
+1983,3041271,democrat,democrat,partner earned more,1,1.0,0.0
+1984,3042661,republican,republican,partner earned more,1,1.0,0.0
+1985,3043445,democrat,democrat,partner earned more,1,1.0,0.0
+1986,3044225,no preference,republican,partner earned more,0,1.0,0.0
+1987,3046291,republican,republican,partner earned more,1,1.0,0.0
+1988,3047205,democrat,republican,i earned more,0,1.0,1.0
+1989,3048341,republican,republican,i earned more,1,1.0,1.0
+1990,3049611,independent,democrat,partner earned more,0,1.0,0.0
+1991,3050761,republican,republican,i earned more,1,1.0,1.0
+1992,3052421,independent,republican,partner earned more,0,1.0,0.0
+1993,3055331,republican,republican,i earned more,1,1.0,1.0
+1994,3056401,republican,republican,i earned more,1,1.0,1.0
+1995,3057321,democrat,democrat,i earned more,1,1.0,1.0
+1996,3060291,democrat,democrat,i earned more,1,1.0,1.0
+1997,3062505,democrat,democrat,we earned about the same amount,1,0.0,
+1998,3063561,republican,republican,i earned more,1,1.0,1.0
+1999,3064321,independent,democrat,i earned more,0,1.0,1.0
+2000,3066491,independent,republican,partner earned more,0,1.0,0.0
+2001,3068681,democrat,democrat,partner earned more,1,1.0,0.0
+2002,3069521,republican,republican,partner earned more,1,1.0,0.0
+2003,3070361,democrat,democrat,partner earned more,1,1.0,0.0
+2004,3071566,independent,democrat,i earned more,0,1.0,1.0
+2005,3072336,democrat,democrat,i earned more,1,1.0,1.0
+2006,3073301,independent,democrat,i earned more,0,1.0,1.0
+2007,3076341,democrat,democrat,we earned about the same amount,1,0.0,
+2008,3077584,democrat,republican,i earned more,0,1.0,1.0
+2009,3078205,independent,democrat,we earned about the same amount,0,0.0,
+2010,3079225,democrat,democrat,i earned more,1,1.0,1.0
+2011,3081821,republican,democrat,we earned about the same amount,0,0.0,
+2012,3083461,republican,republican,i earned more,1,1.0,1.0
+2013,3084662,independent,republican,i earned more,0,1.0,1.0
+2014,3085491,republican,democrat,partner earned more,0,1.0,0.0
+2015,3089355,democrat,democrat,i earned more,1,1.0,1.0
+2016,3090271,republican,republican,partner earned more,1,1.0,0.0
+2017,3091591,republican,republican,partner earned more,1,1.0,0.0
+2018,3092431,democrat,democrat,partner earned more,1,1.0,0.0
+2019,3095381,republican,republican,i earned more,1,1.0,1.0
+2020,3097321,democrat,democrat,we earned about the same amount,1,0.0,
+2021,3098574,democrat,republican,i earned more,0,1.0,1.0
+2022,3099405,democrat,democrat,partner earned more,1,1.0,0.0
+2023,3100236,republican,republican,partner earned more,1,1.0,0.0
+2024,3101251,republican,republican,i earned more,1,1.0,1.0
+2025,3102591,republican,democrat,partner earned more,0,1.0,0.0
+2026,3105381,democrat,democrat,partner earned more,1,1.0,0.0
+2027,3107281,republican,democrat,i earned more,0,1.0,1.0
+2028,3111281,no preference,other,i earned more,0,1.0,1.0
+2029,3112501,republican,republican,i earned more,1,1.0,1.0
+2030,3113531,refused,democrat,partner earned more,0,1.0,0.0
+2031,3115366,democrat,republican,partner earned more,0,1.0,0.0
+2032,3116381,republican,republican,partner earned more,1,1.0,0.0
+2033,3117445,democrat,democrat,i earned more,1,1.0,1.0
+2034,3119215,independent,republican,partner earned more,0,1.0,0.0
+2035,3121421,independent,democrat,we earned about the same amount,0,0.0,
+2036,3124406,no preference,democrat,i earned more,0,1.0,1.0
+2037,3126421,republican,republican,we earned about the same amount,1,0.0,
+2038,3127401,no preference,democrat,i earned more,0,1.0,1.0
+2039,3128383,democrat,democrat,i earned more,1,1.0,1.0
+2040,3129215,democrat,democrat,i earned more,1,1.0,1.0
+2041,3130391,democrat,democrat,partner earned more,1,1.0,0.0
+2042,3131481,democrat,democrat,i earned more,1,1.0,1.0
+2043,3132476,independent,democrat,i earned more,0,1.0,1.0
+2044,3133366,independent,republican,i earned more,0,1.0,1.0
+2045,3134461,democrat,democrat,we earned about the same amount,1,0.0,
+2046,3135555,democrat,republican,we earned about the same amount,0,0.0,
+2047,3136526,democrat,democrat,partner earned more,1,1.0,0.0
+2048,3137621,no preference,republican,i earned more,0,1.0,1.0
+2049,3140275,democrat,democrat,i earned more,1,1.0,1.0
+2050,3141525,democrat,democrat,i earned more,1,1.0,1.0
+2051,3142344,democrat,democrat,i earned more,1,1.0,1.0
+2052,3144606,democrat,democrat,i earned more,1,1.0,1.0
+2053,3145421,republican,republican,partner earned more,1,1.0,0.0
+2054,3146671,independent,democrat,i earned more,0,1.0,1.0
+2055,3148455,democrat,democrat,partner earned more,1,1.0,0.0
+2056,3149823,republican,democrat,partner earned more,0,1.0,0.0
+2057,3150431,independent,republican,we earned about the same amount,0,0.0,
+2058,3151641,democrat,democrat,i earned more,1,1.0,1.0
+2059,3152471,no preference,democrat,partner earned more,0,1.0,0.0
+2060,3155321,no preference,republican,i earned more,0,1.0,1.0
+2061,3156215,no preference,democrat,we earned about the same amount,0,0.0,
+2062,3157321,republican,republican,i earned more,1,1.0,1.0
+2063,3158551,no preference,other,partner earned more,0,1.0,0.0
+2064,3159331,republican,republican,i earned more,1,1.0,1.0
+2065,3160406,no preference,democrat,i earned more,0,1.0,1.0
+2066,3161361,democrat,democrat,partner earned more,1,1.0,0.0
+2067,3162441,republican,republican,partner earned more,1,1.0,0.0
+2068,3164325,no preference,republican,i earned more,0,1.0,1.0
+2069,3167563,democrat,republican,partner earned more,0,1.0,0.0
+2070,3168236,independent,democrat,i earned more,0,1.0,1.0
+2071,3169695,republican,republican,partner earned more,1,1.0,0.0
+2072,3170471,republican,republican,i earned more,1,1.0,1.0
+2073,3172341,democrat,republican,i earned more,0,1.0,1.0
+2074,3173761,independent,democrat,i earned more,0,1.0,1.0
+2075,3175641,independent,republican,i earned more,0,1.0,1.0
+2076,3176561,no preference,other,we earned about the same amount,0,0.0,
+2077,3178671,democrat,democrat,i earned more,1,1.0,1.0
+2078,3179681,no preference,republican,partner earned more,0,1.0,0.0
+2079,3180591,democrat,democrat,i earned more,1,1.0,1.0
+2080,3181623,democrat,democrat,we earned about the same amount,1,0.0,
+2081,3182513,democrat,democrat,i earned more,1,1.0,1.0
+2082,3184401,no preference,democrat,we earned about the same amount,0,0.0,
+2083,3186481,no preference,democrat,we earned about the same amount,0,0.0,
+2084,3187491,independent,democrat,partner earned more,0,1.0,0.0
+2085,3188345,democrat,democrat,partner earned more,1,1.0,0.0
+2086,3190285,no preference,democrat,i earned more,0,1.0,1.0
+2087,3194231,independent,republican,partner earned more,0,1.0,0.0
+2088,3198566,republican,democrat,we earned about the same amount,0,0.0,
+2089,3200215,no preference,republican,partner earned more,0,1.0,0.0
+2090,3201581,republican,republican,i earned more,1,1.0,1.0
+2091,3202821,republican,republican,i earned more,1,1.0,1.0
+2092,3206366,no preference,democrat,partner earned more,0,1.0,0.0
+2093,3207281,democrat,democrat,partner earned more,1,1.0,0.0
+2094,3208691,republican,republican,i earned more,1,1.0,1.0
+2095,3209205,no preference,democrat,we earned about the same amount,0,0.0,
+2096,3210466,democrat,democrat,i earned more,1,1.0,1.0
+2097,3211225,democrat,democrat,partner earned more,1,1.0,0.0
+2098,3212361,democrat,democrat,i earned more,1,1.0,1.0
+2099,3213692,republican,democrat,partner earned more,0,1.0,0.0
+2100,3215271,no preference,republican,partner earned more,0,1.0,0.0
+2101,3217235,democrat,democrat,partner earned more,1,1.0,0.0
+2102,3223501,republican,republican,partner earned more,1,1.0,0.0
+2103,3224241,democrat,democrat,partner earned more,1,1.0,0.0
+2104,3225411,"another party, please specify",democrat,we earned about the same amount,0,0.0,
+2105,3226271,independent,democrat,partner earned more,0,1.0,0.0
+2106,3227752,democrat,democrat,i earned more,1,1.0,1.0
+2107,3229381,republican,republican,partner earned more,1,1.0,0.0
+2108,3230225,no preference,republican,i earned more,0,1.0,1.0
+2109,3231331,no preference,republican,i earned more,0,1.0,1.0
+2110,3234391,democrat,democrat,partner earned more,1,1.0,0.0
+2111,3235281,republican,republican,partner earned more,1,1.0,0.0
+2112,3237261,republican,republican,i earned more,1,1.0,1.0
+2113,3238445,republican,democrat,we earned about the same amount,0,0.0,
+2114,3239721,democrat,democrat,partner earned more,1,1.0,0.0
+2115,3241291,no preference,democrat,partner earned more,0,1.0,0.0
+2116,3242205,no preference,democrat,we earned about the same amount,0,0.0,
+2117,3244431,refused,other,refused,0,,
+2118,3245543,independent,democrat,partner earned more,0,1.0,0.0
+2119,3246381,no preference,republican,partner earned more,0,1.0,0.0
+2120,3250561,republican,republican,partner earned more,1,1.0,0.0
+2121,3251692,independent,republican,we earned about the same amount,0,0.0,
+2122,3253415,republican,republican,i earned more,1,1.0,1.0
+2123,3255515,democrat,democrat,partner earned more,1,1.0,0.0
+2124,3259601,democrat,democrat,partner earned more,1,1.0,0.0
+2125,3261401,no preference,other,partner earned more,0,1.0,0.0
+2126,3262471,democrat,democrat,partner earned more,1,1.0,0.0
+2127,3263446,no preference,republican,partner earned more,0,1.0,0.0
+2128,3266586,refused,democrat,refused,0,,
+2129,3267411,democrat,democrat,i earned more,1,1.0,1.0
+2130,3268461,independent,republican,partner earned more,0,1.0,0.0
+2131,3269401,republican,republican,i earned more,1,1.0,1.0
+2132,3271461,independent,democrat,i earned more,0,1.0,1.0
+2133,3272545,no preference,republican,i earned more,0,1.0,1.0
+2134,3273445,republican,republican,we earned about the same amount,1,0.0,
+2135,3275291,republican,republican,i earned more,1,1.0,1.0
+2136,3276561,no preference,other,partner earned more,0,1.0,0.0
+2137,3277771,democrat,democrat,partner earned more,1,1.0,0.0
+2138,3280562,independent,democrat,partner earned more,0,1.0,0.0
+2139,3281506,democrat,democrat,partner earned more,1,1.0,0.0
+2140,3284593,democrat,republican,partner earned more,0,1.0,0.0
+2141,3285411,no preference,democrat,i earned more,0,1.0,1.0
+2142,3286396,democrat,democrat,i earned more,1,1.0,1.0
+2143,3287256,democrat,democrat,i earned more,1,1.0,1.0
+2144,3289441,republican,republican,i earned more,1,1.0,1.0
+2145,3291591,independent,democrat,i earned more,0,1.0,1.0
+2146,3292772,democrat,democrat,partner earned more,1,1.0,0.0
+2147,3293496,democrat,democrat,i earned more,1,1.0,1.0
+2148,3298555,democrat,democrat,i earned more,1,1.0,1.0
+2149,3300751,democrat,democrat,partner earned more,1,1.0,0.0
+2150,3301411,independent,republican,i earned more,0,1.0,1.0
+2151,3303271,democrat,democrat,partner earned more,1,1.0,0.0
+2152,3304235,republican,republican,i earned more,1,1.0,1.0
+2153,3306371,democrat,democrat,i earned more,1,1.0,1.0
+2154,3307375,democrat,democrat,partner earned more,1,1.0,0.0
+2155,3308311,democrat,democrat,partner earned more,1,1.0,0.0
+2156,3309481,republican,republican,partner earned more,1,1.0,0.0
+2157,3310241,"another party, please specify",republican,partner earned more,0,1.0,0.0
+2158,3312261,republican,republican,partner earned more,1,1.0,0.0
+2159,3314235,no preference,democrat,partner earned more,0,1.0,0.0
+2160,3315411,independent,democrat,i earned more,0,1.0,1.0
+2161,3317401,no preference,democrat,partner earned more,0,1.0,0.0
+2162,3319473,democrat,democrat,partner earned more,1,1.0,0.0
+2163,3321401,independent,democrat,we earned about the same amount,0,0.0,
+2164,3322441,republican,republican,partner earned more,1,1.0,0.0
+2165,3324701,democrat,democrat,i earned more,1,1.0,1.0
+2166,3327431,republican,republican,partner earned more,1,1.0,0.0
+2167,3328441,democrat,democrat,i earned more,1,1.0,1.0
+2168,3329285,independent,democrat,partner earned more,0,1.0,0.0
+2169,3330732,no preference,democrat,refused,0,,
+2170,3332271,democrat,democrat,i earned more,1,1.0,1.0
+2171,3333215,democrat,democrat,i earned more,1,1.0,1.0
+2172,3335321,democrat,democrat,i earned more,1,1.0,1.0
+2173,3336706,democrat,republican,partner earned more,0,1.0,0.0
+2174,3338241,democrat,democrat,we earned about the same amount,1,0.0,
+2175,3339456,republican,republican,i earned more,1,1.0,1.0
+2176,3343651,democrat,democrat,i earned more,1,1.0,1.0
+2177,3344521,republican,republican,partner earned more,1,1.0,0.0
+2178,3345295,independent,democrat,partner earned more,0,1.0,0.0
+2179,3348643,no preference,republican,we earned about the same amount,0,0.0,
+2180,3349375,democrat,democrat,we earned about the same amount,1,0.0,
+2181,3351401,democrat,democrat,partner earned more,1,1.0,0.0
+2182,3354341,no preference,republican,i earned more,0,1.0,1.0
+2183,3355301,no preference,democrat,i earned more,0,1.0,1.0
+2184,3356271,independent,democrat,i earned more,0,1.0,1.0
+2185,3357661,no preference,republican,i earned more,0,1.0,1.0
+2186,3358441,democrat,republican,partner earned more,0,1.0,0.0
+2187,3359801,republican,democrat,we earned about the same amount,0,0.0,
+2188,3361453,independent,democrat,i earned more,0,1.0,1.0
+2189,3362591,"another party, please specify",democrat,i earned more,0,1.0,1.0
+2190,3363561,independent,republican,partner earned more,0,1.0,0.0
+2191,3364501,no preference,democrat,i earned more,0,1.0,1.0
+2192,3365741,no preference,democrat,i earned more,0,1.0,1.0
+2193,3366306,democrat,democrat,partner earned more,1,1.0,0.0
+2194,3367605,democrat,democrat,partner earned more,1,1.0,0.0
+2195,3369591,no preference,republican,we earned about the same amount,0,0.0,
+2196,3373441,republican,republican,partner earned more,1,1.0,0.0
+2197,3374456,no preference,democrat,we earned about the same amount,0,0.0,
+2198,3378341,republican,republican,i earned more,1,1.0,1.0
+2199,3380321,independent,republican,i earned more,0,1.0,1.0
+2200,3381802,democrat,democrat,i earned more,1,1.0,1.0
+2201,3382804,democrat,democrat,refused,1,,
+2202,3383301,republican,republican,i earned more,1,1.0,1.0
+2203,3384581,democrat,democrat,i earned more,1,1.0,1.0
+2204,3385711,republican,republican,i earned more,1,1.0,1.0
+2205,3387391,republican,republican,partner earned more,1,1.0,0.0
+2206,3389606,democrat,democrat,partner earned more,1,1.0,0.0
+2207,3390511,no preference,democrat,partner earned more,0,1.0,0.0
+2208,3391295,republican,republican,we earned about the same amount,1,0.0,
+2209,3392501,republican,republican,partner earned more,1,1.0,0.0
+2210,3395401,democrat,democrat,partner earned more,1,1.0,0.0
+2211,3396426,democrat,democrat,we earned about the same amount,1,0.0,
+2212,3397265,democrat,democrat,we earned about the same amount,1,0.0,
+2213,3399561,republican,republican,i earned more,1,1.0,1.0
+2214,3401521,republican,republican,i earned more,1,1.0,1.0
+2215,3404321,no preference,democrat,partner earned more,0,1.0,0.0
+2216,3406281,democrat,republican,partner earned more,0,1.0,0.0
+2217,3407281,republican,republican,i earned more,1,1.0,1.0
+2218,3408205,independent,republican,i earned more,0,1.0,1.0
+2219,3409311,republican,republican,i earned more,1,1.0,1.0
+2220,3410265,democrat,democrat,we earned about the same amount,1,0.0,
+2221,3411281,no preference,republican,partner earned more,0,1.0,0.0
+2222,3413541,democrat,democrat,i earned more,1,1.0,1.0
+2223,3414471,no preference,republican,i earned more,0,1.0,1.0
+2224,3415791,democrat,democrat,i earned more,1,1.0,1.0
+2225,3416225,democrat,democrat,partner earned more,1,1.0,0.0
+2226,3418301,independent,democrat,i earned more,0,1.0,1.0
+2227,3419225,democrat,democrat,partner earned more,1,1.0,0.0
+2228,3420501,democrat,democrat,partner earned more,1,1.0,0.0
+2229,3424583,republican,democrat,partner earned more,0,1.0,0.0
+2230,3425351,republican,republican,i earned more,1,1.0,1.0
+2231,3427495,independent,republican,partner earned more,0,1.0,0.0
+2232,3429421,democrat,democrat,partner earned more,1,1.0,0.0
+2233,3431211,democrat,republican,partner earned more,0,1.0,0.0
+2234,3432215,republican,republican,i earned more,1,1.0,1.0
+2235,3434741,democrat,democrat,partner earned more,1,1.0,0.0
+2236,3435511,republican,republican,we earned about the same amount,1,0.0,
+2237,3436321,independent,democrat,i earned more,0,1.0,1.0
+2238,3439471,republican,republican,i earned more,1,1.0,1.0
+2239,3443611,democrat,democrat,partner earned more,1,1.0,0.0
+2240,3444456,democrat,democrat,i earned more,1,1.0,1.0
+2241,3445416,democrat,democrat,i earned more,1,1.0,1.0
+2242,3446513,no preference,democrat,partner earned more,0,1.0,0.0
+2243,3450311,no preference,democrat,partner earned more,0,1.0,0.0
+2244,3453341,republican,republican,i earned more,1,1.0,1.0
+2245,3454546,no preference,republican,we earned about the same amount,0,0.0,
+2246,3458581,democrat,democrat,partner earned more,1,1.0,0.0
+2247,3460195,democrat,republican,partner earned more,0,1.0,0.0
+2248,3461275,democrat,democrat,partner earned more,1,1.0,0.0
+2249,3462371,republican,democrat,partner earned more,0,1.0,0.0
+2250,3464376,democrat,republican,partner earned more,0,1.0,0.0
+2251,3468741,democrat,democrat,i earned more,1,1.0,1.0
+2252,3469346,no preference,republican,we earned about the same amount,0,0.0,
+2253,3472321,republican,republican,i earned more,1,1.0,1.0
+2254,3475471,independent,republican,partner earned more,0,1.0,0.0
+2255,3476445,democrat,republican,i earned more,0,1.0,1.0
+2256,3477401,no preference,republican,partner earned more,0,1.0,0.0
+2257,3478535,democrat,democrat,i earned more,1,1.0,1.0
+2258,3479321,republican,republican,i earned more,1,1.0,1.0
+2259,3480226,no preference,democrat,i earned more,0,1.0,1.0
+2260,3483611,no preference,republican,partner earned more,0,1.0,0.0
+2261,3484361,democrat,republican,i earned more,0,1.0,1.0
+2262,3485543,republican,republican,partner earned more,1,1.0,0.0
+2263,3486341,republican,republican,partner earned more,1,1.0,0.0
+2264,3487661,democrat,democrat,partner earned more,1,1.0,0.0
+2265,3488485,republican,democrat,partner earned more,0,1.0,0.0
+2266,3490381,republican,democrat,partner earned more,0,1.0,0.0
+2267,3491361,no preference,republican,i earned more,0,1.0,1.0
+2268,3492545,independent,democrat,i earned more,0,1.0,1.0
+2269,3494271,republican,republican,i earned more,1,1.0,1.0
+2270,3496531,independent,democrat,partner earned more,0,1.0,0.0
+2271,3497476,democrat,democrat,partner earned more,1,1.0,0.0
+2272,3498401,democrat,democrat,i earned more,1,1.0,1.0
+2273,3500381,democrat,democrat,i earned more,1,1.0,1.0
+2274,3501661,no preference,democrat,i earned more,0,1.0,1.0
+2275,3505551,democrat,democrat,i earned more,1,1.0,1.0
+2276,3506651,independent,democrat,partner earned more,0,1.0,0.0
+2277,3508351,no preference,other,i earned more,0,1.0,1.0
+2278,3509291,independent,republican,i earned more,0,1.0,1.0
+2279,3511271,republican,republican,i earned more,1,1.0,1.0
+2280,3512195,republican,republican,we earned about the same amount,1,0.0,
+2281,3513671,democrat,democrat,i earned more,1,1.0,1.0
+2282,3515561,republican,republican,i earned more,1,1.0,1.0
+2283,3516641,independent,democrat,i earned more,0,1.0,1.0
+2284,3517255,no preference,republican,i earned more,0,1.0,1.0
+2285,3518553,independent,republican,i earned more,0,1.0,1.0
+2286,3520375,democrat,democrat,i earned more,1,1.0,1.0
+2287,3521541,democrat,democrat,i earned more,1,1.0,1.0
+2288,3524281,democrat,democrat,partner earned more,1,1.0,0.0
+2289,3526335,democrat,democrat,i earned more,1,1.0,1.0
+2290,3528551,no preference,democrat,partner earned more,0,1.0,0.0
+2291,3530391,republican,republican,partner earned more,1,1.0,0.0
+2292,3532465,democrat,democrat,i earned more,1,1.0,1.0
+2293,3535676,republican,republican,we earned about the same amount,1,0.0,
+2294,3536365,no preference,democrat,we earned about the same amount,0,0.0,
+2295,3537861,republican,republican,i earned more,1,1.0,1.0
+2296,3540311,republican,republican,partner earned more,1,1.0,0.0
+2297,3541521,republican,republican,i earned more,1,1.0,1.0
+2298,3543225,democrat,democrat,i earned more,1,1.0,1.0
+2299,3547415,republican,democrat,we earned about the same amount,0,0.0,
+2300,3548505,democrat,republican,partner earned more,0,1.0,0.0
+2301,3549425,independent,democrat,we earned about the same amount,0,0.0,
+2302,3550861,democrat,democrat,i earned more,1,1.0,1.0
+2303,3551483,republican,republican,we earned about the same amount,1,0.0,
+2304,3552321,democrat,democrat,partner earned more,1,1.0,0.0
+2305,3553445,independent,democrat,i earned more,0,1.0,1.0
+2306,3554671,no preference,republican,partner earned more,0,1.0,0.0
+2307,3555205,no preference,democrat,i earned more,0,1.0,1.0
+2308,3557522,democrat,democrat,we earned about the same amount,1,0.0,
+2309,3558553,democrat,democrat,we earned about the same amount,1,0.0,
+2310,3559361,democrat,democrat,i earned more,1,1.0,1.0
+2311,3561443,republican,republican,i earned more,1,1.0,1.0
+2312,3563881,independent,republican,we earned about the same amount,0,0.0,
+2313,3564591,"another party, please specify",republican,partner earned more,0,1.0,0.0
+2314,3565245,independent,democrat,partner earned more,0,1.0,0.0
+2315,3566493,republican,republican,i earned more,1,1.0,1.0
+2316,3568193,democrat,republican,i earned more,0,1.0,1.0
+2317,3569311,no preference,democrat,i earned more,0,1.0,1.0
+2318,3571246,republican,republican,we earned about the same amount,1,0.0,
+2319,3576651,no preference,republican,i earned more,0,1.0,1.0
+2320,3577445,independent,democrat,i earned more,0,1.0,1.0
+2321,3579571,no preference,democrat,i earned more,0,1.0,1.0
+2322,3582506,democrat,democrat,partner earned more,1,1.0,0.0
+2323,3583571,no preference,democrat,partner earned more,0,1.0,0.0
+2324,3584485,independent,republican,i earned more,0,1.0,1.0
+2325,3586365,no preference,democrat,i earned more,0,1.0,1.0
+2326,3588486,no preference,democrat,partner earned more,0,1.0,0.0
+2327,3591375,no preference,democrat,partner earned more,0,1.0,0.0
+2328,3592266,democrat,democrat,partner earned more,1,1.0,0.0
+2329,3593355,democrat,republican,partner earned more,0,1.0,0.0
+2330,3594441,no preference,republican,i earned more,0,1.0,1.0
+2331,3596326,democrat,democrat,i earned more,1,1.0,1.0
+2332,3598491,republican,democrat,partner earned more,0,1.0,0.0
+2333,3599411,no preference,other,partner earned more,0,1.0,0.0
+2334,3600205,democrat,democrat,we earned about the same amount,1,0.0,
+2335,3601366,democrat,democrat,i earned more,1,1.0,1.0
+2336,3602451,independent,republican,i earned more,0,1.0,1.0
+2337,3603451,democrat,other,refused,0,,
+2338,3604311,no preference,republican,partner earned more,0,1.0,0.0
+2339,3605511,democrat,republican,we earned about the same amount,0,0.0,
+2340,3606295,no preference,democrat,i earned more,0,1.0,1.0
+2341,3607516,democrat,democrat,partner earned more,1,1.0,0.0
+2342,3609351,independent,republican,i earned more,0,1.0,1.0
+2343,3610311,republican,republican,partner earned more,1,1.0,0.0
+2344,3611361,democrat,democrat,partner earned more,1,1.0,0.0
+2345,3613386,no preference,republican,i earned more,0,1.0,1.0
+2346,3615423,"another party, please specify",democrat,partner earned more,0,1.0,0.0
+2347,3616701,democrat,democrat,i earned more,1,1.0,1.0
+2348,3617411,democrat,democrat,i earned more,1,1.0,1.0
+2349,3618561,no preference,other,i earned more,0,1.0,1.0
+2350,3619411,no preference,democrat,partner earned more,0,1.0,0.0
+2351,3622666,democrat,republican,partner earned more,0,1.0,0.0
+2352,3623351,no preference,democrat,partner earned more,0,1.0,0.0
+2353,3625311,no preference,republican,partner earned more,0,1.0,0.0
+2354,3626301,democrat,democrat,i earned more,1,1.0,1.0
+2355,3628296,democrat,democrat,we earned about the same amount,1,0.0,
+2356,3630791,independent,democrat,partner earned more,0,1.0,0.0
+2357,3632653,no preference,democrat,partner earned more,0,1.0,0.0
+2358,3634581,no preference,republican,i earned more,0,1.0,1.0
+2359,3635255,democrat,democrat,partner earned more,1,1.0,0.0
+2360,3638371,independent,other,i earned more,0,1.0,1.0
+2361,3639315,no preference,democrat,we earned about the same amount,0,0.0,
+2362,3643584,democrat,democrat,partner earned more,1,1.0,0.0
+2363,3644396,independent,republican,i earned more,0,1.0,1.0
+2364,3645255,democrat,democrat,we earned about the same amount,1,0.0,
+2365,3646495,democrat,democrat,i earned more,1,1.0,1.0
+2366,3647521,democrat,republican,we earned about the same amount,0,0.0,
+2367,3649511,democrat,democrat,partner earned more,1,1.0,0.0
+2368,3650431,independent,democrat,i earned more,0,1.0,1.0
+2369,3651501,democrat,democrat,partner earned more,1,1.0,0.0
+2370,3657561,democrat,democrat,i earned more,1,1.0,1.0
+2371,3658711,republican,republican,partner earned more,1,1.0,0.0
+2372,3659523,no preference,democrat,partner earned more,0,1.0,0.0
+2373,3660426,no preference,democrat,i earned more,0,1.0,1.0
+2374,3661281,republican,republican,partner earned more,1,1.0,0.0
+2375,3662912,democrat,republican,i earned more,0,1.0,1.0
+2376,3663613,independent,democrat,i earned more,0,1.0,1.0
+2377,3665205,democrat,democrat,partner earned more,1,1.0,0.0
+2378,3666235,no preference,republican,partner earned more,0,1.0,0.0
+2379,3667552,no preference,democrat,refused,0,,
+2380,3668296,democrat,republican,partner earned more,0,1.0,0.0
+2381,3671501,republican,republican,i earned more,1,1.0,1.0
+2382,3673441,republican,republican,i earned more,1,1.0,1.0
+2383,3674446,democrat,democrat,i earned more,1,1.0,1.0
+2384,3676534,democrat,democrat,i earned more,1,1.0,1.0
+2385,3678386,democrat,democrat,partner earned more,1,1.0,0.0
+2386,3679261,republican,republican,partner earned more,1,1.0,0.0
+2387,3681446,democrat,democrat,partner earned more,1,1.0,0.0
+2388,3682731,democrat,democrat,we earned about the same amount,1,0.0,
+2389,3683281,democrat,democrat,i earned more,1,1.0,1.0
+2390,3684471,democrat,democrat,partner earned more,1,1.0,0.0
+2391,3686291,democrat,republican,i earned more,0,1.0,1.0
+2392,3688703,independent,republican,i earned more,0,1.0,1.0
+2393,3689341,republican,republican,partner earned more,1,1.0,0.0
+2394,3690466,independent,democrat,partner earned more,0,1.0,0.0
+2395,3693711,republican,republican,i earned more,1,1.0,1.0
+2396,3695346,independent,democrat,partner earned more,0,1.0,0.0
+2397,3700581,independent,democrat,i earned more,0,1.0,1.0
+2398,3701251,republican,republican,partner earned more,1,1.0,0.0
+2399,3702371,republican,republican,i earned more,1,1.0,1.0
+2400,3703801,republican,republican,we earned about the same amount,1,0.0,
+2401,3705411,democrat,democrat,i earned more,1,1.0,1.0
+2402,3706401,independent,democrat,i earned more,0,1.0,1.0
+2403,3707656,independent,democrat,i earned more,0,1.0,1.0
+2404,3710375,democrat,democrat,partner earned more,1,1.0,0.0
+2405,3711551,democrat,democrat,partner earned more,1,1.0,0.0
+2406,3713335,democrat,democrat,partner earned more,1,1.0,0.0
+2407,3715435,independent,democrat,i earned more,0,1.0,1.0
+2408,3716301,democrat,democrat,we earned about the same amount,1,0.0,
+2409,3717601,republican,republican,partner earned more,1,1.0,0.0
+2410,3718681,republican,republican,i earned more,1,1.0,1.0
+2411,3719281,no preference,republican,i earned more,0,1.0,1.0
+2412,3720492,democrat,democrat,i earned more,1,1.0,1.0
+2413,3723591,democrat,democrat,i earned more,1,1.0,1.0
+2414,3724331,independent,republican,partner earned more,0,1.0,0.0
+2415,3725655,democrat,democrat,i earned more,1,1.0,1.0
+2416,3727751,no preference,republican,i earned more,0,1.0,1.0
+2417,3728652,no preference,democrat,i earned more,0,1.0,1.0
+2418,3731315,independent,republican,i earned more,0,1.0,1.0
+2419,3732301,independent,republican,i earned more,0,1.0,1.0
+2420,3733373,democrat,democrat,i earned more,1,1.0,1.0
+2421,3734661,republican,democrat,partner earned more,0,1.0,0.0
+2422,3735326,no preference,republican,i earned more,0,1.0,1.0
+2423,3736501,republican,republican,partner earned more,1,1.0,0.0
+2424,3737521,democrat,democrat,i earned more,1,1.0,1.0
+2425,3741436,democrat,democrat,i earned more,1,1.0,1.0
+2426,3742576,democrat,democrat,we earned about the same amount,1,0.0,
+2427,3743291,independent,republican,we earned about the same amount,0,0.0,
+2428,3744371,no preference,democrat,i earned more,0,1.0,1.0
+2429,3745286,republican,republican,i earned more,1,1.0,1.0
+2430,3746371,democrat,republican,partner earned more,0,1.0,0.0
+2431,3747351,republican,republican,i earned more,1,1.0,1.0
+2432,3749361,republican,republican,i earned more,1,1.0,1.0
+2433,3752802,republican,republican,i earned more,1,1.0,1.0
+2434,3754601,independent,democrat,partner earned more,0,1.0,0.0
+2435,3756501,republican,democrat,partner earned more,0,1.0,0.0
+2436,3757616,democrat,democrat,i earned more,1,1.0,1.0
+2437,3760235,independent,democrat,we earned about the same amount,0,0.0,
+2438,3761321,republican,republican,partner earned more,1,1.0,0.0
+2439,3763501,democrat,democrat,i earned more,1,1.0,1.0
+2440,3765215,democrat,democrat,partner earned more,1,1.0,0.0
+2441,3766424,no preference,republican,we earned about the same amount,0,0.0,
+2442,3767711,republican,republican,i earned more,1,1.0,1.0
+2443,3768361,no preference,democrat,partner earned more,0,1.0,0.0
+2444,3769215,democrat,democrat,i earned more,1,1.0,1.0
+2445,3770411,democrat,democrat,partner earned more,1,1.0,0.0
+2446,3772281,democrat,democrat,i earned more,1,1.0,1.0
+2447,3773233,democrat,democrat,we earned about the same amount,1,0.0,
+2448,3774591,republican,republican,partner earned more,1,1.0,0.0
+2449,3777631,democrat,democrat,partner earned more,1,1.0,0.0
+2450,3778515,republican,democrat,partner earned more,0,1.0,0.0
+2451,3779621,democrat,democrat,partner earned more,1,1.0,0.0
+2452,3782331,democrat,democrat,partner earned more,1,1.0,0.0
+2453,3784205,democrat,democrat,partner earned more,1,1.0,0.0
+2454,3787205,independent,democrat,we earned about the same amount,0,0.0,
+2455,3788441,democrat,republican,i earned more,0,1.0,1.0
+2456,3789451,democrat,republican,partner earned more,0,1.0,0.0
+2457,3790321,no preference,democrat,i earned more,0,1.0,1.0
+2458,3792576,democrat,republican,i earned more,0,1.0,1.0
+2459,3793561,republican,republican,i earned more,1,1.0,1.0
+2460,3794566,republican,democrat,i earned more,0,1.0,1.0
+2461,3795831,democrat,democrat,i earned more,1,1.0,1.0
+2462,3798621,no preference,democrat,we earned about the same amount,0,0.0,
+2463,3800361,no preference,republican,i earned more,0,1.0,1.0
+2464,3802391,republican,republican,i earned more,1,1.0,1.0
+2465,3805265,republican,republican,partner earned more,1,1.0,0.0
+2466,3806531,republican,republican,partner earned more,1,1.0,0.0
+2467,3808501,democrat,democrat,partner earned more,1,1.0,0.0
+2468,3809225,no preference,democrat,partner earned more,0,1.0,0.0
+2469,3810446,democrat,democrat,i earned more,1,1.0,1.0
+2470,3819381,democrat,democrat,partner earned more,1,1.0,0.0
+2471,3820451,independent,republican,i earned more,0,1.0,1.0
+2472,3823391,democrat,republican,i earned more,0,1.0,1.0
+2473,3824526,independent,democrat,we earned about the same amount,0,0.0,
+2474,3825551,no preference,democrat,partner earned more,0,1.0,0.0
+2475,3826525,democrat,democrat,i earned more,1,1.0,1.0
+2476,3827291,republican,republican,partner earned more,1,1.0,0.0
+2477,3828261,no preference,republican,we earned about the same amount,0,0.0,
+2478,3829381,independent,republican,partner earned more,0,1.0,0.0
+2479,3830753,democrat,democrat,we earned about the same amount,1,0.0,
+2480,3831396,independent,democrat,partner earned more,0,1.0,0.0
+2481,3832225,democrat,democrat,partner earned more,1,1.0,0.0
+2482,3834301,republican,republican,i earned more,1,1.0,1.0
+2483,3837235,republican,democrat,partner earned more,0,1.0,0.0
+2484,3839381,republican,republican,partner earned more,1,1.0,0.0
+2485,3842574,democrat,democrat,partner earned more,1,1.0,0.0
+2486,3843271,republican,republican,we earned about the same amount,1,0.0,
+2487,3844421,republican,republican,partner earned more,1,1.0,0.0
+2488,3845284,no preference,republican,i earned more,0,1.0,1.0
+2489,3847441,independent,democrat,partner earned more,0,1.0,0.0
+2490,3849483,democrat,democrat,we earned about the same amount,1,0.0,
+2491,3850206,republican,democrat,we earned about the same amount,0,0.0,
+2492,3851371,democrat,republican,i earned more,0,1.0,1.0
+2493,3854246,democrat,other,i earned more,0,1.0,1.0
+2494,3855341,independent,republican,partner earned more,0,1.0,0.0
+2495,3856361,republican,republican,i earned more,1,1.0,1.0
+2496,3858635,democrat,democrat,partner earned more,1,1.0,0.0
+2497,3859842,democrat,democrat,refused,1,,
+2498,3862286,democrat,democrat,i earned more,1,1.0,1.0
+2499,3864411,democrat,democrat,i earned more,1,1.0,1.0
+2500,3865431,no preference,republican,i earned more,0,1.0,1.0
+2501,3866491,no preference,other,i earned more,0,1.0,1.0
+2502,3868471,no preference,democrat,i earned more,0,1.0,1.0
+2503,3869391,republican,republican,i earned more,1,1.0,1.0
+2504,3870246,independent,democrat,i earned more,0,1.0,1.0
+2505,3871551,no preference,republican,partner earned more,0,1.0,0.0
+2506,3872275,democrat,democrat,partner earned more,1,1.0,0.0
+2507,3873291,democrat,democrat,partner earned more,1,1.0,0.0
+2508,3874515,no preference,democrat,i earned more,0,1.0,1.0
+2509,3875581,democrat,democrat,partner earned more,1,1.0,0.0
+2510,3880631,republican,republican,i earned more,1,1.0,1.0
+2511,3882461,no preference,republican,i earned more,0,1.0,1.0
+2512,3884371,independent,republican,we earned about the same amount,0,0.0,
+2513,3885693,no preference,other,i earned more,0,1.0,1.0
+2514,3886611,democrat,democrat,i earned more,1,1.0,1.0
+2515,3887361,democrat,democrat,partner earned more,1,1.0,0.0
+2516,3888595,democrat,democrat,partner earned more,1,1.0,0.0
+2517,3891381,independent,democrat,i earned more,0,1.0,1.0
+2518,3892443,democrat,democrat,we earned about the same amount,1,0.0,
+2519,3894295,independent,democrat,partner earned more,0,1.0,0.0
+2520,3896594,democrat,democrat,we earned about the same amount,1,0.0,
+2521,3897456,democrat,democrat,i earned more,1,1.0,1.0
+2522,3898286,independent,republican,we earned about the same amount,0,0.0,
+2523,3901781,democrat,democrat,i earned more,1,1.0,1.0
+2524,3902395,independent,republican,i earned more,0,1.0,1.0
+2525,3903571,independent,democrat,partner earned more,0,1.0,0.0
+2526,3904375,democrat,democrat,i earned more,1,1.0,1.0
+2527,3906365,democrat,democrat,i earned more,1,1.0,1.0
+2528,3909431,independent,republican,i earned more,0,1.0,1.0
+2529,3910661,no preference,democrat,partner earned more,0,1.0,0.0
+2530,3912563,republican,democrat,partner earned more,0,1.0,0.0
+2531,3913541,democrat,democrat,partner earned more,1,1.0,0.0
+2532,3914561,republican,democrat,partner earned more,0,1.0,0.0
+2533,3915415,no preference,republican,partner earned more,0,1.0,0.0
+2534,3916511,republican,republican,i earned more,1,1.0,1.0
+2535,3917481,no preference,democrat,we earned about the same amount,0,0.0,
+2536,3918383,democrat,democrat,partner earned more,1,1.0,0.0
+2537,3919306,democrat,republican,we earned about the same amount,0,0.0,
+2538,3920521,no preference,republican,partner earned more,0,1.0,0.0
+2539,3921501,democrat,democrat,i earned more,1,1.0,1.0
+2540,3923555,republican,republican,partner earned more,1,1.0,0.0
+2541,3924481,democrat,democrat,partner earned more,1,1.0,0.0
+2542,3925435,democrat,democrat,i earned more,1,1.0,1.0
+2543,3926361,democrat,democrat,i earned more,1,1.0,1.0
+2544,3927521,no preference,democrat,we earned about the same amount,0,0.0,
+2545,3928361,democrat,democrat,partner earned more,1,1.0,0.0
+2546,3929554,no preference,republican,partner earned more,0,1.0,0.0
+2547,3930426,democrat,democrat,partner earned more,1,1.0,0.0
+2548,3932306,no preference,republican,i earned more,0,1.0,1.0
+2549,3933552,democrat,democrat,partner earned more,1,1.0,0.0
+2550,3935335,democrat,democrat,i earned more,1,1.0,1.0
+2551,3936511,democrat,democrat,we earned about the same amount,1,0.0,
+2552,3937436,independent,democrat,partner earned more,0,1.0,0.0
+2553,3941351,republican,republican,i earned more,1,1.0,1.0
+2554,3945453,democrat,democrat,i earned more,1,1.0,1.0
+2555,3946295,independent,democrat,i earned more,0,1.0,1.0
+2556,3949583,democrat,democrat,partner earned more,1,1.0,0.0
+2557,3950465,democrat,democrat,i earned more,1,1.0,1.0
+2558,3952431,republican,republican,i earned more,1,1.0,1.0
+2559,3953206,independent,democrat,we earned about the same amount,0,0.0,
+2560,3954341,republican,republican,partner earned more,1,1.0,0.0
+2561,3957226,democrat,democrat,partner earned more,1,1.0,0.0
+2562,3958341,no preference,democrat,i earned more,0,1.0,1.0
+2563,3959235,no preference,republican,partner earned more,0,1.0,0.0
+2564,3960301,democrat,democrat,partner earned more,1,1.0,0.0
+2565,3962581,republican,republican,i earned more,1,1.0,1.0
+2566,3965421,no preference,republican,partner earned more,0,1.0,0.0
+2567,3968596,democrat,democrat,i earned more,1,1.0,1.0
+2568,3971256,independent,other,i earned more,0,1.0,1.0
+2569,3974261,republican,democrat,we earned about the same amount,0,0.0,
+2570,3975505,democrat,democrat,i earned more,1,1.0,1.0
+2571,3976383,independent,democrat,partner earned more,0,1.0,0.0
+2572,3977691,republican,democrat,we earned about the same amount,0,0.0,
+2573,3979235,independent,democrat,i earned more,0,1.0,1.0
+2574,3980413,democrat,democrat,partner earned more,1,1.0,0.0
+2575,3981321,independent,democrat,partner earned more,0,1.0,0.0
+2576,3982235,democrat,democrat,i earned more,1,1.0,1.0
+2577,3984371,republican,republican,partner earned more,1,1.0,0.0
+2578,3986455,democrat,democrat,i earned more,1,1.0,1.0
+2579,3987371,democrat,democrat,partner earned more,1,1.0,0.0
+2580,3989245,democrat,democrat,partner earned more,1,1.0,0.0
+2581,3990426,republican,democrat,i earned more,0,1.0,1.0
+2582,3991391,democrat,democrat,partner earned more,1,1.0,0.0
+2583,3993486,democrat,democrat,partner earned more,1,1.0,0.0
+2584,3994301,republican,republican,i earned more,1,1.0,1.0
+2585,3995436,democrat,democrat,i earned more,1,1.0,1.0
+2586,3996271,republican,republican,partner earned more,1,1.0,0.0
+2587,3997265,democrat,democrat,i earned more,1,1.0,1.0
+2588,3998541,republican,republican,i earned more,1,1.0,1.0
+2589,3999403,democrat,democrat,partner earned more,1,1.0,0.0
+2590,4000465,democrat,democrat,partner earned more,1,1.0,0.0
+2591,4001391,democrat,republican,partner earned more,0,1.0,0.0
+2592,4005581,republican,other,partner earned more,0,1.0,0.0
+2593,4006641,republican,republican,i earned more,1,1.0,1.0
+2594,4007271,no preference,democrat,partner earned more,0,1.0,0.0
+2595,4009326,democrat,democrat,i earned more,1,1.0,1.0
+2596,4010416,independent,democrat,i earned more,0,1.0,1.0
+2597,4011225,democrat,democrat,partner earned more,1,1.0,0.0
+2598,4013336,no preference,democrat,partner earned more,0,1.0,0.0
+2599,4014721,democrat,democrat,we earned about the same amount,1,0.0,
+2600,4016605,democrat,democrat,i earned more,1,1.0,1.0
+2601,4018584,democrat,democrat,partner earned more,1,1.0,0.0
+2602,4020486,independent,democrat,i earned more,0,1.0,1.0
+2603,4021321,democrat,democrat,partner earned more,1,1.0,0.0
+2604,4027356,no preference,democrat,partner earned more,0,1.0,0.0
+2605,4028461,democrat,democrat,partner earned more,1,1.0,0.0
+2606,4031246,democrat,democrat,i earned more,1,1.0,1.0
+2607,4032561,democrat,democrat,we earned about the same amount,1,0.0,
+2608,4037586,republican,democrat,partner earned more,0,1.0,0.0
+2609,4040561,democrat,democrat,partner earned more,1,1.0,0.0
+2610,4041271,democrat,republican,partner earned more,0,1.0,0.0
+2611,4042195,independent,republican,i earned more,0,1.0,1.0
+2612,4043671,democrat,democrat,i earned more,1,1.0,1.0
+2613,4044591,democrat,democrat,we earned about the same amount,1,0.0,
+2614,4045235,democrat,democrat,i earned more,1,1.0,1.0
+2615,4047271,democrat,democrat,i earned more,1,1.0,1.0
+2616,4048611,democrat,democrat,i earned more,1,1.0,1.0
+2617,4050291,democrat,democrat,partner earned more,1,1.0,0.0
+2618,4051576,republican,republican,i earned more,1,1.0,1.0
+2619,4052346,democrat,democrat,we earned about the same amount,1,0.0,
+2620,4054305,democrat,democrat,partner earned more,1,1.0,0.0
+2621,4055261,democrat,democrat,partner earned more,1,1.0,0.0
+2622,4056536,democrat,democrat,i earned more,1,1.0,1.0
+2623,4057293,no preference,republican,partner earned more,0,1.0,0.0
+2624,4059602,democrat,republican,i earned more,0,1.0,1.0
+2625,4061201,no preference,republican,partner earned more,0,1.0,0.0
+2626,4064361,democrat,democrat,i earned more,1,1.0,1.0
+2627,4065491,independent,democrat,i earned more,0,1.0,1.0
+2628,4066436,republican,republican,i earned more,1,1.0,1.0
+2629,4067321,republican,republican,partner earned more,1,1.0,0.0
+2630,4069331,democrat,democrat,i earned more,1,1.0,1.0
+2631,4071353,democrat,democrat,partner earned more,1,1.0,0.0
+2632,4072283,republican,republican,i earned more,1,1.0,1.0
+2633,4073291,republican,republican,partner earned more,1,1.0,0.0
+2634,4074333,no preference,other,partner earned more,0,1.0,0.0
+2635,4076391,republican,democrat,partner earned more,0,1.0,0.0
+2636,4077433,no preference,republican,partner earned more,0,1.0,0.0
+2637,4078261,democrat,democrat,partner earned more,1,1.0,0.0
+2638,4080471,republican,republican,partner earned more,1,1.0,0.0
+2639,4082563,independent,democrat,i earned more,0,1.0,1.0
+2640,4083471,democrat,democrat,i earned more,1,1.0,1.0
+2641,4084391,democrat,democrat,we earned about the same amount,1,0.0,
+2642,4086476,democrat,democrat,i earned more,1,1.0,1.0
+2643,4087611,republican,republican,we earned about the same amount,1,0.0,
+2644,4088495,republican,republican,partner earned more,1,1.0,0.0
+2645,4089221,"another party, please specify",other,partner earned more,0,1.0,0.0
+2646,4090741,republican,republican,partner earned more,1,1.0,0.0
+2647,4091205,no preference,democrat,we earned about the same amount,0,0.0,
+2648,4092313,democrat,democrat,i earned more,1,1.0,1.0
+2649,4093341,democrat,democrat,partner earned more,1,1.0,0.0
+2650,4095225,independent,republican,i earned more,0,1.0,1.0
+2651,4096646,democrat,democrat,i earned more,1,1.0,1.0
+2652,4098234,no preference,democrat,i earned more,0,1.0,1.0
+2653,4100616,democrat,democrat,partner earned more,1,1.0,0.0
+2654,4101551,democrat,democrat,i earned more,1,1.0,1.0
+2655,4103576,democrat,democrat,partner earned more,1,1.0,0.0
+2656,4104711,democrat,democrat,we earned about the same amount,1,0.0,
+2657,4106215,no preference,democrat,partner earned more,0,1.0,0.0
+2658,4107311,democrat,democrat,partner earned more,1,1.0,0.0
+2659,4108271,democrat,democrat,partner earned more,1,1.0,0.0
+2660,4109271,republican,republican,partner earned more,1,1.0,0.0
+2661,4110451,no preference,republican,i earned more,0,1.0,1.0
+2662,4111331,democrat,democrat,i earned more,1,1.0,1.0
+2663,4114295,democrat,republican,i earned more,0,1.0,1.0
+2664,4115421,republican,republican,i earned more,1,1.0,1.0
+2665,4117371,democrat,democrat,i earned more,1,1.0,1.0
+2666,4118275,democrat,democrat,partner earned more,1,1.0,0.0
+2667,4119623,independent,republican,partner earned more,0,1.0,0.0
+2668,4122321,democrat,democrat,we earned about the same amount,1,0.0,
+2669,4124276,democrat,democrat,i earned more,1,1.0,1.0
+2670,4126631,no preference,other,partner earned more,0,1.0,0.0
+2671,4128391,no preference,democrat,partner earned more,0,1.0,0.0
+2672,4130581,democrat,democrat,partner earned more,1,1.0,0.0
+2673,4131553,republican,democrat,partner earned more,0,1.0,0.0
+2674,4133451,democrat,democrat,partner earned more,1,1.0,0.0
+2675,4134391,no preference,republican,i earned more,0,1.0,1.0
+2676,4135235,no preference,democrat,we earned about the same amount,0,0.0,
+2677,4136311,democrat,democrat,i earned more,1,1.0,1.0
+2678,4137681,democrat,democrat,partner earned more,1,1.0,0.0
+2679,4138321,democrat,democrat,partner earned more,1,1.0,0.0
+2680,4139266,democrat,democrat,i earned more,1,1.0,1.0
+2681,4140291,independent,republican,partner earned more,0,1.0,0.0
+2682,4141421,republican,republican,i earned more,1,1.0,1.0
+2683,4142622,democrat,democrat,we earned about the same amount,1,0.0,
+2684,4143305,independent,democrat,we earned about the same amount,0,0.0,
+2685,4145331,democrat,democrat,i earned more,1,1.0,1.0
+2686,4147263,democrat,democrat,i earned more,1,1.0,1.0
+2687,4148521,democrat,democrat,partner earned more,1,1.0,0.0
+2688,4149281,republican,republican,i earned more,1,1.0,1.0
+2689,4150351,democrat,republican,partner earned more,0,1.0,0.0
+2690,4154401,democrat,democrat,partner earned more,1,1.0,0.0
+2691,4156566,democrat,democrat,i earned more,1,1.0,1.0
+2692,4158544,democrat,democrat,i earned more,1,1.0,1.0
+2693,4161446,independent,republican,i earned more,0,1.0,1.0
+2694,4162836,democrat,democrat,partner earned more,1,1.0,0.0
+2695,4164546,democrat,democrat,partner earned more,1,1.0,0.0
+2696,4165616,democrat,democrat,i earned more,1,1.0,1.0
+2697,4167361,republican,republican,i earned more,1,1.0,1.0
+2698,4168555,democrat,democrat,i earned more,1,1.0,1.0
+2699,4169431,republican,republican,partner earned more,1,1.0,0.0
+2700,4170295,no preference,democrat,we earned about the same amount,0,0.0,
+2701,4171621,democrat,democrat,partner earned more,1,1.0,0.0
+2702,4172215,republican,republican,partner earned more,1,1.0,0.0
+2703,4174761,democrat,democrat,i earned more,1,1.0,1.0
+2704,4175506,independent,democrat,we earned about the same amount,0,0.0,
+2705,4176275,republican,democrat,we earned about the same amount,0,0.0,
+2706,4177791,no preference,republican,i earned more,0,1.0,1.0
+2707,4178551,independent,democrat,i earned more,0,1.0,1.0
+2708,4180501,republican,democrat,i earned more,0,1.0,1.0
+2709,4181551,independent,republican,i earned more,0,1.0,1.0
+2710,4182701,republican,republican,partner earned more,1,1.0,0.0
+2711,4183235,no preference,republican,partner earned more,0,1.0,0.0
+2712,4187491,independent,republican,partner earned more,0,1.0,0.0
+2713,4190391,republican,republican,partner earned more,1,1.0,0.0
+2714,4191521,independent,democrat,i earned more,0,1.0,1.0
+2715,4192621,democrat,democrat,we earned about the same amount,1,0.0,
+2716,4193661,democrat,democrat,i earned more,1,1.0,1.0
+2717,4194511,no preference,republican,i earned more,0,1.0,1.0
+2718,4195661,no preference,republican,i earned more,0,1.0,1.0
+2719,4197351,republican,republican,partner earned more,1,1.0,0.0
+2720,4198592,republican,republican,partner earned more,1,1.0,0.0
+2721,4199553,no preference,democrat,partner earned more,0,1.0,0.0
+2722,4201445,no preference,democrat,partner earned more,0,1.0,0.0
+2723,4202381,democrat,democrat,partner earned more,1,1.0,0.0
+2724,4203591,independent,democrat,partner earned more,0,1.0,0.0
+2725,4204465,republican,republican,partner earned more,1,1.0,0.0
+2726,4205251,"another party, please specify",republican,partner earned more,0,1.0,0.0
+2727,4210581,democrat,other,partner earned more,0,1.0,0.0
+2728,4212411,republican,republican,i earned more,1,1.0,1.0
+2729,4215471,democrat,democrat,partner earned more,1,1.0,0.0
+2730,4216511,independent,republican,partner earned more,0,1.0,0.0
+2731,4218401,republican,republican,i earned more,1,1.0,1.0
+2732,4219751,independent,other,i earned more,0,1.0,1.0
+2733,4220781,democrat,democrat,i earned more,1,1.0,1.0
+2734,4221761,republican,democrat,i earned more,0,1.0,1.0
+2735,4222515,republican,republican,partner earned more,1,1.0,0.0
+2736,4224431,republican,republican,partner earned more,1,1.0,0.0
+2737,4226275,democrat,democrat,partner earned more,1,1.0,0.0
+2738,4227451,republican,republican,partner earned more,1,1.0,0.0
+2739,4228671,democrat,democrat,partner earned more,1,1.0,0.0
+2740,4229591,republican,democrat,i earned more,0,1.0,1.0
+2741,4231311,republican,democrat,i earned more,0,1.0,1.0
+2742,4233321,no preference,democrat,partner earned more,0,1.0,0.0
+2743,4234601,republican,democrat,partner earned more,0,1.0,0.0
+2744,4236251,no preference,democrat,partner earned more,0,1.0,0.0
+2745,4237501,no preference,democrat,we earned about the same amount,0,0.0,
+2746,4239461,no preference,republican,we earned about the same amount,0,0.0,
+2747,4240551,democrat,democrat,i earned more,1,1.0,1.0
+2748,4241205,republican,republican,i earned more,1,1.0,1.0
+2749,4242391,republican,republican,partner earned more,1,1.0,0.0
+2750,4244731,republican,republican,we earned about the same amount,1,0.0,
+2751,4245591,republican,democrat,partner earned more,0,1.0,0.0
+2752,4247671,republican,republican,i earned more,1,1.0,1.0
+2753,4249751,independent,democrat,partner earned more,0,1.0,0.0
+2754,4251691,democrat,republican,partner earned more,0,1.0,0.0
+2755,4252251,no preference,democrat,i earned more,0,1.0,1.0
+2756,4253681,democrat,democrat,i earned more,1,1.0,1.0
+2757,4254681,democrat,republican,i earned more,0,1.0,1.0
+2758,4255651,no preference,democrat,i earned more,0,1.0,1.0
+2759,4256503,independent,republican,partner earned more,0,1.0,0.0
+2760,4258275,democrat,democrat,partner earned more,1,1.0,0.0
+2761,4259731,republican,republican,i earned more,1,1.0,1.0
+2762,4260742,independent,democrat,partner earned more,0,1.0,0.0
+2763,4261311,democrat,democrat,we earned about the same amount,1,0.0,
+2764,4262255,independent,democrat,we earned about the same amount,0,0.0,
+2765,4263381,no preference,republican,i earned more,0,1.0,1.0
+2766,4265461,independent,democrat,i earned more,0,1.0,1.0
+2767,4266721,independent,republican,i earned more,0,1.0,1.0
+2768,4267494,democrat,democrat,partner earned more,1,1.0,0.0
+2769,4270851,republican,republican,partner earned more,1,1.0,0.0
+2770,4271215,democrat,democrat,i earned more,1,1.0,1.0
+2771,4273411,independent,other,partner earned more,0,1.0,0.0
+2772,4274443,independent,republican,i earned more,0,1.0,1.0
+2773,4275581,democrat,republican,we earned about the same amount,0,0.0,
+2774,4277553,no preference,democrat,we earned about the same amount,0,0.0,
+2775,4278431,democrat,democrat,partner earned more,1,1.0,0.0
+2776,4280781,independent,democrat,we earned about the same amount,0,0.0,
+2777,4281244,democrat,democrat,partner earned more,1,1.0,0.0
+2778,4284351,democrat,democrat,i earned more,1,1.0,1.0
+2779,4285395,democrat,democrat,we earned about the same amount,1,0.0,
+2780,4287561,no preference,democrat,partner earned more,0,1.0,0.0
+2781,4288421,republican,republican,i earned more,1,1.0,1.0
+2782,4289621,republican,republican,i earned more,1,1.0,1.0
+2783,4290441,republican,republican,i earned more,1,1.0,1.0
+2784,4291361,republican,republican,partner earned more,1,1.0,0.0
+2785,4293435,democrat,democrat,we earned about the same amount,1,0.0,
+2786,4295471,independent,republican,i earned more,0,1.0,1.0
+2787,4297541,no preference,democrat,partner earned more,0,1.0,0.0
+2788,4299381,democrat,democrat,i earned more,1,1.0,1.0
+2789,4300261,democrat,democrat,i earned more,1,1.0,1.0
+2790,4302361,democrat,democrat,i earned more,1,1.0,1.0
+2791,4305691,republican,republican,partner earned more,1,1.0,0.0
+2792,4306371,no preference,democrat,i earned more,0,1.0,1.0
+2793,4307423,no preference,other,partner earned more,0,1.0,0.0
+2794,4308551,democrat,democrat,partner earned more,1,1.0,0.0
+2795,4312325,republican,republican,i earned more,1,1.0,1.0
+2796,4313491,democrat,democrat,i earned more,1,1.0,1.0
+2797,4314411,independent,republican,i earned more,0,1.0,1.0
+2798,4315281,democrat,democrat,i earned more,1,1.0,1.0
+2799,4316396,republican,democrat,partner earned more,0,1.0,0.0
+2800,4317556,no preference,democrat,partner earned more,0,1.0,0.0
+2801,4318573,republican,republican,partner earned more,1,1.0,0.0
+2802,4319416,no preference,republican,we earned about the same amount,0,0.0,
+2803,4320771,refused,other,partner earned more,0,1.0,0.0
+2804,4321381,independent,democrat,partner earned more,0,1.0,0.0
+2805,4322543,democrat,democrat,partner earned more,1,1.0,0.0
+2806,4324731,republican,republican,partner earned more,1,1.0,0.0
+2807,4325255,independent,democrat,i earned more,0,1.0,1.0
+2808,4328571,democrat,democrat,i earned more,1,1.0,1.0
+2809,4329541,democrat,democrat,we earned about the same amount,1,0.0,
+2810,4330621,republican,republican,partner earned more,1,1.0,0.0
+2811,4331731,democrat,democrat,i earned more,1,1.0,1.0
+2812,4332581,independent,republican,i earned more,0,1.0,1.0
+2813,4333481,republican,republican,we earned about the same amount,1,0.0,
+2814,4334513,no preference,republican,i earned more,0,1.0,1.0
+2815,4335822,republican,republican,partner earned more,1,1.0,0.0
+2816,4340431,republican,democrat,i earned more,0,1.0,1.0
+2817,4343316,no preference,democrat,i earned more,0,1.0,1.0
+2818,4344621,republican,republican,i earned more,1,1.0,1.0
+2819,4346371,independent,republican,i earned more,0,1.0,1.0
+2820,4349761,democrat,democrat,partner earned more,1,1.0,0.0
+2821,4350661,republican,republican,i earned more,1,1.0,1.0
+2822,4353411,independent,republican,i earned more,0,1.0,1.0
+2823,4354641,democrat,republican,we earned about the same amount,0,0.0,
+2824,4355611,no preference,republican,i earned more,0,1.0,1.0
+2825,4356205,refused,republican,i earned more,0,1.0,1.0
+2826,4358431,republican,republican,partner earned more,1,1.0,0.0
+2827,4359391,independent,democrat,i earned more,0,1.0,1.0
+2828,4360494,democrat,democrat,partner earned more,1,1.0,0.0
+2829,4361581,republican,republican,partner earned more,1,1.0,0.0
+2830,4362533,no preference,democrat,i earned more,0,1.0,1.0
+2831,4364852,republican,republican,partner earned more,1,1.0,0.0
+2832,4365483,democrat,democrat,we earned about the same amount,1,0.0,
+2833,4366752,democrat,democrat,partner earned more,1,1.0,0.0
+2834,4367541,independent,democrat,we earned about the same amount,0,0.0,
+2835,4368281,democrat,democrat,partner earned more,1,1.0,0.0
+2836,4370581,republican,republican,partner earned more,1,1.0,0.0
+2837,4371446,independent,democrat,i earned more,0,1.0,1.0
+2838,4372371,democrat,democrat,partner earned more,1,1.0,0.0
+2839,4377571,democrat,democrat,partner earned more,1,1.0,0.0
+2840,4378411,republican,republican,i earned more,1,1.0,1.0
+2841,4379691,democrat,democrat,partner earned more,1,1.0,0.0
+2842,4380441,republican,republican,i earned more,1,1.0,1.0
+2843,4381301,independent,democrat,partner earned more,0,1.0,0.0
+2844,4382215,democrat,republican,we earned about the same amount,0,0.0,
+2845,4384351,no preference,republican,i earned more,0,1.0,1.0
+2846,4386461,no preference,republican,i earned more,0,1.0,1.0
+2847,4387521,democrat,democrat,i earned more,1,1.0,1.0
+2848,4388561,republican,republican,partner earned more,1,1.0,0.0
+2849,4390521,no preference,democrat,we earned about the same amount,0,0.0,
+2850,4393942,independent,other,i earned more,0,1.0,1.0
+2851,4394621,republican,republican,i earned more,1,1.0,1.0
+2852,4395551,republican,republican,i earned more,1,1.0,1.0
+2853,4398711,republican,republican,i earned more,1,1.0,1.0
+2854,4399291,democrat,democrat,partner earned more,1,1.0,0.0
+2855,4401631,republican,republican,i earned more,1,1.0,1.0
+2856,4402581,republican,republican,partner earned more,1,1.0,0.0
+2857,4403543,democrat,democrat,i earned more,1,1.0,1.0
+2858,4405615,republican,republican,we earned about the same amount,1,0.0,
+2859,4406731,democrat,democrat,partner earned more,1,1.0,0.0
+2860,4408851,democrat,democrat,i earned more,1,1.0,1.0
+2861,4409781,republican,republican,we earned about the same amount,1,0.0,
+2862,4411536,democrat,democrat,we earned about the same amount,1,0.0,
+2863,4412621,democrat,democrat,we earned about the same amount,1,0.0,
+2864,4413493,independent,republican,refused,0,,
+2865,4414276,no preference,democrat,partner earned more,0,1.0,0.0
+2866,4415551,republican,republican,partner earned more,1,1.0,0.0
+2867,4418316,democrat,democrat,partner earned more,1,1.0,0.0
+2868,4420303,"another party, please specify",democrat,we earned about the same amount,0,0.0,
+2869,4423471,democrat,republican,i earned more,0,1.0,1.0
+2870,4425361,democrat,republican,partner earned more,0,1.0,0.0
+2871,4426401,independent,republican,partner earned more,0,1.0,0.0
+2872,4427246,no preference,other,partner earned more,0,1.0,0.0
+2873,4431503,democrat,republican,i earned more,0,1.0,1.0
+2874,4432576,independent,democrat,i earned more,0,1.0,1.0
+2875,4433411,no preference,democrat,we earned about the same amount,0,0.0,
+2876,4434531,independent,republican,i earned more,0,1.0,1.0
+2877,4435215,republican,republican,we earned about the same amount,1,0.0,
+2878,4436663,independent,democrat,partner earned more,0,1.0,0.0
+2879,4438365,no preference,democrat,partner earned more,0,1.0,0.0
+2880,4441245,independent,republican,i earned more,0,1.0,1.0
+2881,4442531,democrat,democrat,partner earned more,1,1.0,0.0
+2882,4443431,republican,republican,i earned more,1,1.0,1.0
+2883,4444421,no preference,republican,partner earned more,0,1.0,0.0
+2884,4445475,democrat,democrat,partner earned more,1,1.0,0.0
+2885,4446591,democrat,democrat,partner earned more,1,1.0,0.0
+2886,4448661,republican,republican,partner earned more,1,1.0,0.0
+2887,4450326,no preference,democrat,partner earned more,0,1.0,0.0
+2888,4451663,democrat,democrat,i earned more,1,1.0,1.0
+2889,4452631,democrat,democrat,we earned about the same amount,1,0.0,
+2890,4454501,independent,republican,i earned more,0,1.0,1.0
+2891,4455231,no preference,republican,partner earned more,0,1.0,0.0
+2892,4458611,no preference,republican,i earned more,0,1.0,1.0
+2893,4459513,republican,democrat,i earned more,0,1.0,1.0
+2894,4461626,democrat,democrat,i earned more,1,1.0,1.0
+2895,4463541,republican,republican,partner earned more,1,1.0,0.0
+2896,4464341,no preference,democrat,partner earned more,0,1.0,0.0
+2897,4466314,democrat,democrat,partner earned more,1,1.0,0.0
+2898,4467381,democrat,democrat,partner earned more,1,1.0,0.0
+2899,4468731,democrat,democrat,we earned about the same amount,1,0.0,
+2900,4469225,democrat,democrat,we earned about the same amount,1,0.0,
+2901,4470571,independent,republican,i earned more,0,1.0,1.0
+2902,4472726,republican,republican,i earned more,1,1.0,1.0
+2903,4473641,democrat,democrat,partner earned more,1,1.0,0.0
+2904,4475235,independent,republican,we earned about the same amount,0,0.0,
+2905,4478431,republican,republican,we earned about the same amount,1,0.0,
+2906,4482311,democrat,democrat,i earned more,1,1.0,1.0
+2907,4483651,republican,republican,i earned more,1,1.0,1.0
+2908,4484215,democrat,republican,i earned more,0,1.0,1.0
+2909,4486613,"another party, please specify",republican,we earned about the same amount,0,0.0,
+2910,4487636,democrat,democrat,i earned more,1,1.0,1.0
+2911,4488225,republican,democrat,i earned more,0,1.0,1.0
+2912,4489454,democrat,democrat,refused,1,,
+2913,4490391,republican,democrat,partner earned more,0,1.0,0.0
+2914,4491286,democrat,democrat,partner earned more,1,1.0,0.0
+2915,4493631,democrat,democrat,i earned more,1,1.0,1.0
+2916,4494331,republican,republican,i earned more,1,1.0,1.0
+2917,4497666,democrat,democrat,i earned more,1,1.0,1.0
+2918,4500533,democrat,democrat,i earned more,1,1.0,1.0
+2919,4501611,democrat,democrat,i earned more,1,1.0,1.0
+2920,4503551,democrat,democrat,i earned more,1,1.0,1.0
+2921,4507671,democrat,democrat,i earned more,1,1.0,1.0
+2922,4508395,independent,democrat,i earned more,0,1.0,1.0
+2923,4509413,democrat,democrat,partner earned more,1,1.0,0.0
+2924,4510741,democrat,democrat,i earned more,1,1.0,1.0
+2925,4511465,democrat,democrat,i earned more,1,1.0,1.0
+2926,4512276,democrat,republican,i earned more,0,1.0,1.0
+2927,4514371,no preference,democrat,partner earned more,0,1.0,0.0
+2928,4516421,republican,republican,partner earned more,1,1.0,0.0
+2929,4517611,republican,democrat,i earned more,0,1.0,1.0
+2930,4518554,no preference,other,partner earned more,0,1.0,0.0
+2931,4519351,republican,republican,partner earned more,1,1.0,0.0
+2932,4520291,republican,republican,i earned more,1,1.0,1.0
+2933,4521281,no preference,democrat,partner earned more,0,1.0,0.0
+2934,4523603,no preference,democrat,partner earned more,0,1.0,0.0
+2935,4524561,democrat,democrat,partner earned more,1,1.0,0.0
+2936,4525621,no preference,republican,partner earned more,0,1.0,0.0
+2937,4526441,republican,republican,partner earned more,1,1.0,0.0
+2938,4528265,democrat,democrat,refused,1,,
+2939,4529391,no preference,republican,i earned more,0,1.0,1.0
+2940,4530271,republican,democrat,partner earned more,0,1.0,0.0
+2941,4531301,independent,republican,i earned more,0,1.0,1.0
+2942,4532215,no preference,democrat,i earned more,0,1.0,1.0
+2943,4533583,democrat,democrat,we earned about the same amount,1,0.0,
+2944,4535581,democrat,democrat,we earned about the same amount,1,0.0,
+2945,4536841,republican,republican,partner earned more,1,1.0,0.0
+2946,4537711,democrat,democrat,partner earned more,1,1.0,0.0
+2947,4540205,democrat,democrat,partner earned more,1,1.0,0.0
+2948,4541251,no preference,republican,partner earned more,0,1.0,0.0
+2949,4542311,republican,republican,partner earned more,1,1.0,0.0
+2950,4543451,democrat,democrat,i earned more,1,1.0,1.0
+2951,4544235,democrat,republican,i earned more,0,1.0,1.0
+2952,4545406,republican,republican,i earned more,1,1.0,1.0
+2953,4546401,democrat,democrat,i earned more,1,1.0,1.0
+2954,4548516,no preference,democrat,i earned more,0,1.0,1.0
+2955,4550281,no preference,democrat,we earned about the same amount,0,0.0,
+2956,4551255,republican,democrat,i earned more,0,1.0,1.0
+2957,4553431,republican,republican,partner earned more,1,1.0,0.0
+2958,4554371,democrat,democrat,partner earned more,1,1.0,0.0
+2959,4556543,no preference,republican,i earned more,0,1.0,1.0
+2960,4557505,independent,republican,i earned more,0,1.0,1.0
+2961,4558443,no preference,democrat,partner earned more,0,1.0,0.0
+2962,4560291,republican,democrat,partner earned more,0,1.0,0.0
+2963,4561581,democrat,democrat,partner earned more,1,1.0,0.0
+2964,4562195,no preference,republican,we earned about the same amount,0,0.0,
+2965,4563631,independent,democrat,partner earned more,0,1.0,0.0
+2966,4564771,independent,republican,i earned more,0,1.0,1.0
+2967,4565321,democrat,democrat,partner earned more,1,1.0,0.0
+2968,4566501,republican,republican,partner earned more,1,1.0,0.0
+2969,4568663,republican,democrat,we earned about the same amount,0,0.0,
+2970,4570401,republican,republican,i earned more,1,1.0,1.0
+2971,4571335,democrat,democrat,i earned more,1,1.0,1.0
+2972,4572586,democrat,democrat,we earned about the same amount,1,0.0,
+2973,4573611,republican,republican,we earned about the same amount,1,0.0,
+2974,4575421,democrat,democrat,partner earned more,1,1.0,0.0
+2975,4576481,republican,republican,partner earned more,1,1.0,0.0
+2976,4579466,independent,republican,i earned more,0,1.0,1.0
+2977,4581721,democrat,democrat,i earned more,1,1.0,1.0
+2978,4582532,democrat,democrat,partner earned more,1,1.0,0.0
+2979,4583501,republican,republican,partner earned more,1,1.0,0.0
+2980,4588291,independent,republican,i earned more,0,1.0,1.0
+2981,4590661,no preference,republican,partner earned more,0,1.0,0.0
+2982,4591396,republican,democrat,we earned about the same amount,0,0.0,
+2983,4592421,independent,democrat,i earned more,0,1.0,1.0
+2984,4593421,republican,republican,partner earned more,1,1.0,0.0
+2985,4596491,democrat,democrat,partner earned more,1,1.0,0.0
+2986,4597381,democrat,democrat,i earned more,1,1.0,1.0
+2987,4598275,democrat,democrat,partner earned more,1,1.0,0.0
+2988,4599246,no preference,democrat,i earned more,0,1.0,1.0
+2989,4601511,republican,republican,partner earned more,1,1.0,0.0
+2990,4602424,democrat,democrat,partner earned more,1,1.0,0.0
+2991,4603581,independent,democrat,partner earned more,0,1.0,0.0
+2992,4605321,democrat,republican,i earned more,0,1.0,1.0
+2993,4607235,democrat,democrat,i earned more,1,1.0,1.0
+2994,4608683,no preference,democrat,partner earned more,0,1.0,0.0
+2995,4609371,independent,democrat,i earned more,0,1.0,1.0
+2996,4610625,democrat,democrat,we earned about the same amount,1,0.0,
+2997,4611531,republican,republican,partner earned more,1,1.0,0.0
+2998,4612421,democrat,democrat,partner earned more,1,1.0,0.0
+2999,4613511,democrat,republican,i earned more,0,1.0,1.0
+3000,4614621,republican,republican,partner earned more,1,1.0,0.0
+3001,4617335,democrat,democrat,we earned about the same amount,1,0.0,
+3002,4618291,republican,republican,partner earned more,1,1.0,0.0
+3003,4619421,republican,republican,i earned more,1,1.0,1.0
+3004,4621371,democrat,democrat,i earned more,1,1.0,1.0
+3005,4622461,democrat,republican,partner earned more,0,1.0,0.0
+3006,4626536,democrat,democrat,partner earned more,1,1.0,0.0
+3007,4627251,independent,democrat,i earned more,0,1.0,1.0
+3008,4628251,independent,democrat,i earned more,0,1.0,1.0
