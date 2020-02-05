@@ -1,0 +1,243 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+        integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- <link  href="netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap.min.css" rel="stylesheet"> -->
+    <!-- <link rel="stylesheet" href="styles.css"> -->
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"> -->
+    <title>Love Fortune Teller</title>
+</head>
+
+<body id="questions">
+    <header>
+        <ul class="nav nav-tabs justify-content-end">
+            <li class="nav-item">
+                <a class="nav-link" href="couple_input.html">Home</a>
+            </li>
+            <!-- <li class="nav-item">
+                <a class="nav-link" href="results.html">Results</a>
+            </li> -->
+            
+        </ul>
+    </header>
+    <div class="jumbotron jumbotron-fluid">
+        <div class="container justify-content-center text-center align-items-center qtext background">
+            <h1 class="display-4">Want to know how long your relationship will last?</h1>
+            <p class="lead">Fill out the form and find out</p>
+        </div>
+    </div>
+    <form action="{{predict}}" method="post"> 
+    <div class="container-fluid qtext questionairre">
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>How many children are in your household?</p>
+                <input type="number" name="children_in_hh">
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>What is the age difference between you and your partner?</p>
+                <input type="number" name="age_difference">
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Are you the same race as your partner?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="race" value ="1" id="same_race">
+                <label for="same_race">Yes (Same Race)</label>
+                <input type="checkbox" name='race' value="0" id="diff_race">
+                <label for="diff_race">No (Different Race)</label>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Are you the same religion as your partner?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="religion" value ="1" id="same_religion">
+                <label for="same_religion">Yes (Same Religion)</label>
+                <input type="checkbox" name="religion" value ="0" id="diff_religion">
+                <label for="diff_religion">No (Different Religion)</label>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Do you and your partner have a difference in education? How many years?</p>
+                <input type="number" name="edu_gap">
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Are you currently married to your partner?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="married" value ="1" id="yes_married">
+                <label for="yes_married">Yes</label>
+                <input type="checkbox" name="married" value ="1" id="no_married">
+                <label for="no_married">No</label>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Are you in a same-sex relationship?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="same_sex" value ="0" id="yes_same">
+                <label for="yes_same">Yes (Same Sex)</label>
+                <input type="checkbox" name="same_sex" value ="1" id="no_same">    
+                <label for="no_same">No (Different Sex)</label>
+                </select>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Do your parents approve of your relationship?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="parent_approve" value ="1" id="yes_approve">
+                <label for="yes_approve">Yes</label>
+                <input type="checkbox" name="parent_approve" value ="0" id="no_approve">    
+                <label for="no_approve">No</label>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>How old were you when you met your partner?</p>
+                <input type="number" name="age_when_met">
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>How many people are in your immediate family?</p>
+                <input type="number" name="family_size">
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>What region are you from?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="region" value ="3" id="northeast">
+                <label for="northeast">Northeast</label>
+                <input type="checkbox" name="region" value ="2" id="midwest">
+                <label for="midwest">Midwest</label>
+                <input type="checkbox" name="region" value ="0" id="south">
+                <label for="south">South</label>
+                <input type="checkbox" name="region" value ="1" id="west">
+                <label for="west">West</label>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Do you live in a city?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="metro" value ="1" id="yes_metro">
+                <label for="yes_metro">Yes</label>
+                <input type="checkbox" name="metro" value ="0" id="no_metro">
+                <label for="no_metro">No</option>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Do you and your partner belong to the same political party?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="politics" value ="1" id="same_party">
+                <label for="same_party">Yes (Same Political Party)</label>
+                <input type="checkbox" name="politics" value ="0" id="diff_party">
+                <label for="diff_party">No (Different Political Party)</label>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>Do you and your partner make roughly the same amount of money?</p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="income" value ="0" id="same_income">
+                <label for="same_income">Yes (Same income)</label>
+                <input type="checkbox" name="income" value ="1" id="diff_income">
+                <label for="diff_income">No (Different income)</label>
+            </div>
+        </div>
+        <div class="row justify-content-md-center question_margin">
+            <div class="col-6">
+                <p>
+                    Where did you meet? (Choose the best answer)
+                </p>
+            </div>
+        </div>
+        <div class="row justify-content-md-center">
+            <div class="col-6">
+                <input type="checkbox" name="met" value ="0" id="online">
+                <label for="online">Met Online</label>
+                <input type="checkbox" name="met" value ="1" id="work">
+                <label for="work">Met at Work</label>
+                <input type="checkbox" name="met" value ="2" id="school">
+                <label for="school">Met at School</label>
+                <br>
+                <input type="checkbox" name="met" value ="3" id="church">        
+                <label for="church">Met at Church</label>
+                <input type="checkbox" name="met" value ="4" id="travel">        
+                <label for="travel">Met While Traveling</label>
+                <br> 
+                <input type="checkbox" name="met" value ="5" id="social"> 
+                <label for="social">Met at a Social Organization (i.e. gym, volunteer org)
+                </label>
+                <br>   
+                <input type="checkbox" name="met" value ="6" id="party">
+                <label for="party">Met at a Private Party</label>
+                <input type="checkbox" name="met" value ="7" id="ff">        
+                <label for="ff">Met through family and friends</label>   
+                <br>
+                <input type="checkbox" name="met" value ="8" id="neighbors">        
+                <label for="neighbors">Met as neighbors</label>
+                <input type="checkbox" name="met" value ="11" id="other">        
+                <label for="other">Other</label>
+                <br>
+                <input type="checkbox" name="met" value ="9" id="public">        
+                <label for="public">Met at bar/restaurant or other gathering place</label>
+            </div>
+        </div>
+    <div class="row justify-content-md-center">
+    <input class="btn btn-primary my-2" id="btn2" type="submit" value="Submit">
+    </div>
+    </form>
+    </div>
+    
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"
+        crossorigin="anonymous"></script>
+    <script src="../static/css/styles.js"></script>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <!-- RR added, probably wrong -->
+    <!-- <script src="{{ url_for('static', filename='css/styles.js') }}"></script> -->
+</body>
+
+</html>
