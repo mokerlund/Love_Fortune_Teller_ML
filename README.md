@@ -23,3 +23,10 @@ Waves 2-6 - Follow up on if the couple is still together, how they broke up if n
 ![Top of page](Images/top_page.jfif)
 ![Middle of page](Images/mid_page2.jfif)
 ![Bottom of page](Images/bottom_page.jfif)
+
+## The Results
+Possible results for length are: less than 10 years, 10 to 18 years, 18 to 30 years, and more than 30 years.
+Each option corresponds to the given quartile provided by the model.
+
+Possible results for quality are: excellent, good, fair, poor, and very poor.
+Each option is directly taken from the model.
