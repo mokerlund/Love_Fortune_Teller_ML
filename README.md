@@ -10,7 +10,9 @@ Using the features we choose through step one, we will train a model to predict 
 We will have a questionnaire to capture info to feed into the model based on user input.  The output (relationship length category) will be shown on the same page.
 
 ## Team Members:
-Elle, Megan, Amanda,
+* Elle Xie (github.com/bestelle6256)
+* Megan Okerlund (github.com/mokerlund)
+* Amanda Withrow (github.com/amandawithrow)
 ## Data Used:
 We took data from a survey started in 2009 and continued in waves of every year for six years. In 2017, there was another singular (unrelated) survey done with new couples about how they got together that included new topics, such as going more in-depth about online meeting. 
 2009 research survey (Wave 1) - Comprehensive, No online meeting data included [Questionnaire File: Relationship_survey.sqlite] [Demographic File: HCMST.sqlite]
