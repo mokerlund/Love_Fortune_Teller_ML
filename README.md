@@ -20,3 +20,6 @@ Waves 2-6 - Follow up on if the couple is still together, how they broke up if n
 2017 Survey Data - Comprehensive, Includes online meeting info (Currently uncleaned and unused)
 
 ## The Website
+![Top of page](Images/top_page.jfif)
+![Middle of page](Images/mid_page2.jfif)
+![Bottom of page](Images/bottom_page.jfif)
