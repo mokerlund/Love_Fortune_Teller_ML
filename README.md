@@ -1,6 +1,11 @@
 # Love Fortune Teller Machine Learning: Relationship Length and Quality Predictor
-## Background:
 
+## Prerequisite Projects:
+Our two previous projects prepared the data. They are:
+* ETL- Extract, Transform, Load  (https://github.com/mokerlund/ETL-project)
+* Love Fortune Teller (https://github.com/mokerlund/Love_Fortune_Teller)
+
+## Background:
 We utilize a social science study, How Couples Meet and Stay Together (HCMST), conducted by Stanford University to analyze whether how people meet their partners have an impact on how long the relationships last. The study documented longitudinally over 4,000 adults in American the way they met their partners, their perceived quality of their relationships, and when/if the relationships ended over a course of 8 years. Using this data, we can allow users to input their own data and use a machine learning model to predict whether their relationship will last a short, mid, or long time.
 ### Step 1: Determining the most important features
 We will use random forests and the data to figure out what the most important features are to classify relationships into the different categories.  We will use this to determine the features we want to include for step 2.
